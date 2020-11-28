@@ -1,5 +1,4 @@
 
-/Users/work/Desktop/Github/104-Recruit-Comprehensive-Analysis/104fig.png
 ![image](https://github.com/jazzypan/104-Recruit-Comprehensive-Analysis/blob/main/104fig.png)
 # 104-Recruit-Comprehensive-Analysis
 This project aim to deliver a comprehensive analysis for data-related jobs in Taiwan. 
