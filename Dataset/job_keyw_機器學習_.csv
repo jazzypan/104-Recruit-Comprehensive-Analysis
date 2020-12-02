@@ -1,0 +1,415 @@
+公司代碼,工作代碼,工作名稱,工資待遇,工資待遇(最低),工資待遇(最高),工作性質,工作敘述,需求人數,經驗要求,學歷要求,科系要求,語文條件,語言能力,擅長工具,工作技能,其他條件,應徵人數,經度,緯度
+10ww9gpk,6s7d4,"【桃園/台中廠擴大招募】Data Engineer/ SR Data Engineer, Smart MFG & AI",待遇面議,0,0,資料庫管理人員/其他資訊專業人員,"As a Senior Data Engineer at Micron Technology Inc., you will be a key member of our Technology Solutions group within the Smart Manufacturing and Artificial Intelligence organization. The Data Engineering team works closely with Micron’s business functions(Domain expert, Data Scientist..etc) in all aspects of data, like Connect and automate the pipelines, provide data as products building data lake, data warehouse and data mart, and data cleansing and data governance developing Big data engineering, Machine Learning and advanced analytics solutions. We are looking for individuals with strong experience in Big Data and Cloud Datawarehouse technologies. This role will work primarily with Big Data technologies like Hadoop, Cloud data warehouse like Snowflake and GCP, ETL skills like Ni-Fi, Monitoring solutions such as Splunk, automation and machine learning using Python.
+ 
+You will ensure critical projects as well as higher level production support are delivered with high quality and collaboration with internal Micron team members.
+ 
+Responsibilities and Tasks      
+•	Clarify project requirements and deliverables
+•	Collaborate with Key project partners, Solution analyst and Architect on project needs and translate requirements into technical needs
+•	Identify and understand the data sources that are relevant for analysis   
+•	Become a subject matter expert in company data sources and visualization options 
+•	Consolidate the requirements and using data engineering skills to design a robust DataMart 
+•	Participate in design, architecture review and deployment of Big data and cloud data warehouse solutions
+•	Design for automation and monitoring mechanism in a continuous integration environment 
+•	Implement solutions that eliminate or minimize technical debt through a well-designed architecture, data model, and lifecycle
+•	Bring together and share best-practice knowledge among the data engineering community
+•	Work with OPS team through operational issues, escalations and resolve business partner issues in a timely manner with strong collaboration and care for business priorities.
+•	Collaborate with business partners and other teams to ensure data solutions are available, recover from failures and operate healthy
+ 
+What we are looking for:
+•	B.S. degree and above in Computer Science or related fields (Information Engineering, Information Management, Data engineering, Applied Mathematics) 
+•	3+ years of experience working with Big Data Solutions development
+•	3+ years using ETL tools (NiFi, Informatica, SSIS, Spark…etc) 
+•	3+ years developing with relational databases (MS SQL, Oracle, MySQL…etc) 
+•	1+ years developing with Machine Learning, Data Analysis Knowledge/Skills
+•	Strong application development skills and proficiency with Python, Java, Base shell, SQL…etc 
+•	Strong developing applications with Hadoop Eco. Such as Hive, Spark, Kafka, HBase
+•	Experience with Cloud services such as GCP, AWS, Snowflake
+•	Experience with designing data monitoring dashboards by using Splunk, Tableau or any others visualization tools
+•	Experience with web-applications/technologies development and deployment (RESTful services, Flask, Django, SpringBoot and ASP.net…etc)
+•	Knowledge about container services such as Docker, Kubernetes, OpenShift is a plus
+•	A passion for data and information with strong analytical, problem solving, and organizational skills
+•	The ability to work in a dynamic, fast-paced, work environment
+•	Self-motivated with the ability to work under minimal supervision
+•	On-call support for escalated ticketing handling is expected for customer service 
+•	Good communication skills in English or TOEIC 650 and above",不限,3年以上,大學以上,資訊管理相關/資訊工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,***請務必至本公司職缺網站https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=225421&company=micron 應徵本職缺，並附上英文履歷/自傳。謝謝。 ***,11~30人應徵,121.3736985,25.0383964
+1a2x6blah2,70gbv,NLP資料科學家/NLP Data Scientist,"年薪1,600,000~2,500,000元",1600000,2500000,軟體設計工程師/演算法開發工程師/其他資訊專業人員,"* Role Description *
+We are looking for NLP Data Scientists who are interested in building an intelligence service for professional workers with our growing team worldwide. The service can organize knowledge from massive documents and external data sources and draft reports from organized knowledge for professional workers. 
+
+This is a leadership role. You have to lead data engineers and collaborate with other teams. This role requests creation, innovation, and originality.
+
+* Responsibilities *
+1. Research and evaluate pioneering machine learning and statistical models
+2. Use machine learning and analytical techniques to build prediction models for document intelligence solutions.
+3. Design, develop, and test advanced models for predictive user behaviors
+4. Design efficient, scalable, automated processes for large scale data analyses, model development, model validation, and model implementation
+5. Cooperate with engineering teams to provide solutions with machine learning techniques
+6. Cooperate with project managers to create new features with the benefits of machine learning techniques
+
+* Minimum qualifications *
+1. Master degree in Computer Science, related technical field, or equivalent practical experience
+2. At least five years of relevant experience in NLP (natural-language processing)
+3. Experience with one general-purpose programming language (e.g., Python, Java, C/C++)
+4. Experience in algorithms and libraries of NLP 
+5. Excellent documentation, communication, organizational, and analytical skills
+6. Experience in data processing of textual and numerical data
+7. Experience with Linux/Unix environments and containers
+8. Self-motivated and responsive to multiple challenges in a fast-moving team environment
+
+* Preferred qualifications *
+1. Advanced degree in engineering or technical/scientific field of study
+2. Familiar with attention-based transformers NLP models and algorithms
+3. Experience building large scale distributed data analysis systems or applications
+4. Excellent documentation, communication, organizational, and analytical skills
+5. Experience in MLOps",1人,6年以上,碩士以上,一般數學相關/資訊工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,軟體工程系統開發/軟體程式設計/資料庫系統管理維護/資料庫程式設計,,0~5人應徵,120.677424,24.1731009
+1a2x6bkygn,6p2d6,機器學習工程師,待遇面議,0,0,演算法開發工程師/軟體相關專案管理師,"【工作內容】
+1. 功能模組程式碼優化與模組化。
+2. 使用者流程規劃，並配合系統需求將功能模組包裝成API進行整合串聯與測試。
+3. 協助系統驗證與文件撰寫。
+
+【需求條件】
+1. 擅長R或Python進行資料工程與演算法實作。
+2. 了解資料庫基本概念與系統開發流程。
+3. 具備跨領域合作實作開發經驗、出色的溝通能力和團隊合作能力。",1~3人,1年以上,碩士,統計學相關/資訊管理相關/工業工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Git/Python/R,,,6~10人應徵,120.9932316,24.7947253
+d6gs5o8,715c2,機器學習工程師_9566,"月薪30,000~50,000元",30000,50000,軟體設計工程師/通訊軟體工程師/韌體設計工程師,"Responsibilities:
+* Understanding business objectives of customers and eliciting requirements
+* Formulating real world problems into corresponding solvable abstract representations
+* Evaluating machine learning algorithms that are feasible to deal with a given problem
+* Developing and deploying machine learning / intelligent edge product into production
+* Integrating intelligent edge automation / machine vision systems
+* Tracking product performance in the field and driving continual performance improvements",3人,不拘,碩士,資訊工程相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C/C++/Python,,"Minimum Qualifications: * MS of Computer Science, Computer Engineering, Electrical Engineering, Mathematics or related fields * Programming experience with C/C++, python * Strong coding ability – you must be able to write clean, modular, efficient code * Machine learning development experience in computer vision (classification、object detection、segmentation)、reinforcement learning or related area * Experience in using machine learning frameworks (such as TensorFlow, PyTorch, MXnet, etc.) to build and train deep learning models  Preferred qualifications: * Experience in agile methodologies, test driven development and CI/CD flow *Initiative and willing to learn continuously * Data driven and analytical thinking * Ability to work in a team",11~30人應徵,121.4708016,25.1256271
+1a2x6bipks,7117g,【機器學習專案經理】Machine Learning Technical PM,"月薪70,000~100,000元",70000,100000,軟體相關專案管理師,"【你會在 Positive Grid 做些什麼】//- Control the workflow and processes of AI projects, roles and responsibilities in AI teams, and management of AI teams. /- Conceive and develop an AI strategy based on the music industry. /- Exceptional written and verbal communication skills. You can communicate complex concepts clearly and persuasively across disciplines and levels in the organization./- Conducting surveys on AI products and markets./- Effective prioritization of features that align with the best possible user and company value./- Provide leadership co-working with data scientist, data engineer, architect, and domain expert to develop a highly scalable machine learning framework./- Strong development coordination with a focus on Deep Learning, Tensorflow, NLP or other AI areas//【我們需要這樣的你】//- 5+ years experience in a software-related role./- A Masters Degree in Computer Science, mathematics or related fields./- Experience with AI/ML data and model governance, and complex security requirements.",1人,5年以上,碩士以上,,None,None,,,,11~30人應徵,121.520209,25.074204
+1a2x6bipks,71133,【機器學習主管】Machine Learning Manager,"月薪80,000~140,000元",80000,140000,軟體設計工程師/軟體專案主管,"【你會在 Positive Grid 做些什麼】//- 將 marketing, product 端不同 domain 的需求解構成技術目標/- 領導 machine learning RD, DSP 工程師, 以及 PM specialist 實現 one-man-band 以及其他音樂項目的使用情境/- 與 IT 以及 App 工程師合作 UX 與 data pipeline//【我們需要這樣的你】//- 熟悉 Tensorflow/keras 或 pytorch/- 3 年以上 Deep learning 學習與實作經驗/- 2 年以上機器學習相關產業溝通經驗 /- 2 年以上軟體開發主管經驗/- 熟悉 ML model 設計、訓練/- 資訊、電機、數學或相關科系碩士學歷/- 熟悉 colab 使用/- 對音樂作曲、生成、語音處理、樂音合成有經驗者 佳/- 熟悉 GAN、Transformer、VAE、BERT家族、GPT系列 等 佳/- 熟悉數位訊號處理 佳",1人,3年以上,大學以上,,None,None,,,,6~10人應徵,121.520209,25.074204
+bjl4o88,5xblu,【ML】Machine Learning Engineer / 機器學習工程師,"月薪55,000~142,000元",55000,142000,軟體設計工程師/演算法開發工程師/統計學研究員,"• Perform feature engineering, building and optimizing classifiers using machine learning techniques./• Data mining using state-of-the-art methods./• Design and implement software systems and tools for internal process automation based on data mining and machine learning techniques./• Design, implement, and operate data analytics platforms for business intelligence analysis./• Provide data insights and develop data intelligence solutions/reports for business decisions./• Work with other teams to assist with data-related technical issues and support their data infrastructure needs./• Evaluate and identify the use of new or existing software products and technologies./• Perform other duties as necessary.",1~2人,1年以上,大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"【MUST TO HAVE】 • Good experience with statistics skills, such as regression and classification. • Familiar with machine learning algorithms and techniques, such as k-NN, Naive Bayes, and SVM. • Familiar with deep learning algorithms and techniques, such as CNN, RNN, and LSTM. • Experience in reinforcement learning, time series, and generative models. • Good experience with data science toolkits, such as R, Python, Scikit-learn, Keras, and TensorFlow. • Good knowledge of SQL databases and database query languages. • Good experience with data cleaning, visualization, and reporting.  【NICE TO HAVE】 • Good skills in scripting and programming will be appreciated. • Experience with processing large, multi-dimensional datasets is a plus. • Experience with NoSQL is a plus.",30人以上應徵,121.5756608,25.074163
+1a2x6bjgac,4tswy,機器學習技術專家 (Machine Learning),待遇面議,0,0,演算法開發工程師/軟體設計工程師/Internet程式設計師,• 參與金融/互聯網/零售/健康醫療等行業的應用場景和解決方案的開發與創新。/• 結合行業及客戶實際面臨的業務問題，梳理有價值的可落地的場景和可行性技術，指導合作夥伴進行分析問題，梳理數據、建模、設計特徵方案和建模實施流程，輔助執行模型和解決方案的交付和上線。/• 結合行業經驗及竹間技術優勢，開發具有通用實踐價值的高級AI培訓和架構設計。,不限,2年以上,碩士以上,資訊工程相關/其他數學及電算機科學相關,None,None,,,1.碩士以上學歷，2年以上機器學習建模相關工作經驗。 2.有大型科技公司機器學習建模相關技術工作背景優先。 3.熟悉python、hive、spark，大量的數據分析處理經驗，有大數據處理相關優化經驗。 4.熟悉 AutoML 和機器學習深度學習模型算法。 5.熟練使用開源的建模工具（如scikit-learn/xgboost/lightgbm/tensorflow/keras等） 6.有較強的業務理解和問題分析能力，有良好的表達和演示能力，有較好的耐心輔導客戶轉型AI領域。 7.快速學習應用和創新的能力，注重底層技術和算法的鑽研。 8.有很強的執行例和團隊合作能力，有極強的分享意識。 9.優先面試經濟部工業局DIGI⁺ Talent計畫之結訓研習生(AI),0~5人應徵,121.5714316,25.0783711
+wi4quiw,6ztp9,機器學習數據應用開發工程師,待遇面議,0,0,軟體設計工程師/機電技師／工程師,1.智慧設備邊緣運算控制與數據整合、分析應用開發。/2.智慧工廠整廠設備自動化機聯與生產物流履歷追蹤系統開發。/3.設備故障診斷系統PHM偵測診斷模組開發。/4.先進製程控制(APC)整合系統平台開發。,1~2人,不拘,大學以上,電機電子工程相關/資訊工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C#/Python/MS SQL,,1.熟悉程式開發工具C#、Python、及資料庫(MSSQL、 SQLite、MySQL)應用經驗。 2.具AI、Machine Learning與數據分析整合應用開發經驗尤佳。 3.具半導體SECS/GEM自動化設備軟體協議標準導入開發佳。,6~10人應徵,121.2613482,24.9606144
+1a2x6bkirw,7015h,AI/機器學習研發工程師,"月薪32,000~38,000元",32000,38000,軟體設計工程師/軟體相關專案管理師/軟韌體測試工程師,"若您的邏輯清晰、具備運算思維能力，且對AI/機器學習很有興趣、嚮往以AI/機器學習相關開發工作為終身志業，但是還沒有相關工作經驗、甚至不是相關科系畢業但自學有成，都歡迎您來應徵這個職務。只要您有決心，我們會有Mentor引導您、讓您在實務工作中學習，成為用雙手創造改變的優秀研發工程師。
+
+要求:
+1. 具備機器學習與深度學習理論基礎
+2. 具備數值分析、統計學、線性代數相關概念
+3. 對於平行運算、分散式運算、叢集運算有基礎概念
+4. 分析結果可視化與解釋能力的相關經驗
+5. Python開發能力
+6. 良好的團隊合作與溝通能力",1~2人,不拘,專科、大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Python,,面試時請準備能展現自己程式實作或分析能力的作品,11~30人應徵,121.5720055,25.0409201
+wgyi22g,5uwqy,機器學習工程師 ( Machine Learning Engineer ),"月薪35,000~60,000元",35000,60000,演算法開發工程師/軟體設計工程師/韌體設計工程師,1. Linux / Bash 編程。/2. 針對現有模型或系統提出相對優化的方法。/3. 應用機器學習演算法於語音訊號/自然語言的分析。/4. 開發神經網路的預測模型。/5. 機器學習演算法的IC Porting。,不限,不拘,大學以上,資訊工程相關/電機電子工程相關/其他數學及電算機科學相關,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,C/C++/Python,,"Nice to have: 1. Familiar with speech signal processing, speech recognition. 2. Familiar with probabilistic graphical models. 3. Familiar with CNN, LSTM, Attention.",11~30人應徵,121.5482871,24.9727925
+1a2x6bl8e6,6yqe1,【ML】Machine Learning Engineer / 機器學習工程師,"月薪55,000~142,000元",55000,142000,軟體設計工程師/演算法開發工程師/統計學研究員,"‧ Perform feature engineering, building and optimizing classifiers using machine learning techniques. /‧ Data mining using state-of-the-art methods. /‧ Design and implement software systems and tools for internal process automation based on data mining and machine learning techniques. /‧ Design, implement, and operate data analytics platforms for business intelligence analysis. /‧ Provide data insights and develop data intelligence solutions/reports for business decisions. /‧ Work with other teams to assist with data-related technical issues and support their data infrastructure needs. /‧ Evaluate and identify the use of new or existing software products and technologies. /‧ Perform other duties as necessary. ",1~2人,1年以上,大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"【MUST TO HAVE】  ‧ Good experience with statistics skills, such as regression and classification.  ‧ Familiar with machine learning algorithms and techniques, such as k-NN, Naive Bayes, and SVM.  ‧ Familiar with deep learning algorithms and techniques, such as CNN, RNN, and LSTM.  ‧ Experience in reinforcement learning, time series, and generative models.  ‧ Good experience with data science toolkits, such as R, Python, Scikit-learn, Keras, and TensorFlow.  ‧ Good knowledge of SQL databases and database query languages.  ‧ Good experience with data cleaning, visualization, and reporting.   【NICE TO HAVE】  ‧ Good skills in scripting and programming will be appreciated.  ‧ Experience with processing large, multi-dimensional datasets is a plus.  ‧ Experience with NoSQL is a plus. ",11~30人應徵,121.5756608,25.074163
+cttnq60,71393,機器學習技術主管 Machine Learning Technical Lead,待遇面議,0,0,軟體專案主管/軟體設計工程師/演算法開發工程師,"- Design, develop, and modify machine learning algorithms in real-time products. 
+- Responsible for machine learning architecture design.
+- Analyst data to predict and measure outcome and consequences of the model.
+- Analyse user needs and software requirements to determine the feasibility of design within time and cost constraints.
+- Supervise member's technical performances.",1人,3年以上,碩士以上,數學及電算機科學學科類/工程學科類/商業及管理學科類,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Git/C#/Java/Python,Machine Learning,"- Master degree or PhD Degree in STEM. - 5+ years of experiences in software industry - 3+ years of experiences in the machine learning algorithm - Experiences in real-time product/massive data processing - Solid experience with machine learning technique, such as TensorFlow, PyTorch, etc - Leadership experience will be a plus",0~5人應徵,121.5612058,25.0344396
+1a2x6bl7y5,6yd49,ML / Data Engineer 機器學習與資料工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師/電腦系統分析師,"Data / ML talent are working with an incredibly innovative start-up, who have/developed AI solutions for different industries, are looking for Data / ML Engineer/to play an integral part with US AI and Data team. You'll be joining the development/of a robust platform and building and maintaining the data infrastructure, apply/ML/DL algorithms for various solutions that creates a platform and gives power to/Data Science, Machine Learning, Product, Marketing & Sales - this really is an/integral role in the business.//【What you'll do】 //- Implement Data Infrastructure/- Onsite visit (domestic and oversea) customers (large domestic or international/finance institute) to analyze their data for solution /- Developing data tools that support self-service data pipeline management (ETL)/- Apply graph analytics for extraction complicated implicit features/- Research and build mathematical / ML models to predict/- Work with software architect and developers to deliver solution//【Minimum Qualifications】 //- Entrepreneur spirit and autonomous /- Skillful in Python script /- Experience with scientific, NLP, or image analysis libraries (e.g. NumPY, SciPY,/Pandas, Scikit, NLTK, spaCY, OpenCV, Pillow, itk) /- Knowledge of graph database, graph analytics, and graph theory and algorithms /- Familiar with machine learning and deep learning algorithms, models, and training/tools like Tensorflow/- Deep and solid background of statistics and probability/- 1+ years of machine learning experience – preferably in real word problems/- Experience with feature engineering of graph analytics and various sources of/raw data /- Proven success in communicating with users to understand requirements, explain/data modeling decisions and data engineering strategy /- Jupyter and pip development and maintenance /- Experience in ETL or Big Data analysis for data aggregation, cleanness, and/normalization for features extraction /- 英語讀寫能力 /- 熟悉一種關聯式資料庫以上: Oracle, MS SQL server, MySQL/MariaDB, PostgreSQL //【Plus】 //- Dealt with data in BFSI (Bank/Finance Service/Insurance), medical industry before /- Experience working closely with Engineering, Product, and Analytics/Data Science/teams /- Experience in other object oriented programming like C++, Java, go with OOD /- Experience with modern ETL tools /- Experience with modern DWH environments /- Masters or PhD in computer science, mathematics, statistics, economics, or other/quantitative field //【 Others】 //- Team player and collaboration /- Analytical and detail oriented /- Attitude of can do and solve problem independently",1~2人,2年以上,大學以上,,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,,,,11~30人應徵,121.5580009,25.0456166
+1a2x6bkynt,70c95,機器學習演算法工程師 Machine Learning Algorithm Engineer,待遇面議,0,0,演算法開發工程師/軟體設計工程師/其他資訊專業人員,"Job Description
+1.  設計和建構基於 Artificial Intelligence (AI, 人工智慧) / Machine Learning (ML, 機器學習) / Deep Learning (DL, 深度學習) 演算法的系統平台。
+2.  運用推薦系統/ Text Mining / Geomatics Analysis / 影像辨識演算法，協助公司開發相關應用與整合。
+3. 負責模型訓練、框架與參數調整。
+4. 與 IT 溝通與協作資料分析系統建立。
+
+
+Qualifications & Education Requirements
+1. 資訊工程 / 電機工程等資訊科學相關領域碩士以上學位。
+2. 碩士論文需與資料科學領域相關或曾發表過相關期刊文章。
+3. 具備良好的閱讀國際期刊之能力。
+
+
+Preferred Skills
+1. 具備高效率的 Python / C / C++ 等編寫程式實現演算法。
+2. 擅長推薦系統 / Geomatics Analysis / 影像辨識 / NLP / Text Mining 至少一種以上的演算法開發。
+3. 至少熟悉一種主流 DL 框架 / ML 演算法，包含但不限於 TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlib。
+4. 具任一雲端平台 ( AWS / GCP / Azure) 與 Spark / Hadoop / PySpark 專案運算經驗。
+5. 能熟練操作 RDBMS, NoSQL。
+6. 擅長團隊合作且具獨立解決問題的能力。",1人,2年以上,碩士以上,,英文,聽 /中等、說 /中等、讀 /精通、寫 /精通,Python/hadoop,Machine Learning,1. 主動積極且熱衷資料科學應用，願意學習新，成為公司的資料科學家。 2. 擅長撰寫乾淨且有效率的程式碼。 3. 投遞職缺請一併附上論文、發表之期刊或不限形式之作品集。,6~10人應徵,121.3879686,25.0514981
+1a2x6bjh37,5xjc4,機器學習研發工程師,待遇面議,0,0,演算法開發工程師/軟體設計工程師,工作內容：/1. 將深度學習應用於影像辨識/2. 表面瑕疵檢測系統開發/,1~2人,不拘,碩士以上,資訊工程相關/其他數學及電算機科學相關/數理統計相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Java/Python/R,,其他條件： 1. 熟悉機器學習與深度學習 2. 熟悉影像處理 3. 熟悉資料分析 ,6~10人應徵,120.6233404,24.2167222
+1a2x6bi7wq,61rxb,Computer Vision/Machine Learning Researcher 電腦視覺與機器學習研究員,"月薪60,000~140,000元",60000,140000,軟體設計工程師/演算法開發工程師/其他資訊專業人員,"Alfred Camera is a mobile application which turns your old, unused smartphones into home security cameras. Alfred's mission is to provide accessible security for everyone. As the most trusted brand in this area, our apps have achieved more than 20M downloads with Android/iOS combined and manages to acquire exceptional user ratings on both platforms. We are determined to create the product with first-class user experiences together with best performance and stability.
+  
+  
+【 Your role 】
+We are currently looking for skilled, experienced and passionate engineers to support and facilitate the productization of computer-vision and deep-learning technologies. If you think you are the right guy, please don't hesitate and join us!
+  
+【 Your Responsibility 】
+In this job, you will be responsible for:
+- Participate in the productization activities involves computer vision related technologies
+- Develop algorithms to fulfill product requirements
+- Debug issues in graphics pipeline and optimize execution performance on devices
+- Analyze the data collected to locate potential product issues
+- Train/Fine-tune machine learning models to meet productization accuracy/performance requirements
+- Build prototypes or proof-of-concepts demos on simulated or mobile environments
+- Evaluate new technologies/models/services with productization potentials
+- Co-work with other teams to facilitate the adoption of related technologies within the company",1人,2年以上,大學以上,工程學科類/數學及電算機科學學科類,None,None,C/Python,系統整合分析/軟體工程系統開發/網路資料傳輸/信號與系統設計/資料通訊與網路應用/軟體程式設計/網路程式設計,"【 Ideal candidates have 】 - Self-motivated and enthusiastic in deep learning / computer vision technologies - MS or PhD majored in related areas (Computer Science, EE, Mathematics, and Statistics) is highly recommended - Solid Python programming skills in terms of data analysis and machine learning - Familiar with machine learning product development flow, experiences with TensorFlow is highly recommended     【 Nice to have 】 - Programming/Development skills on mobile/web platforms is highly recommended - OpenCV/OpenGL related know-hows is a plus - Experiences working on features with on-device calculation and performance optimization is a plus",11~30人應徵,121.5427093,25.0792018
+1a2x6bkk5y,6purq,機器學習與人工智慧研發工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師,熟悉人工智慧或是機器學習演算法開發。/協助開發機器學習演算法應用。//// /,1~3人,不拘,專科以上,一般數學相關/資訊工程相關,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /略懂,,,  ,0~5人應徵,121.5401282,25.0130898
+1a2x6bkygn,6p2d5,後端工程師--機器學習系統整合開發,待遇面議,0,0,軟體設計工程師/軟體相關專案管理師/電腦系統分析師,"【工作內容】
+1.	與合作企業內部人員溝通，釐清並識別使用者需求。
+2.	團隊合作進行協同開發以及掌握開發時程。
+3.	穩健的系統測試與文件撰寫。
+
+【需求條件】
+1. 熟悉至少一種Python網頁開發架構，如Django或Flask。
+2. 具備建構資料流等工具或介面之經驗與能力。
+3. 熟悉Linux系統與關聯式資料庫操作。
+4. 具備版本控管(例如 git)的實務經驗。
+5. 出色的溝通能力和團隊合作能力。
+
+【加分條件】
+1.	具備規劃符合使用者需求之分析服務系統流程與資料流架構經驗",2~3人,1年以上,碩士,,None,None,Linux/Git/Python,,,0~5人應徵,120.9932316,24.7947253
+112t1ia8,6zczh,【G】機器學習與電腦視覺工程師(土城),待遇面議,0,0,演算法開發工程師,"1.	深度學習模型資料搜集, 清理, 標記, 訓練, 評估與優化/2.	電腦視覺相關之深度學習演算法開發與整合///",1~2人,不拘,大學、碩士,電機電子工程相關/資訊工程相關,英文,聽 /精通、說 /中等、讀 /精通、寫 /中等,Python,,"1.	具備統計分析, 資料探勘 (Data Mining)等數據分析概念 2.	曾修習機器學習與深度學習, 具有相關的論文或實務經驗者佳        2-1 熟悉常用圖像識別模型 (VGG16, ResNet…等)        2-2熟悉常用物件偵測模型 (R-CNN, YOLO…等)        2-3熟悉Tensorflow, Keras, PyTorch等任一種主流的深度學習框架的使用        2-4熟悉主流的雲端平台(AWS/Azure/GCP)操作者佳 3.	具備影像處理基本知識 4.	具備光學知識者佳  ",11~30人應徵,121.4152051,24.9610649
+1a2x6bkirw,6clt9,網頁前端開發工程師 (AI/機器學習平台),"月薪33,000~45,000元",33000,45000,軟體設計工程師/MIS程式設計師/Internet程式設計師,"本公司是由一群曾任職國際軟體大廠與高科技製造業十多年的專家所創立。我們非常熟悉企業營運系統、物聯網應用、以及設備/信息/自動化/工廠管理等相關技術，希望運用過去累積的企業與工廠管理及物聯網應用經驗，搭配自主研發的AI機器學習技術平台，協助企業以合理的成本、快速地導入高價值資訊系統，解決工廠管理問題，提升工廠效能，達到智能化工廠的目標。
+
+我們希望招募數名年輕新血，並不嚴格要求您的工作經驗，只要您技術底子好、頭腦靈活、充滿學習新事物的幹勁，願意接受挑戰且抗壓性高，對於工業物聯網、AI機器學習、軟體生命週期平台等最新技術的工業應用非常有興趣，都歡迎加入我們! 本公司雖是新創企業，但我們的客戶都是兩岸的大型製造業，除了讓您能研究新技術應用之外，還能習得一般人很難有機會深入碰觸的製造業領域知識，我們提供優渥的起薪、光明的未來，誠摯邀請您成為我們的一份子。
+
+本職務主要工作會參與AI機器學習Web-based平台開發工作，基本條件要求:
+1. 熟悉HTML5/CSS3/ES6+(Javascript)
+
+具備以下能力尤佳:
+1. 使用過下列任一框架 Vue/React/Angular (Vue尤佳)
+2. 具備HTTP協議的基礎知識",1~2人,不拘,專科、大學、碩士,,None,None,HTML/JavaScript/CSS/ReactJS/AngularJS/VueJS/HTTP,軟體程式設計/網路程式設計/視覺設計相關知識/使用者介面設計/網頁語法撰寫,面試時請準備能展現自己程式實作或分析能力的作品,11~30人應徵,121.56618400000002,25.0478835
+olmlwc8,71krp,Senior Machine Learning  Engineer / Data Engineer (機器學習工程師),"年薪1,000,000元以上",1000000,9999999,演算法開發工程師/軟體設計工程師/電腦系統分析師,"**Job Functions**
+
+- Algorithm Engineer and Distributed System Architectures
+- AI / Data Science / Machine Learning Algorithm Optimization
+- Build the scalable ML platform to automate ML services.
+
+**Your Impact**
+
+- Participate in cutting edge research in machine intelligence and machine learning platform.
+- Partner with product and research teams to identify opportunities for improvement in our current  product line and for enabling upcoming product lines.
+- Develop prototypes, then design and carry out experiments to validate and improve the prototypes.
+- Develop solutions for real world, large scale problems.
+- Bring the ideas to production.
+
+**MoBagel R&D Qualifications**
+
+- Experience building new products that leverage challenging high-performance algorithms.
+- Expertise in coding efficient, object-oriented, modularized and quality software.
+- Exceptional debugging, testing, and problem-solving skills.
+- Knowledge of unit testing, profiling, and code tuning.
+- Passion for software development and problem solving.
+- High energy, self-starter with aptitude for learning new technologies.
+- Be able, and willing, to multi-task and learn, share, and improve technologies quickly. 
+- Experience with the Decanter AI or other AutoML software products.
+- Ability to drive cross team collaborations and ship production features in a fast-paced startup environment.
+- Superior communication skills, both verbal and written.
+- Customer/end result driven in design and development
+
+**Key Qualifications**
+
+- Master’s degree or PhD in Computer Science, Statistics and Data Science, Mathematics or a related technical, quantitative field. 
+(Candidates with a bachelor’s and significant appropriate experience will also be considered.)
+- Expertise with Python, Java/Scala, OOP, Design Patterns, time and space-efficient algorithms
+- Experience in commercialize data science product/project  (not including school project)
+
+**Preferred Qualifications**
+
+- Experience architecting in Data Science and Machine Learning with a strong proven track record and significant impact.
+- Knowledgeable in area pertaining to prediction such as statistics, machine learning for classification and regression, time series forecasting and reinforcement learning
+- Proficiency in the mathematics underlying ML including linear algebra, multivariate statistics, information theory and optimization.
+- Significant experience optimizing code to be both compute and memory efficient
+- Demonstrated expertise working with one or more of the following: Big Data Infrastructure, Distribute System and Job Queue management, Machine Learning System, Time Series Forecasting, Algorithmic Foundations of Optimization, Data Mining or Machine Intelligence (Artificial Intelligence).
+- Contributions to research communities/efforts, including publishing papers in machine learning (ICML,  AAAI).
+- Experience motivating others to act by creating a shared sense of vision or purpose, ability to create a compelling vision for the future, communicate clearly, with a collaborative leadership approach.",1~5人,不拘,大學以上,數理統計相關/應用數學相關/資訊工程相關,None,None,Systems Analysis/Github/Java/Python/Go/Scala/Data Modeling,系統架構規劃/系統整合分析/軟體工程系統開發/軟體程式設計/結構化程式設計/模組化系統設計/Machine Learning,,6~10人應徵,121.5665022,25.0475591
+1a2x6biutg,72bxq,研發課-機器學習工程師,"月薪35,000~55,000元",35000,55000,軟體設計工程師/演算法開發工程師/電腦系統分析師,"1.基礎資料分析(領域資料洞悉、特徵選擇、資料前處理等)
+2.機器學習應用軟體產品與專案開發
+3.開發及改良機器學習或演算法
+4.演算法實驗設計",1人,不拘,大學、碩士,資訊工程相關/電機電子工程相關/其他數學及電算機科學相關,None,None,,,1.一年以上相關領域工作經驗 2.熟悉資料分析方法(基礎統計分析、PCA等) 3.熟悉Python機器學習相關套件(Keras、Tensorflow、sklearn等),0~5人應徵,121.0013555,24.8023901
+13x18iow,6ua9x,(TMR- ) 資料分析(機器學習)開發工程師,待遇面議,0,0,演算法開發工程師/軟體設計工程師,1. 基礎資料分析(領域資料洞悉、特徵選擇、資料前處理等)/2. 機器學習應用軟體產品與專案開發/,1人,3年以上,大學、碩士,資訊工程相關/電機電子工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"1. 3年以上資安相關領域工作經驗-  2. 熟悉資料分析方法(基礎統計分析、PCA等) 3. 熟悉Python機器學習相關套件(Keras, Tensorflow, sklearn等) 4. 具網路資訊安全資料分析經驗佳",11~30人應徵,121.4835053,25.0078679
+1a2x6bjtu2,714hq,Dev for Edge AI語意機器學習&深度學習(擅長韌體嵌入式C語言),待遇面議,0,0,演算法開發工程師/韌體設計工程師/數位IC設計工程師,"環球睿視(UbeStream Inc.)為台灣首家且唯一取得股票代號之AI科技新創公司(創櫃7587)，為資料科學博士所創辦，公司聚焦AI人工智慧/ICT資通訊/IoT在雲端SaaS與Edge Device之技術研發，提供各領域AIaaS之接地應用，助力客服諮詢/餐飲零售/旅遊觀光/運動休閒/醫療健康等領域以智慧與無接觸科技進行數位轉型。環球睿視為政府智慧創新(智慧客服)提供商，公司位在台北市內湖科技園區洲子街，交通停車便利，捷運近文湖線港墘站；本AI演算法Edge Dev職缺，適合具相關開發經驗或科系背景者應徵，具備下列任一相關開發經驗者(相關系所博碩士生亦可)，歡迎檢附相關學歷(有論文者加分)與相關項目開發經驗證明應徵，加入環球睿視AI邊緣運算(Edge Algorithm & Computing)開發團隊：
+
+主要任務：發展AI雲智慧核心語意及語音引擎演算法，並轉化到Edge優化執行效能及效率
+1.語意及文本分析演算法：具語意文本分析演算法設計與開發能力，需學習過Text Mining/Information Retrieval等相關課程，受過相關語義分析理論訓練，具有Data Science/Data Mining/Information Retrieval/Big Dta相關科系研究所或Lab背景，撰寫發表過相關演算法期刊論文者尤佳。
+2.Deep Learning/Machine Learning：熟悉ANN類神經相關語意(語義)或文本分析演算法，熟捻熟捻CNN/RNN/RCNN/LSTM等理論與運用，具備發展NLP/NLU之能力，發表過相關自然語意演算法期刊論文。
+3.語音辨識：STT/TTS，熟悉華語/英語及其他外語語音辨識技術，需可處理辨識多語種夾雜或多人發言語句。
+4.語意及語音Edge韌體及IC設計：具有Edge或Device韌體程式及IC設計整合經驗背景，具備研發Edge語意及語音演算法韌體程式IC能力。
+5.有Arduino/Raspberry Pi開發經驗，熟悉DSP/MCU。
+6.熟悉C語言韌體開發。
+7.AI機器學習/深度學習之IC晶片設計經驗。
+8.Alexa/小米/i寶貝智慧音箱相關開發或應用經驗。
+9.IoT物聯網與AIoT智慧物聯網開發建置經驗。
+
+相關：
+*語意/語義需處理解析英文、簡中、繁中及其他主要語文。
+*語音辨識需辨識英語、華語及其他主要語言(STT)及文字轉語音(TSS)。
+*需熟Tensorflow/Keras/PyTorch等架構。
+*有AI Chatbot或AI Agent開發經驗，具備與常用IM或App整合能力或經驗。
+*有Device如手機/平板/智慧看板/Kiosk或Edge之AIoT開發整合能力或經驗。
+*熟Linux/Android/Mac/iOS等Device/Edge作業系統應用程式開發及韌體開發
+
+具有以上相關開發經驗或專長，對AI語意對話機器人/語意文本分析/語意辨識演算法在Cloud/Edge/Device等AICT或AIoT技術之轉化調適及效能優化有興趣，歡迎投遞履歷面談，與環球睿視共創數據智慧從演算法研發、系統產品發展、產業服務應用，促進台灣與全球產業數位轉型；本公司為台灣第一家AI新創登板創櫃公司，團隊夥伴將享有股票認股配股或股票選擇權機會。",1~2人,1年以上,專科以上,數學及電算機科學學科類/電機電子工程相關/光電工程相關,英文,聽 /中等、說 /略懂、讀 /中等、寫 /略懂,Linux/Android/iOS/MCU/Github/Git/C/C#/Python/Visual C#/Visual Studio/Visual Studio .net/Objective-C/SWIFT/R/Go/ADO/Informatica/MS SQL/MySQL/OLAP/PostgreSQL/Microsoft SharePoint/Vmware/hadoop/AWS/XHTML/XML/XML Web services/Sass/Node.js/D3.js/Django/Socket/ssh/Tableau/Google Analytics/Google Tag Manager/Google Display Network/Google Trend/Alexa/Google Data Studio/Firebase/Power BI​/Data Architect/Data Marts,資料備份與復原/系統架構規劃/系統整合分析/軟體工程系統開發/資料通訊與網路應用/功能測試(function test)/問題追蹤處理(Bug tracking)/軟體整合測試/測試環境建置規劃/韌體整合測試/壓力測試(stress test)/測試計劃及測試報告書撰寫/軟體程式設計/韌體程式設計/網路程式設計/Machine Learning/資料庫系統管理維護/資料庫程式設計/系統架構規劃與維護/網路系統配置,,6~10人應徵,121.5752042,25.0781161
+1a2x6bk127,74hr0,AI算法工程師-機器學習類,待遇面議,0,0,軟體設計工程師/演算法開發工程師,"1. 能實作數據分析，將感測器收集數據進行預測、分群及分類等分析。
+2. 能夠獨立進行ETL等相關作業含：資料清洗、建檔
+3. 能夠實作各回歸及分類機器學習模型：ex：SVM、LightGBM、XGBoost
+4. 能夠實作統計方法：ex：Factor Analysis，ANOVA
+
+
+
+",1~2人,2年以上,碩士以上,資訊工程相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /精通、寫 /精通,Python/Matlab/SAS/SPSS/R,軟體程式設計/Machine Learning,基本需求： 1. 學歷要求：相關系所碩士以上，博士級加分 2. 熟悉R、Python、MATLAB 3. 熟悉SPSS、SAS 4. 熟悉BI相關處理流程 ,0~5人應徵,121.5385499,25.0620174
+5wthkkw,71shj,【Golf學生實習】Python/R機器學習實習生_汐止,時薪158~165元,158,165,軟體設計工程師,"1.應用機器學習數據分析(製造業/醫療領域AI專案)
+2.熟悉ML Service+ Jupyter notebook(Python)、ML Studio(R語言)資料分析工具，應用於分類、回歸演算法等機器學習演算法
+",3~5人,不拘,高中、專科、大學,,None,None,,,本企業為GOLF聯盟企業，欲申請此實習職缺，請先至「GOLF學用接軌聯盟」申請學習帳號 https://docs.google.com/forms/d/e/1FAIpQLSfvdJZE8Fmt-pZq3k5gREEiB5HsW4WreeCsG08ILTprDSXKsw/viewform (本期帳號申請與學習期間為 9/16~12/31) 並先登入完成GOLF緯創頁面指定的實習先修學程，學習完成後，持完課畫面進行應徵。  應徵時，請將學習完課畫面附於104履歷表，即可優先取得面試機會。詳情請參閱下方連結：https://reurl.cc/MvYdjK,6~10人應徵,121.6473738,25.0605492
+1a2x6bjjlo,4w22r,"軟體研發工程師 (人工智慧, 機器學習, 語意分析)","月薪35,000~45,000元",35000,45000,軟體設計工程師/Internet程式設計師/演算法開發工程師,"本公司是國內專注在非結構資料處理的領導廠商，在社群監測、語意分析、及企業搜尋應用上均有最高的市占率。因此，將邀請熟悉人工智慧/機器學習/語意分析的人才加入。工作內容如下：//1 在RD部門負責核心程式開發，包括架構及設計/2 開發領域為機器學習及語意分析 (machine learning, language processing, semantic analysis)/3 對人工智慧, 計算語言學, 認知科學有興趣者尤佳/4 需實際開發程式及進行各種實驗",2~3人,不拘,大學以上,數學及電算機科學學科類/資訊管理相關,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /略懂,,,1. 具電腦資訊相關學經歷或背景 2. 熟C/C++、或Java等程式語言 3. 邏輯好、理解力高、喜歡寫程式和做實驗，可閱讀paper。 4. 請附專題作品或論文成果。,11~30人應徵,121.5513101,25.0330562
+7lka688,4npe1,大數據/機器學習數據工程師-(Data/ML Engineer)-台北,待遇面議,0,0,軟體設計工程師,"1. 透過資料分析及機器學習以提供決策建議.
+2. 負責資料蒐集及處理各項數據、資料建模、ETL流程設計及演算法開發，並經梳理後產出使用.",1人,不拘,大學、碩士,資訊工程相關/資訊管理相關/數學及電算機科學學科類,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Linux/Windows Server 2008/Java/Spring/MS SQL/Oracle/HTML/JavaScript/XML/Word,系統整合分析/軟體程式設計,"1. 具備程式語言及開發的背景，如資訊工程、電機、數學、應數、物理等理工科系 2. 具備資料倉儲概念，並具備基本Machine Learning 相關知識 3. 具備SQL及Shell之技術，或熟悉R/Python/JAVA等語言 4. 具操作過大型資料集(1TB以上)、Hadoop 資料倉儲或Spark 平行化處理之經驗者尤佳 5. 熟悉一種以上資料庫系統 (Oracle , PostgreSQL , MySQL , MSSQL.. 其他 ) 6. 良好之團隊協作、溝通協調能力",6~10人應徵,121.5198716,25.0421407
+7ere2lk,688au,KH0003-軟體開發工程師(機器學習/影像辨識)-湖口區光復廠,待遇面議,0,0,軟體設計工程師/其他資訊專業人員/演算法開發工程師,1.機器學習、深度學習、影像辨識軟體開發/2.表面Defect檢測開發/效率提升專案/3.CIM/MES系統及AI系統整合//◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。/,5人,2年以上,大學以上,資訊工程相關/電機電子工程相關/應用數學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C++/Python,,"相應技能： 1. TensorFlow/Keras/CaffeKeras  2. Python/C++   3. Deep/Machine  Learning Vision  , 熟悉 OpenCV  4. 熟悉Resnet、VGG CNN模型架構 ◎無工作經驗者，請附相關作品！~歡迎新鮮人應徵~",6~10人應徵,121.0283663,24.8709487
+1plj8dt,73bhf,徵 數據處-統計中心-專任職員1名 (機器學習),"月薪38,000~40,000元",38000,40000,資料庫管理人員/統計學研究員,"工作內容:
+1. 執行大數據分析專案或計畫(含健保資料庫分析、校務研究分析)。
+2. 擔任統計分析教育訓練講師、撰寫中心電子專刊、資料庫管理、資料視覺化呈現、協助合作者完善發表論文。
+3.主管其他交辦事項。
+
+
+條件：
+1.具統計、應數、資工、資訊、大數據等相關科系所的碩士學位。
+2. 熟悉大數據分析軟體，具資料清理及資料分析能力。
+3. 能選擇及適度應用機器學習或深度學習演算法之套件於實際問題解決，熟悉人工智慧相關理論及技術。
+4. 非結構化資料分析之相關技能，包含影像判別、非自然語言處理、深度學習、機器學習等技術。
+5. 對於資料科學、資訊領域有興趣及熱忱，具有學習新軟體的能力及求知慾。
+6. 具耐心、細心、善於溝通、解決問題能力、具有責任感、主動積極能快速進入狀況者。
+7. 具有網頁撰寫或伺服器管理經驗者優先錄取。
+
+※備註：需填寫前任職單位主管推薦人資訊(主管姓名及主管辦公室聯絡電話及分機)
+
+
+原住民或身心障礙者優先考量
+●意者請逕上104人力銀行登錄或email履歷/自傳至 hrjob@tmu.edu.tw  及 
+jh_chen@tmu.edu.tw  及 yclin02@tmu.edu.tw ，並請於主旨欄註明應徵項目(同一職缺請勿重複投遞履歷)
+",1人,不拘,碩士,統計學相關/應用數學相關/資訊工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,應徵者於本校聘僱前，不得有性侵害之犯罪紀錄，或曾經主管機關或學校性別平等教育委員會調查有性侵害、性騷擾或性霸凌行為屬實，並經該管主管機關核准解聘或不續聘之紀錄。   應徵者應依據本校要求揭露是否有性侵害之犯罪紀錄或曾為校園性侵害、性騷擾或性霸凌事件之加害人，並同意本校得進行相關之查證。如經查閱屬實，本校得立即終止聘僱。,0~5人應徵,121.5619186,25.0256312
+1a2x6bk5cu,72oxz,軟體工程師 - 機器學習維運  Software Engineer -SRE/DevOps/DataOps/MLOps,待遇面議,0,0,軟體設計工程師,"【工作內容】
+- 提升機器學習專案的研發效率，維護與改善模型部署的 CI/CD 工具與流程。
+- 優化機器學習專案的技術架構，滿足業務增長、維運成本降低與性能提升上的需求。
+- 負責內外部機器學習專案內外部系統部署、優化、監控、日誌等系統和流程的建設。
+- 定位並排除開發與生產環境中的偶發問題。
+
+【需求條件】
+- 公有雲的實務使用經驗，例如 GCP、AWS、 Azure
+- 2年以上使用 Docker Swarm 或 Kubernetes 創建容器化應用程式的實務經驗。
+- 2年以上在生產環境中管理複雜、大量應用程式的實務經驗。
+- 1年以上使用自動化工具如 Bash 腳本、Airflow 或 Kubeflow 相關的實務經驗。
+- 具備 DevOps 工具（CI/CD, 監控）的實務經驗與 CI/CD 流程設計的實踐經驗。
+- 至少使用一種現代語言（例如 node.js、golang 或 python）的實務開發經驗。
+- 具備版本控管(例如 git)的實務經驗。
+- 擅長利用標準軟體工程方法，例如單元測試、持續集成、代碼審查、設計與部署的文件撰寫。
+- 出色的溝通能力和團隊合作能力。
+
+【加分條件】
+- 具備 Google Cloud Platform 實務開發經驗
+- 具備機器學習建模的實務經驗
+- 具備基礎架構即代碼（IaC）工具（例如 Terraform）的實務經驗
+- 對微服務、虛擬化或容器底層技術有深入研究。",2~3人,2年以上,專科、大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,,0~5人應徵,121.5612058,25.0344396
+wi4quiw,747kz,機器學習數據應用開發工程師(110年研發替代役),待遇面議,0,0,軟體設計工程師/自動控制工程師/軟韌體測試工程師,"1. 智慧設備邊緣運算控制與數據整合、分析應用開發。
+2. 智慧工廠整廠設備自動化機聯與生產物流履歷追蹤系統開發。
+3. 設備故障診斷系統PHM偵測診斷模組開發。
+4. 先進製程控制(APC)整合系統平台開發。
+",1人,不拘,大學以上,工業工程相關/資訊工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C#/MS SQL/MySQL,,1. 熟悉程式開發工具C#、Python及資料庫(MSSQL、SQLite、MySQL)應用經驗。 2. 具AI、Machine Learning與數據分析整合應用開發經驗尤佳。 3. 具半導體SECS/GEM自動化設備軟體協議標準導入開發佳。,0~5人應徵,121.2613482,24.9606144
+fn5mtmo,6x7rr,AI電腦視覺與機器學習工程師_ 台達研究院(台北),待遇面議,0,0,演算法開發工程師/軟體設計工程師,「台達研究院」成立於2013年，除致力於大數據分析及物聯網應用與解決方案的開發與整合，加速企業轉型成功，也積極與產官學研生態體系協作，以開放創新模式，創造多贏生態圈。// 本職缺主要工作內容包含但不限於:/1. 負責設計與開發影像相關之電腦視覺與機器學習技術/2. 協同開發、佈建和測試解決方案於應用場域/3. 依專案需求研讀機器學習技術於醫療相關應用議題/,1人,不拘,碩士以上,數學及電算機科學學科類/工程學科類,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"1.	熟悉電腦視覺(Computer vision)或圖形識別(Pattern Recognition)，有醫學影像分析相關經驗者尤佳 2.	熟悉任一深度學習架構 (Caffe, Tensorflow等) 3.	熟悉任一語言(Python、Java、C#、C/C++等)，熟Python尤佳 4.	熟悉Linux維運、開發和分析類型産品佈署者佳 5.	具備良好溝通能力，主動積極學習 ",30人以上應徵,121.5778116,25.0741922
+5t7gcns,5ov5m,機器學習演算法工程師/資料科學工程師/Machine Learning Engineer/Data Scientist,待遇面議,0,0,演算法開發工程師/統計學研究員/數學研究員,"1.Works with large volume of data on the Big Data platform, perform data analysis and mining to generate novel solutions for NAND Flash based storage application.
+2.Development of deep learning algorithm for NAND Flash controller.
+3.Development of DSP for system reliability improvement.
+4.Design the error handling algorithm for NAND Flash based storage system.
+5.Create new visualization software that leverage machine learning and predictive analytic to bring new insights and solution to the business.",1人,不拘,碩士以上,電機電子工程相關/資訊工程相關/數理統計相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C/C++/Python,,"1.Strong basics in Linear Algebra, Probability & Statistics 2.Familiar with machine learning algorithm 3.Excellent communication and interpersonal skills 4.持有經濟部能力鑑定(iPAS)證書者優先面試! BDA",11~30人應徵,120.9126909,24.7190426
+19huomw,6tm3r,工研院材化所_機器學習材料應用技術研究員(0M200),待遇面議,0,0,材料研發人員/演算法開發工程師/化學工程研發人員,"1.材料領域之機器學習演算法與相關方法開發
+2.機器學習模型訓練，並應用於材料設計、配方優化與製程系統控制
+3.多資料來源之材料資料庫整合與管理
+4.圖形化UI介面開發、互動式網頁開發(Django)",1人,不拘,碩士以上,化學相關/化學工程相關/材料工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1.碩士(含)以上，化學/化工/材料/物理等相關系所畢 2.具備資料建模分析經驗，熟悉Python程式語言 3.熟悉Scikit-learn或Tensorflow 4.具備SQL資料庫語法與網頁語言(Django、Javascript)經驗為佳 5.具備材料模擬(DFT、MD、有限元素分析...)經驗為佳 6.請檢附相當於TOEIC 650分之英語測驗成績證明，如無法提供，將安排參加本院英文檢測 7.具海外學經歷背景優先進用,6~10人應徵,121.0479329,24.7740919
+12noppgo,6zxbd,機器學習工程師 (約聘),"月薪26,000~50,000元",26000,50000,助理工程師/通訊軟體工程師/軟體設計工程師,"1. AI 相關專案的需求分析, 資料收集, 資料預處理, 資料探索與分析, 建立與評估機器學習模型. /2. 建立 Big Data Pipeline 架構 for AI modeling and implementation.",1~3人,不拘,大學、碩士,,None,None,C/C++,,"1. 大學以上, 無工作經驗可. * 熟悉 Deep Learning Framework (Pytorch or Tensorflow) 與 Machine Learning 相關技術.  2. 熟悉 CNN, RNN, GNN, GAN, RL, NLP...等相關技術.  3. 需能理解英文 AI paper (e.g. Deep Residual Network).  4. 熟悉 End-to-End Machine Learning 開發流程, 可獨立開發 Deep Learning / Machine Learning 專案. 5. 此職缺之薪資起始水準為NT$26000~50000，但仍會視人選之學經歷背景調整核定。",0~5人應徵,121.0239558,24.7723331
+1a2x6bl5f2,6wnkw,機器學習總監，月薪 10-20 万 rmb,待遇面議,0,0,電子工程師,職務要求：/1、通過多種資料採擷演算法對公司業務多來源資料進行挖掘，用於精准行銷與用戶增長；/2、對使用者日誌資料進行挖掘，對使用者建模，精准刻劃用戶行為，進行用戶理解；/3、對風控系統和推薦系統進行設計和開發；//任職資格：/1、大學以上電腦、數學、統計相關科系畢業，相關工作經驗3年以上；/2、熟悉Linux環境，精通Java、C++、Python程式設計中的至少一種；/3、熟悉常用的資料採擷技術，如決策樹、聚類、邏輯回歸、神經網路等，及常用深度學習框架；/4、熟悉Hadoop、Spark、Hive等大資料處理工具，有海量資料採擷專案經驗者優先；/5、良好的溝通能力和合作精神，邏輯思維能力優秀，熱愛演算法，熱愛思考；/6、在神經網路、使用者畫像、時序挖掘、自然語言處理等方向有深入研究者優先。//應徵本職缺，請聯繫line：wonder20202020//,1人,3年以上,大學以上,數學及電算機科學學科類/統計學相關/資訊管理相關,None,None,,,,0~5人應徵,120.9826825,14.5349838
+7ere2lk,6tix4,【超夯主打-Ⅱ‧軟體新星】-IT自動化人才(CIM/機器學習+影像辨識/Web設計),待遇面議,0,0,軟體設計工程師/演算法開發工程師,自動化人才(CIM/機器學習/深度學習/影像辨識/系統整合)-邀請您的加入-///【職缺一】-CIM專業人才(機台自動化)/◎ EAP SECS/GEM 機台自動化程式開發/◎ CIM系統的維護、支援、改善 /◎ 先進製程需求解決方案評估及提供 ///【職缺二】-軟體開發工程師(機器學習/影像處理)/◎ 機器學習、深度學習、影像辨識軟體開發/◎ 表面Defect檢測效率提升專案///【職缺三】-Web程式設計工程師/◎ 生產管理系統(含報表)開發與維護/◎ CIM Report建置規劃與執行(Web前後端規劃建置)/◎ 生產自動化系統規劃與執行//◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。/◎詳細說明請參各職缺刊登內容/,8人,不拘,大學以上,資訊工程相關/電機電子工程相關/機械工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,軟體工程系統開發/協助產線自動化系統推展,【職缺一】-CIM專業人才(機台自動化) CIM系統的開發或曾經從事C#軟體開發者尤佳  【職缺二】-軟體開發工程師(機器學習/影像處理) 具備機器學習、影樣辨識等經驗者尤佳 技能類別：ML、Python (TensorFlow/ Keras)、C#、Open CV  【職缺三】-Web程式設計工程師 ASP.NET MVC/WEB Form/WEB API開發經驗(C#) Html/CSS/JavaScript 等前端網頁開發經驗 (熟悉jQuery/Bootstrap尤佳) 資料庫規劃及使用經驗 (熟悉Oracle/PostgreSQL尤佳)  ,6~10人應徵,121.0283361,24.870958
+b8d4h6g,6shtp,資料工程師 (機器學習)(具圖像辨識經驗佳),"月薪40,000元以上",40000,9999999,演算法開發工程師/軟體設計工程師/其他資訊專業人員,"我們是 CLICKFORCE 歡迎您加入我們/我們正在招募對開發充滿熱情的工程師團隊!!//主要工作內容與條件： /1.	撰寫及維護網路爬蟲程式，以擷取網路文章文字資料/2.	資料清洗，整理/3.	使用網路爬蟲擷取的資料建構機器學習模型，以分析使用者資料/4.	使用網路使用者瀏覽資料建置預測模型，預測網路使用者點擊廣告意圖/5.	協助編寫使用者分群程式/6.     透過監督式學習或深度學習進行圖像辨識資料//所需專長/1.	熟悉Python程式語言，包含pandas, BeautifulSoup, numpy, sklearn, Gensim等模組/2.	熟悉Linux, SQL//加分專長/1.     有使用GCP (BigQuery, Cloud Storage, Compute Engine), AWS (Athena, S3)等服務/2.      統計學專長/3.       圖像辨識專案經驗佳",1~5人,不拘,不拘,,None,None,,,,6~10人應徵,121.547124,25.057434
+1a2x6biv2q,73h2n,[苗栗] 兒童程式教育（Ozobot機器人）學習教練/助教,時薪200~450元,200,450,其他才藝類老師/助教/講師,"Hi, 我們是一群年輕最具規模的科技教育團隊，致力於提高孩子用科技解決問題的能力。
+我們正在招募兒童程式「學習教練」及「助教」，這是份可以兼顧大學/研究所課業、薪資不錯、環境單純、同事也很好相處的工作，可以讓你在這裡充實與培養自己的第二專長，更適合熱愛小朋友的夥伴，歡迎您快快加入我們的教學團隊。
+
+【工作內容】
+主要負責以下職務：
+*教材由公司準備，課程內容為積木程式、基礎程式觀念、邏輯訓練相關規劃。
+*管理班級秩序，掌握學生學習狀況
+
+【能力需求】
+　* 細心、耐心、口條流暢、不怯場。
+　* 邏輯、思路清楚。
+　* 有程式相關背景加分！
+　* 每週六上班，長期配合，可配合一年～一年半以上更佳。
+　* 社團營隊或其他實習打工經驗加分！
+　* 有國小1年級～3年級教學經驗者或其他相關實習打工經驗加分！
+
+",不限,不拘,大學以上,,None,None,,,有教育相關背景或經驗加分,0~5人應徵,120.8961416,24.6939124
+d6od9go,61adp,(台北) 產品維修技術人員 .機器維修(肯學習無經驗可，工作穩定，不需輪班),"月薪30,000~40,000元",30000,40000,產品售後技術服務/產品維修人員/空調冷凍技術人員,※ 須會駕駛手排汽車(公務車)。 /※ 不排斥爬梯作業。 /※ 具實機安裝或維修經驗者佳。/※ 懂三用電表者佳。/※ 需吃苦耐勞、高抗壓性。(非誠勿試)//1. 到府安裝、維修及相關售後服務。/2. 提供維修的內容與報價。/3. 基本客訴應對。/必要時可配合加班者佳。//【完整的產品教育訓練及專業指導，快速提升個人工作技能、增加職場競爭力。】/【每年度皆舉辦海外員工旅遊。】,1人,不拘,高中以下、高中、專科、大學,,None,None,,,,0~5人應徵,121.5316477,25.0554999
+1a2x6bkq4p,6nxh0,機器學習工程師,"月薪30,000~200,000元",30000,200000,演算法開發工程師/軟體設計工程師/軟體專案主管,首先，讓我們知道你是愛玩遊戲的！/這樣這個職位才能讓你工作樂在其中～//清楚的數理頭腦是你要具備的前提，/研究過各機器學習模型系統/善於在大數據中挖掘出關鍵麵包屑/善用工具多角化的不斷嘗試、分析找出關聯可能//具備程式語言編寫能力/英語能力需中上，才不會讓你從Google翻譯亂猜第一手的技術教育交流文件到底在寫什麼//如果對於上列內容，你會樂此不疲的/請馬上按下面試，跟我們聯絡！,2~3人,不拘,大學以上,數學及電算機科學學科類,英文,聽 /精通、說 /中等、讀 /精通、寫 /精通,,軟體工程系統開發/軟體程式設計/資料庫系統管理維護/資料庫程式設計,,6~10人應徵,121.5638621,25.0541591
+1a2x6bldxr,73gji,機器學習工程師 ,待遇面議,0,0,軟體設計工程師/韌體設計工程師/電腦系統分析師,"<< Job Description >>
+
+1. 負責模型訓練、框架與參數調整
+2. Perform feature engineering, building and optimizing classifiers using machine learning techniques.
+3. 運用Natural Language Processing (NLP, 自然語言處理) / Text Mining，協助公司開發相關應用與整合
+4. Evaluate and identify the use of new or existing software products and technologies.
+5. Perform other duties as necessary.
+
+
+<< Qualifications & Education Requirements >>
+
+1. 資訊工程 / 電機工程 / 資訊管理 / 統計 / 數學 / 應用數學 / 工業工程等資訊科學相關領域學士以上學位
+2. Possessing at least 3 year work experience of ML, DL, NLP
+3. Experience in NLP production for deep-learning or statistical method (CNN, RNN, LSTM, deep autoencoder, and word embedding, Word2Vec, BOW)
+4. Experience in reinforcement learning, time series, and generative models.
+5. Knowledge of SOTA for the NLP model (Bert, XLnet)
+6. 至少熟悉一種主流 DL 框架 / ML 演算法，包含但不限於 TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlib
+7. 熟悉Python，對資料結構和演算法設計有深刻理解
+8. 具AWS經驗者佳
+9. Experience using SQL, NoSQL
+10. 熟悉 NLP、機器學習最新技術，有完整的、系統的認識
+
+
+<< Preferred Skills >>
+
+1. 熟悉數位訊號處理者優先
+2. 對語音識別相關技術有經驗者優先
+3. 擅長撰寫乾淨且有效率的程式碼
+4. 自學能力強
+5. 具備良好的閱讀國際期刊之能力
+",1人,不拘,大學、碩士,資訊工程相關/應用數學相關,None,None,,,,0~5人應徵,120.314647,22.631265
+18n5g7eg,6z3x4,AOI 機器學習/深度學習演算法工程師,待遇面議,0,0,數位IC設計工程師/演算法開發工程師,"1. AI於AOI相關開發應用
+2. 專案開發：配合公司產品, 導入相關技術 (包括但不限： 影像辨識, 影像修補, 超解析度, 瑕疵檢測,    
+異常偵測)
+3. 技術開發：包括但不限: 資料分析, 網路壓縮, 資料擴增, 增強學習",1人,不拘,碩士,電機電子工程相關/資訊工程相關,None,None,C++/Matlab/Python,,"1. 碩士以上電機、資訊工程、科學或統計數理相關學歷背景 2. 具類神經網路/機器學習/深度學習相關知識尤佳 3. AOI演算法相關開發經驗尤佳 4 具資料分析/清理/視覺化相關經驗尤佳 5. 具獨立思考, 善溝通, 善表達尤佳 6. 熟悉 Keras, Tensorflow 尤佳 7. 熟悉CUDA實作演算法尤佳 8. 具創新能力與勇於接受挑戰尤佳  擅長工具： C++, Python, Matlab/C, Keras, Tensorflow",11~30人應徵,121.4221986,24.9613681
+233rv1s,6qvy4,機器學習工程師(天津),待遇面議,0,0,資料庫管理人員/軟體專案主管/軟體設計工程師,"1.工業大數據機器學習工程師
+2.機器學習應用於電腦視覺及AOI領域
+3.分析問題，梳理數據、設計特徵方案和建模
+4.開發及佈署機器學習、深度學習預測模型",1人,3年以上,碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"1. 熟悉一個以上的深度學習框架和套件 (TensorFlow, OpenCV, YOLO) 2. 熟悉機器學習三種以上演算法 3. 熟悉 Python",0~5人應徵,117.3616476,39.3433574
+13quahyo,6rp6s,(智能金融處)機器學習平台工程師,待遇面議,0,0,軟體設計工程師/資料庫管理人員/其他資訊專業人員,身處數位金融轉型年代的你，想要在這個翻轉的時代軋上一角？ 對巨量結構化資料、半結構化資料甚至非結構化資料的分析、處理與儲存是否具有高度興趣？ 對打造機器學習平台及系統軟體框架是否具有一股熱血？ 是否有種衝動想挑戰把機器學習建構在分散式系統及微服務系統 (docker)之上 ？ 想要挑戰相同資料庫資源下精美又高效率的 SQL 語法？ 對 open source 有股莫名的狂熱，想要利用 open source  做一番事業？ 自動化測試及自動化佈署上版機制，正是你拿手的項目？你是善於分析問題與解決，或有志想要挑戰巨量資料的處理？ 你是 Python 中的翹楚？ /沒錯，這些都是我們想要找的人才，就是你，歡迎你來加入玉山智能金融處！ /除了以上，你還有機會，參與機器學習 (Machine Learning) 專案開發、資料特徵工程、規劃設計次世代機器學習平台發展與藍圖等任務。 ///職缺條件:/1. 碩士資訊管理相關、數學及電算機科學學科類、資訊工程相關，工作經歷不拘/2. 熟悉 Linux 及 Python 程式開發與第三方套件庫引用經驗/3. 熟悉 SQL 資料庫語法，對資料庫校能調校有興趣/4. 熟悉 Git 版本控制，對CI/CD 流程管理有興趣/5. 略懂資訊安全及網路傳輸相關基礎知識 ,不限,不拘,碩士以上,資訊管理相關/數學及電算機科學學科類/資訊工程相關,None,None,,,"1. 具備機器學習、深度學習框架 (Tensorflow, Keras) 經驗 2. 熟 Django / uWSGI / Flask 框架開發與應用 3. 有以下任一系統建置、調校維護經驗 - PostgreSQL - ElasticSearch, Fluentd, Kibana - Kafka - Nginx  - Kubernetes, CEPH - JupyterHub 4. 具備金融/金流/支付的相關知識和興趣 5. 具備專案管理能力、良好的溝通協作能力",6~10人應徵,121.546428,25.0581389
+auxx12g,4kd6o,RD20281 巨量資料及機器學習研發工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師,"1. Extract-transform-load, data preprocessing, data analysis and data presentation.
+2. Extend artificial intelligence models to business intelligence applications.
+3. Machine learning in time series areas, especially demand forecast, Fintech, and inventory management. 
+4. Familiar with machine learning based algorithms, for instance, regression and neural network etc.",不限,1年以上,碩士以上,資訊工程相關/電機電子工程相關/統計學相關,中文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1.至少具備一項以下專業知識： • 資料探勘(Data mining) • 機器學習(Machine learning) • 最佳化(Optimization) • 統計學(Statistics) 2.至少具備Python、R或任一統計分析程式開發經驗 3. 實際薪資會依學經歷背景及相關工作經驗核薪 4.優先面試經濟部工業局DIGI⁺ Talent計畫之結訓研習生(ECOM)(BD)(AI),11~30人應徵,121.515018,25.1151759
+whb9w2w,69mc3,機器學習工程師(電腦視覺),待遇面議,0,0,演算法開發工程師/軟體設計工程師,"1. Computer vision algorithm development.
+2. Neural Network architecture design and optimization
+
+歡迎對deep machine learning 有熱誠的研發人才加入~ 
+https://www.bnext.com.tw/article/49432/ipcamera-vivotek-deeplearning-gdpr-trend-micro",1人,2年以上,碩士以上,資訊工程相關/電機電子工程相關/一般數學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C/C++/Python,,"Basic Requirement: 1. Familiar with Python, CNN and machine learning. 2. Experience in deep learning framework (Caffe, Caffe2, TensorFlow , PyTorch, Keras, CNTK, MXNet, Theano, Torch,...). 3. Knowledge in digital image processing and computer vision  Preferred Requirements: 1. Familiar with C/C++ is a plus. 2. Familiar with OpenCV is a plus. 3. Familiar with linear algebra is a plus.   人格特質:樂觀、合群、勇於接受挑戰。 工作地點: 新北市中和區或台南永康區皆可。",0~5人應徵,120.232442,23.0098745
+13quahyo,6dtcl,(數金處)機器學習工程師,待遇面議,0,0,軟體設計工程師/資料庫管理人員/其他資訊專業人員,1. 利用資料分析及機器學習進行玉山金控內部 / 外部情勢評估及問題發現/2. 協助業務單位利用資料分析或機器學習解決關鍵科技議題，並提供決策建議,不限,不拘,大學以上,資訊管理相關/數學及電算機科學學科類/資訊工程相關,None,None,,,1. 具備高度量化訓練的背景，如數學、統計、應數、財金或財務工程、物理、資訊或電機工程 2. 善於使用計量方式來思考問題，並具備科學家精神 3. 熟悉敘述型、診斷型、與預測型資料分析，嫻熟常見的機器學習演算法 4. 具備 Python 開發經驗 5. 具備深度學習模型建構與 Kaggle 實戰經驗者尤佳,30人以上應徵,121.546428,25.0581389
+d5rqkvs,6vz3g,Python 電腦視覺/機器學習工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師,具影像辨識、物件偵測、物件追蹤、行為辨識、人臉辨識相關經驗/熟悉任一機器學習平台/熟悉OpenVino平台,1人,3年以上,不拘,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,,0~5人應徵,121.525335,25.0447417
+13quahyo,6rp6t,(智能金融處)機器學習平台(精英)工程師,待遇面議,0,0,軟體設計工程師/資料庫管理人員/其他資訊專業人員,身處數位金融轉型年代的你，想要在這個翻轉的時代軋上一角？ 對巨量結構化資料、半結構化資料甚至非結構化資料的分析、處理與儲存是否具有高度興趣？ 對打造機器學習平台及系統軟體框架是否具有一股熱血？ 是否有種衝動想挑戰把機器學習建構在分散式系統及微服務系統 (docker)之上 ？ 想要挑戰相同資料庫資源下精美又高效率的 SQL 語法？ 對 open source 有股莫名的狂熱，想要利用 open source  做一番事業？ 自動化測試及自動化佈署上版機制，正是你拿手的項目？你是善於分析問題與解決，或有志想要挑戰巨量資料的處理？ 你是 Python 中的翹楚？ //沒錯，這些都是我們想要找的人才，就是你，歡迎你來加入玉山智能金融處！ //除了以上，你還有機會，參與機器學習 (Machine Learning) 專案開發、資料特徵工程、規劃設計次世代機器學習平台發展與藍圖等任務。 //職缺條件:/1. 三年以上系統管理及維護經驗/2. 具備技術架構規劃能力與制定技術規範，包括大數據傳輸及倉儲等/3. 熟悉 Linux 及 Python 程式開發與第三方套件庫引用經驗/4. 熟悉 SQL 資料庫語法及校能調校/5. 熟悉 Git 版本控制及 CI/CD 流程管理/6. 略懂資訊安全及網路傳輸相關基礎知識 ,不限,3年以上,碩士以上,資訊管理相關/數學及電算機科學學科類/資訊工程相關,None,None,,,"1. 具備機器學習、深度學習框架 (Tensorflow, Keras) 經驗 2. 熟 Django / uWSGI / Flask 框架開發與應用 3. 熟悉以下系統建置、調校維護經驗 - PostgreSQL - ElasticSearch, Fluentd, Kibana - Kafka - Nginx  - Kubernetes, CEPH - JupyterHub 4. 具備金融/金流/支付的相關知識和興趣 5. 具備專案管理能力、良好的溝通協作能力",0~5人應徵,121.546428,25.0581389
+wjct48g,6r4go,"數據開發規範 – 機器學習架構師(數數發中心, DDT)","月薪30,000~90,000元",30000,90000,其他資訊專業人員/網路管理工程師/MIS／網管主管,"工作職掌:
+-訂定數據分析模型的技術與流程標準
+-規劃設計整體的技術發展輪廓與藍圖
+
+職缺條件:
+-五年以上機器學習分析流程規劃及開發經驗
+-熟悉數據分析模型技術與流程標準
+-熟悉Machine Learning 、Deep Learning 、Reinforcement Learning新技術研究與實作經驗，並有能力介紹使用方法、應用或原理
+-熟悉Python/PySpark/Tensorflow
+-Open source 的採用與管理經驗
+-習慣創新與步調快速的環境",1~2人,5年以上,大學以上,,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,,, ,0~5人應徵,121.5691563,25.0382555
+19huomw,5yhyi,工研院服科中心_人工智慧暨機器學習平台開發工程師(U300),待遇面議,0,0,軟體設計工程師/電機技師／工程師/其他資訊專業人員,運用AI/深度學習，商品辨識與人物辨識、圖片搜尋演算法開發,1人,不拘,碩士,資訊工程相關/資訊管理相關/電機電子工程相關,None,None,,,"1.資訊工程/資訊科學/電機電子/控制工程相關科系畢，碩士(含)以上。  2.具備機器學習或深度學習研究背景，熟悉 CNN, RNN, TensorFlow framework，具實績者佳。  3.必須具備Microsoft C#、Python程式開發技能。 4.對數位影像處理、電腦視覺等具有基礎者佳。  5.請檢附相當於TOEIC 650分之英語測驗成績證明，如無法提供，將安排參加本院英文檢測。 ",0~5人應徵,121.047947,24.774099
+19huomw,5yl07,工研院巨資中心_機器學習技術與應用工程師(M1),待遇面議,0,0,軟體設計工程師/演算法開發工程師,研發人工智慧、機器學習、資料探勘等相關技術，以及在產業的實際應用,2人,不拘,碩士以上,資訊工程相關/資訊管理相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C++/Python,,"1. 碩士(含)以上，理、工系所畢業 2. 具機率、統計等資料分析基礎，如有修過深度學習、機器學習、最佳化理論、搜尋演算法等科目更佳 3. 有撰寫程式之經驗，如C++, Python等  *請檢附相當於TOEIC 650分之英語測驗成績證明，如無法提供，將安排參加本院英文檢測。",0~5人應徵,121.0431747,24.7774829
+10whcigo,6bbw3,新光人壽-數據分析襄理(機器學習分析模型),待遇面議,0,0,資料庫管理人員/市場調查／市場分析/統計精算人員,"新光人壽相信資訊科技是企業競爭力的重要基石，在資訊科技的投資上不遺於力，因此E化在業界長久以來都屬於領先的一群，面對數位金融3.0數位創新的時代，新光人壽更擬定短中長期計畫積極建構全方位的數位金融平台，打造創新的數位保險服務，相關計畫包含：
+-電子商務平台
+-數位智能客服中心
+-IoT及FinTech於保險領域的應用
+-全方位銷售及客戶服務的行動應用開發
+-運用Big Data數據分析與資料模型，以發掘更多客戶需求與服務創新方式
+-打造以使用者體驗(UX)為中心的全新數位通路
+
+誠摯邀請對資訊科技有熱情的您一起加入我們共同學習與成長
+
+主要工作內容：
+1.帶領分析團隊，運用機器學習分析技術，開發建立數據模型。
+2.監控模型成效並運用不同演算法及更多變數持續優化模型。",1人,2年以上,大學、碩士,資訊工程相關/資訊管理相關/數理統計相關,None,None,Python/Data Modeling/Informatica/Data Marts/SAS,,1.大學以上資訊相關科系所畢業 2.3年以上統計分析及預測模型建置經驗。 3.孰悉機器學習演算法，並具備程式撰寫能力(Python或SAS Code)。 4.具備資料視覺化能力。 5.思考邏輯清晰、具備良好溝通能力與簡報技巧。,6~10人應徵,121.5595451,25.0498891
+13kmziew,6o2d3,北區-AI講師(機器學習、深度學習、自然語意、影像辨識...),"時薪800~1,600元",800,1600,電腦補習班老師/講師,  職務說明：/【業界經驗】具有AI人工智慧相關工作經驗至少一年/【授課經驗】具有相關教學經驗至少二年/【專業證照】備作品可/1.	設計AI相關主題之課程規劃。(舉例：人工智慧演算法、機器學習、深度學習、語音辨識、自然語言、電腦語音、影像辨識、類神經網路、機器人控制...等）/2.	撰寫課程大綱、教材、教案等內容。/3.	錄製教學影片或現場教學。/4.	回答學員問題，指導學員作業、專題。/5.	具備良好溝通、表達能力、教學熱忱與團隊正向溝通合作。,1~2人,1年以上,大學以上,,None,None,Android/C/C#/C++/Java/Python,,1. 熟悉AI相關理論及技術。 2. 熟悉機器學習及深度學習演算法。  3. 具備資料科學、自然語意、電腦視覺、影像或聲音辨識...等業界實務經驗與教學經驗。 擅長工具： 1.	熟悉Python或C或C++或C#等程式語言。(具備至少一種程式語言) 2.	熟悉OpenCV、TesorFlow、Keras、PyTorch等框架  請以104投遞履歷.,0~5人應徵,121.5513186,25.0412749
+13kmziew,6o2dj,中區-AI講師(機器學習、深度學習、自然語意、影像辨識...),"時薪800~1,600元",800,1600,電腦補習班老師/講師,  職務說明：/【業界經驗】具有AI人工智慧相關工作經驗至少一年/【授課經驗】具有相關教學經驗至少二年/【專業證照】備作品可/1.	設計AI相關主題之課程規劃。(舉例：人工智慧演算法、機器學習、深度學習、語音辨識、自然語言、電腦語音、影像辨識、類神經網路、機器人控制...等）/2.	撰寫課程大綱、教材、教案等內容。/3.	錄製教學影片或現場教學。/4.	回答學員問題，指導學員作業、專題。/5.	具備良好溝通、表達能力、教學熱忱與團隊正向溝通合作。,1~2人,1年以上,大學以上,,None,None,Android/C/C#/C++/Java/Python,,1. 熟悉AI相關理論及技術。 2. 熟悉機器學習及深度學習演算法。  3. 具備資料科學、自然語意、電腦視覺、影像或聲音辨識...等業界實務經驗與教學經驗。 擅長工具： 1.	熟悉Python或C或C++或C#等程式語言。(具備至少一種程式語言) 2.	熟悉OpenCV、TesorFlow、Keras、PyTorch等框架  請以104投遞履歷.,0~5人應徵,120.684082,24.1375331
+13kmziew,6o2dq,南區-AI講師(機器學習、深度學習、自然語意、影像辨識...),"時薪800~1,600元",800,1600,電腦補習班老師/講師,  職務說明：/【業界經驗】具有AI人工智慧相關工作經驗至少一年/【授課經驗】具有相關教學經驗至少二年/【專業證照】備作品可/1.	設計AI相關主題之課程規劃。(舉例：人工智慧演算法、機器學習、深度學習、語音辨識、自然語言、電腦語音、影像辨識、類神經網路、機器人控制...等）/2.	撰寫課程大綱、教材、教案等內容。/3.	錄製教學影片或現場教學。/4.	回答學員問題，指導學員作業、專題。/5.	具備良好溝通、表達能力、教學熱忱與團隊正向溝通合作。,1~2人,1年以上,大學以上,,None,None,Android/C/C#/C++/Java/Python,,1. 熟悉AI相關理論及技術。 2. 熟悉機器學習及深度學習演算法。  3. 具備資料科學、自然語意、電腦視覺、影像或聲音辨識...等業界實務經驗與教學經驗。 擅長工具： 1.	熟悉Python或C或C++或C#等程式語言。(具備至少一種程式語言) 2.	熟悉OpenCV、TesorFlow、Keras、PyTorch等框架  請以104投遞履歷.,0~5人應徵,120.301982,22.634896
+19huomw,71tj2,研發替代役_工研院巨資中心_機器學習技術與應用工程師(M1),待遇面議,0,0,軟體設計工程師/演算法開發工程師,研發人工智慧、機器學習、資料探勘等相關技術，以及在產業的實際應用,1人,不拘,碩士以上,資訊工程相關/資訊管理相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C++/Python,,"1. 碩士(含)以上，理、工系所畢業 2. 具機率、統計等資料分析基礎，如有修過深度學習、機器學習、最佳化理論、搜尋演算法等科目更佳 3. 有撰寫程式之經驗，如C++, Python等  *請檢附相當於TOEIC 650分之英語測驗成績證明，如無法提供，將安排參加本院英文檢測。",6~10人應徵,121.0479329,24.7740919

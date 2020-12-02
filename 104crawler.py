@@ -4,6 +4,7 @@ import requests
 import time 
 import json
 import re
+import os
 import argparse
 import logging
 
@@ -11,18 +12,32 @@ from pathlib import Path
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 
+url = input("輸入搜尋網址：")
 
+max_page = input("輸入最高頁數：")
 
+# Find the break point in url
+for match in re.finditer(r"page=\d", url):
+     Start index of match (integer)
+    start = match.start()
+
+     Final index of match (integer)
+    end = match.end()
+
+url_1, url_2 = url[:start+5], url[end:]
 
 
 job_total_values = []
 
 company_total_values = []
 
-for page in tqdm(range(1,151)):
-    url = f'https://www.104.com.tw/jobs/search/?ro=1&kwop=7&keyword=%E6%95%B8%E6%93%9A&order=12&asc=0&page={page}&mode=s&jobsource=2018indexpoc'
-    re = requests.get(url)
-    doc = BeautifulSoup(re.text, 'html.parser')
+
+for page in tqdm(range(1,29)):
+    url = url_1 + str(page) + url_2
+    
+    #url = f'https://www.104.com.tw/jobs/search/?ro=1&kwop=1&keyword=%E6%95%B8%E6%93%9A&expansionType=area%2Cspec%2Ccom%2Cjob%2Cwf%2Cwktm&order=1&asc=0&page={page}&mode=s&jobsource=n_my104_search'
+    reponse = requests.get(url)
+    doc = BeautifulSoup(reponse.text, 'html.parser')
 
      # 擷取工作頁面連結
     content = doc.find_all(['article'])
@@ -62,7 +77,8 @@ for page in tqdm(range(1,151)):
                 job_values.append('/'.join(list(map(lambda x: x['description'], job_text['jobDetail']['jobCategory']))))
             
                     # 4. 工作敘述: str
-                job_values.append('/'.join([text for text in job_text['jobDetail']['jobDescription'].split('\n') if text!='']))
+                job_values.append(re.sub(r'\r\n', '/', job_text['jobDetail']['jobDescription']))
+        
             
                     # 5. 需求人數: str
                 job_values.append(job_text['jobDetail']['needEmp'])
@@ -81,8 +97,8 @@ for page in tqdm(range(1,151)):
                     job_values.append(job_text['condition']['language'][0]['language']) # 語言條件
                     job_values.append(job_text['condition']['language'][0]['ability']) # 語言能力
                 else: 
-                    job_values.append('None')
-                    job_values.append('None')
+                    job_values.append('None')   # 語言條件
+                    job_values.append('None')   # 語言能力
 
 
                     # 10. 擅長工具: str
@@ -146,11 +162,15 @@ for page in tqdm(range(1,151)):
 
 
 
-
 job_columns = ['公司代碼','工作代碼','工作名稱','工資待遇','工資待遇(最低)', '工資待遇(最高)','工作性質','工作敘述','需求人數','經驗要求','學歷要求','科系要求','語文條件','語言能力','擅長工具','工作技能','其他條件', '應徵人數', '經度','緯度']
-df_job = pd.DataFrame(job_total_values, columns = job_columns)
-df_job.to_csv('../Dataset/job.csv', index = False)
-
 company_columns = ['公司代碼','公司名稱','公司類別(大)','公司類別(小)','公司人數','公司資本額']
+
+dataset_files = os.listdir('Dataset/')
+num_dataset_file = len(dataset_files) % 2
+
+
+df_job = pd.DataFrame(job_total_values, columns = job_columns)
+df_job.to_csv(f'Dataset/job_#{num_dataset_file}_.csv', index = False)
+
 df_company = pd.DataFrame(company_total_values, columns = company_columns)
-df_company.to_csv('../Dataset/company.csv', index = False)
+df_company.to_csv(f'Dataset/company_#{num_dataset_file}_.csv', index = False)
