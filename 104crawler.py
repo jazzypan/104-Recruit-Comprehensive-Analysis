@@ -5,8 +5,6 @@ import time
 import json
 import re
 import os
-import argparse
-import logging
 
 from pathlib import Path
 from tqdm import tqdm
@@ -18,10 +16,10 @@ max_page = input("輸入最高頁數：")
 
 # Find the break point in url
 for match in re.finditer(r"page=\d", url):
-     Start index of match (integer)
+    #Start index of match (integer)
     start = match.start()
 
-     Final index of match (integer)
+    #Final index of match (integer)
     end = match.end()
 
 url_1, url_2 = url[:start+5], url[end:]
@@ -32,7 +30,7 @@ job_total_values = []
 company_total_values = []
 
 
-for page in tqdm(range(1,29)):
+for page in tqdm(range(1,max_page+1)):
     url = url_1 + str(page) + url_2
     
     #url = f'https://www.104.com.tw/jobs/search/?ro=1&kwop=1&keyword=%E6%95%B8%E6%93%9A&expansionType=area%2Cspec%2Ccom%2Cjob%2Cwf%2Cwktm&order=1&asc=0&page={page}&mode=s&jobsource=n_my104_search'
