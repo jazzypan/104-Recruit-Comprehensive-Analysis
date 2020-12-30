@@ -1,0 +1,754 @@
+公司代碼,工作代碼,工作名稱,工資待遇,工資待遇(最低),工資待遇(最高),工作性質,工作敘述,需求人數,經驗要求,學歷要求,科系要求,語文條件,語言能力,擅長工具,工作技能,其他條件,應徵人數,經度,緯度
+1a2x6bibgg,749as,【約聘】新餐廳夥伴開發/業務人員 (桃園地區) - C46,"月薪25,000~45,000元",25000,45000,國內業務人員/通路開發人員,"1. 主動接洽餐飲企業，開發地方餐廳並訂立合作方案
+2. 個性積極、正面思考、迎接挑戰，對美食餐飲有極大熱誠
+3. Good Team Player，協調能力佳，認真負責
+4. 需具備陌生業務開發、銷售經驗
+5. 有外食市場，食品，餐飲經驗或背景者優先錄取
+
+*因應內部業務規劃，本職缺為3個月約聘業務(合約至2021/03/31)，約聘期滿將視個人績效表現擇優轉正。",1~5人,1年以上,高中以上,,None,None,,, ,30人以上應徵,121.2195963,24.9548954
+10ww9gpk,6s7d4,"【桃園/台中廠擴大招募】Data Engineer/ SR Data Engineer, Smart MFG & AI",待遇面議,0,0,資料庫管理人員/其他資訊專業人員,"As a Senior Data Engineer at Micron Technology Inc., you will be a key member of our Technology Solutions group within the Smart Manufacturing and Artificial Intelligence organization. The Data Engineering team works closely with Micron’s business functions(Domain expert, Data Scientist..etc) in all aspects of data, like Connect and automate the pipelines, provide data as products building data lake, data warehouse and data mart, and data cleansing and data governance developing Big data engineering, Machine Learning and advanced analytics solutions. We are looking for individuals with strong experience in Big Data and Cloud Datawarehouse technologies. This role will work primarily with Big Data technologies like Hadoop, Cloud data warehouse like Snowflake and GCP, ETL skills like Ni-Fi, Monitoring solutions such as Splunk, automation and machine learning using Python.
+ 
+You will ensure critical projects as well as higher level production support are delivered with high quality and collaboration with internal Micron team members.
+ 
+Responsibilities and Tasks      
+•	Clarify project requirements and deliverables
+•	Collaborate with Key project partners, Solution analyst and Architect on project needs and translate requirements into technical needs
+•	Identify and understand the data sources that are relevant for analysis   
+•	Become a subject matter expert in company data sources and visualization options 
+•	Consolidate the requirements and using data engineering skills to design a robust DataMart 
+•	Participate in design, architecture review and deployment of Big data and cloud data warehouse solutions
+•	Design for automation and monitoring mechanism in a continuous integration environment 
+•	Implement solutions that eliminate or minimize technical debt through a well-designed architecture, data model, and lifecycle
+•	Bring together and share best-practice knowledge among the data engineering community
+•	Work with OPS team through operational issues, escalations and resolve business partner issues in a timely manner with strong collaboration and care for business priorities.
+•	Collaborate with business partners and other teams to ensure data solutions are available, recover from failures and operate healthy
+ 
+What we are looking for:
+•	B.S. degree and above in Computer Science or related fields (Information Engineering, Information Management, Data engineering, Applied Mathematics) 
+•	3+ years of experience working with Big Data Solutions development
+•	3+ years using ETL tools (NiFi, Informatica, SSIS, Spark…etc) 
+•	3+ years developing with relational databases (MS SQL, Oracle, MySQL…etc) 
+•	1+ years developing with Machine Learning, Data Analysis Knowledge/Skills
+•	Strong application development skills and proficiency with Python, Java, Base shell, SQL…etc 
+•	Strong developing applications with Hadoop Eco. Such as Hive, Spark, Kafka, HBase
+•	Experience with Cloud services such as GCP, AWS, Snowflake
+•	Experience with designing data monitoring dashboards by using Splunk, Tableau or any others visualization tools
+•	Experience with web-applications/technologies development and deployment (RESTful services, Flask, Django, SpringBoot and ASP.net…etc)
+•	Knowledge about container services such as Docker, Kubernetes, OpenShift is a plus
+•	A passion for data and information with strong analytical, problem solving, and organizational skills
+•	The ability to work in a dynamic, fast-paced, work environment
+•	Self-motivated with the ability to work under minimal supervision
+•	On-call support for escalated ticketing handling is expected for customer service 
+•	Good communication skills in English or TOEIC 650 and above",不限,3年以上,大學以上,資訊管理相關/資訊工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,***請務必至本公司職缺網站https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=225421&company=micron 應徵本職缺，並附上英文履歷/自傳。謝謝。 ***,11~30人應徵,121.3736985,25.0383964
+18n64g34,6tljd,E8131 企業客戶事業群 - 資深業務(高雄),待遇面議,0,0,國內業務人員,"1. 開發暨維護南部地區企業客戶需求，確保營收持續增長並創造更高業績。
+2. 提供企業客戶專業的顧問式服務，協助挖掘痛點，導入提升營運效率及創新商轉之技術應用，包含軟體與硬體整合，資通訊解決方案（ICT）、物聯網（IoT）、雲端（Cloud）、數據分析（Big Data）、使用者導向、使用情境、應用規劃等，執行整合概念之銷售模式，提供企業客戶完整的解決方案。",不限,1年以上,專科、大學、碩士,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,,,1. 具政府標案投、開標實戰經驗者佳。 2. 具電信或系統整合業務工作經驗者佳。 3. 熟悉固網及行動網路相關電信產品者佳。 4. 主動積極，對業務相關工作有高度熱忱及企圖心。 5. 擅長與人溝通協調，熟悉簡報技巧及客戶關係管理。,30人以上應徵,120.314803,22.582804
+1a2x6bj2ma,74cdz,資深應用工程師 Senior Application Engineer,待遇面議,0,0,電子工程師/電子產品系統工程師,"The Role
+OptimalPlus is now NI. NI OptimalPlus Solution is a Big Data analytics software that provides end-to-end solutions enabling automotive, semiconductors and electronics brand owners to protect the product quality and enhance their brand reputations in the market. 
+
+Application engineer (AE) in NI OptimalPlus works as part of a dynamic team, while the role is truly an individual contributor, a high degree of customer interaction and teamwork is required to be effective in the role. Senior AE is responsible for ensuring the value delivery of NI OptimalPlus solutions to the customer and optimizing the use of tools for the customer. As a senior application engineer, you must have a solid understanding and appreciation for critical aspects of yield, quality, reliability, and throughput in a high-volume manufacturing environment. This role involved with demo to initiate upsell or new leads and do pilot to win the deal by solid ROI providing and act as the focal point for escalations by customers which are assigned to him as such he centralizes and prioritizes those requests and deliver timely solutions.
+
+Key Responsibilities
+•	Develop rules (using OT-Rules, an expert rules-based engine) that will insure the improved operational efficiency of the customer’s distributed test operations. 
+•	Identify opportunities, as a result of real production observations, for improved yield, quality, reliability and operational efficiency and articulating those opportunities to the customer. 
+•	Develop and maintain a deep technical understanding of NI OptimalPlus software applications to effectively support NI OptimalPlus customers. 
+•	Work with NI OptimalPlus Product Management, Sales and Marketing to understand and define customer enhancement requirements and requests to current and future NI OptimalPlus applications. 
+•	Ensure that every customer is treated professionally and with respect 
+•	Define Priorities for his account (day to day support, new functionalities, training, up sale activities)
+•	Responsible for ROI summary reports for his customer account.
+•	Attend escalation meetings with customers face to face, set an improvement plan
+•	Responsible for technical expertise of his customer
+•	Accountable to grow his account measured in Quarterly Business Review (Customer satisfaction, Return on Investment, Response rate, Up-sale/contract renewal) 
+•	Act as a customer advocate to NI OptimalPlus Product Management and R&D 
+
+Key Performance Objectives
+•	Maintain customer KPI
+•	Create ROI for customer
+•	Win pilot or upsell deal
+•	Deliver training and application projects
+•	Customer satisfaction
+
+Qualifications and Skills
+
+Basic Qualifications
+•	Bachelor or master’s degree in electrical engineering, Computer Science, or related field
+•	5 to 8 years of experience at Fabless or Test House companies on Yield/Product/Test aspects as application or product engineer
+•	Experience and knowledge of semiconductor manufacturing and test operations, and use of data analytics and/or business intelligence applications in test operations, yield, efficiency, and quality
+•	Strong knowledge of C#(.NET)/R/JavaScript/Java/C/C++/Python or equivalent programming languages
+•	Proficiency in JMP, Excel, or other analysis tools
+
+Preferred Qualifications
+•	Familiarity with multiple data file formats but not limited to XML, XSD, STDF, and CSV
+•	Working knowledge using online tools to troubleshoot software and hardware interoperability problems
+•	Knowledge of and use of enterprise data analytics and/or enterprise business intelligence applications in achieving business value a plus
+•	Experience working in a highly secure environment
+•	Familiar with test platform especially TP development and debug incl. Advantest, Teradyne, NI, etc.
+
+If you're interested to apply, please drop your resume here : https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1421/?utm_medium=jobshare",1人,5年以上,大學、碩士,,英文,聽 /中等、說 /精通、讀 /中等、寫 /中等,C/C#/C++/C++.Net/Java/Python/JavaScript,,,6~10人應徵,121.5482467,25.0217501
+1a2x6bj1nc,6mezc,Sr. Embedded Software Engineer 資深嵌入式軟體工程師,待遇面議,0,0,韌體設計工程師/軟韌體測試工程師,"【 About the role 】 
+Furbo 狗狗攝影機是少數台灣自行研發，且成功熱銷全球的消費性 AIoT 產品。毛爸媽們可以透過手機確認家中毛小孩的安全狀況並與毛小孩互動。資深嵌入式軟體工程師
+ (Embedded Software Engineer) 會負責嵌入式系統 (Embedded Linux) 的軟體開發， 包含AIoT系統軟體架構設計、P2P連線品質、多媒體影音串流優化，整合並最佳化系統。
+
+【 About the company 】 
+Tomofun是全球寵物科技業中，第一家實踐AIoT於產品-Furbo 狗狗攝影機的台灣新創。Furbo結合 AI、深度學習及雲端大數據，能辨識並分析狗狗行為，讓狗爸媽即使不在家也能隨時隨地瞭解寵物狀態、與寵物互動！2016年至今，Furbo已進入全球13國市場，目前已有數十萬使用者、遍布133國，並位居歐美亞10國Amazon寵物類別銷售冠軍。 
+
+立足台灣的Tomofun，至今每年都有超過200%的驚人成長！延攬多國菁英，組織扁平、資訊透明的環境，讓每位Tomofuner都是產品的重要推手。想加入AIoT智慧時代、不畏挑戰、夢想用能力改變世界的你，Tomofun是屬於你的舞台！ 
+
+【 What you'll do 】 
+・Furbo影音串流功能與品質調教
+・設計與開發middleware，以介接功能與底層平台
+・Firmware效能優化、記憶體優化 
+・Edge AI模型整合與效能優化 
+・各項Furbo新功能開發 
+・SoC平台評估與SDK整合
+
+【 Who you are 】 
+・資工/電機或相關科系碩士畢業
+・5 年以上嵌入式系統(embedded system)相關工作經驗 
+・精通 C/C++ 與 Linux embedded system
+・熟悉系統架構，並有中大型系統設計、開發與系統整合(system integration)經驗
+・熟悉多媒體串流技術如RTSP，開源軟體如live555, ffmpeg等
+・熟悉網路通訊與藍牙技術
+・熟悉 Makefile, CMake, Git, Gerrit等 
+・熟悉敏捷開發流程
+・善於並享受團隊合作 
+
+【Benefits】 
+・無限期休假制度，努力工作同時也要用力玩樂生活！ 
+・彈性上下班時間，你可以依照自己的作息彈性調配。 
+・在Tomofun每天都可以帶你的寵物來上班，讓你們時時刻刻都在一起，毛小孩們永遠不寂寞。 
+・可以和對科技創新充滿熱情的跨國團隊一同合作，各領域好手齊聚一堂，相處融洽，彼此腦力激盪，創意無限！。 
+・永遠都滿到不行的零食櫃，冰箱飲料、點心無限量供應！ 
+・舒適又具創意的工作環境，像家一樣溫馨自在。 
+・不定期的公司活動(電影日/披薩日/按摩日)，在Tomofun讓你兼顧生活與工作的平衡。 
+・每年正職員工皆享有年度健康檢查，不只照顧你的頭腦也照顧你的身體。 
+・每位正職員工配有兩台Furbo，讓你隨時可以與家中寵物互動！ 
+・每兩週皆有下午茶日與每月慶生會，各種台北知名下午茶甜點免排隊送到你桌上！ 
+・圖書館中有豐富有趣的書籍，可以隨時借閱，也歡迎推薦各類好書，讓我們一同成長。 
+・Tomofun長久以來專注社會公益議題，公司不定期有志工日和志工計畫，歡迎在工作之餘，也可以與我們一同讓世界更好。 
+・員工旅遊和不定期戶外活動！ 
+・每月月會後一起跟同事們吃大餐，人生就是要好好吃美食！ 
+・每位員工都是Tomofun的珍貴資產，各個面向的內外部訓練，讓你在各階段都能與我們一同成長。
+",1人,5年以上,碩士以上,,None,None,,,System Application Engineer  系統應用工程師 嵌入式系統 Linux embedded system system integration,0~5人應徵,121.5494527,25.061374
+1a2x6bjncy,74nyj,EVOX DevOps 雲端維運工程師,待遇面議,0,0,網路管理工程師/其他資訊專業人員/電腦系統分析師,"本職缺為雲端維運工程師 -- DevOps， 它是近年來最酷的工作，你將被要求同時具備開發與維運兩種專業，進而保證公司的服務器能自動的、不停止的、且無誤的運行，這是一份非常有趣而又有挑戰性的工作，歡迎研發工程師轉換軌道。
+
+https://buzzorange.com/techorange/2019/10/28/programmer-career-path/
+(2019/10科技報橘報導:  不想要一輩子只寫程式？當了 5 年的工程師後，你可以考慮往這 5 個職位發展 --> 其中之一就是 DevOps 工程師)
+
+DevOps = Development + Operation 
+
+DevOps engineer is the coolest job in the recent fast-growing cloud based industry. You will be responsible for the development, operation and maintenance of D2 Nova’s servers which run on Amazon Web Service (AWS) cloud. 
+
+D2 Nova is the creator of the VX communications platform, namely the CPaaS (Communication Platform as a Service). D2 is aiming at developing an easy-to-use communication platform which combine the future technologies such as AI and big data. Our headquarters is based in California, US, with branch offices in Taipei, Hsinchu, and Beijing. 
+
+美商迪諾亞D2 Nova為美商迪爾亞D2 Tech 轉投資的公司，承襲母公司專業的IP通訊技術，D2 Nova以發展網路服務平台CPaaS、並結合人工智慧AI為目標，並基於原母公司的電信技術IMS、VoLTE、RCS，結合OTT與Web雲端科技，將服務實現在公有雲(Public Cloud, AWS)之上，提供優質的互聯網通訊服務。D2 Nova總部設於美國加州聖塔芭芭拉。 
+
+關於職務 :
+  
+Responsibilities :
+* Handle daily routine tasks to achieve our SLA to customers.  You also need to provision and deploy for PoC projects.
+* Work with developers to support their tasks and projects.
+* Be part of the DevOps team to continue our quest for automating and streamline the whole provisioning and CI/CD process.
+
+Basic Qualifications:
+* Bachelor's or Master's degree in Computer Science or related fields.
+* 3+ years of experience of system administration in Linux/Unix server operation environments.
+* Python Scripts -- SQL Database Reports, AWS Lamda Functions, AWS Command Line Scripts, 
+* Administer Linux System (Ubuntu) --  systemd scripts, ssh into bash shells, Cron jobs, Install software, apt-get install, dpkg -i ,
+* Bash Scripts -- Build microservices in Jenkins, Deploy software,
+* SQL -- Command Line Client, Scripting, 
+* Infrastructure Deployment -- CloudFormation, Ansible,
+* Docker -- Dockerfiles and Creating Images, Creating Docker hosts, Managing and Updating Docker Hosts, AWS ECR
+* Kubernetes -- Create on Linux Instances, AWS EKS, GCP Kubernetes
+
+
+Preferred Qualifications:
+* A good command of English.
+* In-depth experience with AWS
+* Experience with SQL and with a solid programming background.
+* Experience with Configuration Management Systems like Salt or Ansible.
+* Experience with Docker and/or K8s.
+* Experience with build/release (CI/CD) pipelines and methodologies (Jenkins, Hudson, Spinnaker, etc.).
+* An understanding and passion for developing highly secure and highly available systems
+
+
+Location 工作地點: Taipei Neihu 台北 內科
+",1~2人,3年以上,大學以上,資訊工程相關/電機電子工程相關/資訊管理相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Linux/Java/HTML/JavaScript/DHCP/TCP/IP/Python/C++,伺服器網站管理維護/資料備份與復原/資訊設備環境設定/系統架構規劃/系統整合分析/軟體工程系統開發/軟體程式設計,,0~5人應徵,121.5694678,25.081577
+1a2x6bibgg,749ba,【約聘】新餐廳夥伴開發/業務人員 (台南地區) - C48,"月薪25,000~45,000元",25000,45000,國內業務人員/通路開發人員,"1. 主動接洽餐飲企業，開發地方餐廳並訂立合作方案
+2. 個性積極、正面思考、迎接挑戰，對美食餐飲有極大熱誠
+3. Good Team Player，協調能力佳，認真負責
+4. 需具備陌生業務開發、銷售經驗
+5. 有外食市場，食品，餐飲經驗或背景者優先錄取
+
+*因應內部業務規劃，本職缺為3個月約聘業務(合約至2021/03/31)，約聘期滿將視個人績效表現擇優轉正。",1~5人,1年以上,高中以上,,None,None,,, ,11~30人應徵,120.2042698,22.9965352
+1a2x6bklmh,73zjs,大數據工程師,待遇面議,0,0,軟體設計工程師/電腦系統分析師/演算法開發工程師,"1.	主導設計及建置數據平台
+2.	控制及維護資料庫，以確保資料庫架構、對象、數據、結構的一致性
+3.	設計流程，以確保儲存資料庫中的數據準確性、完整性和即時性
+4.	架構高速、穩定且容易擴充的計算平台，例如AWS(Auroa, Redshift, EMR), GCP(BigQuery, Firebase)
+5.	使用ETL做數據處理的組件和模組開發
+",1人,不拘,大學以上,資訊工程相關/數理統計相關/其他數學及電算機科學相關,None,None,Python/R/Scala/MySQL,系統架構規劃/軟體程式設計/Machine Learning/資料庫程式設計,1. 熟悉分析應用領域，例如客戶數據分析、數據推動市場、銷售和市場的績效分析者優先 2. 熟悉監控雲端系統者優先 3. 熟悉運用restful APIs者優先,11~30人應徵,121.5718383,25.0759118
+1a2x6bk39d,70hci,AI大數據架構師,待遇面議,0,0,軟體設計工程師/軟體專案主管/演算法開發工程師,這是一個全新的團隊，期待有想法有衝勁的人能夠加入我們。/初期需要建立底層數據庫，未來帶領團隊前進。//1.	負責大數據平台系統架構設計與環境佈署管理。/2.	負責核心技術難題的處理，協助解決團隊遇到的技術難題。/3.	人工智慧應用/大數據技術架構與策略制定；具備開發能力、須親自與同仁一起完成專案開發。/4.	負責大數據平台系統新技術研究與需求性模組引進、整合與測試管理。/5.	數據資料清洗與統計分析。/6.	協助專案研發與新技術的導入。/7.	熟悉機器學習演算法之開發及優化。/8.	熟悉AWS or GCP or Spark系統架構，具備系統架構實務經驗。,1人,不拘,碩士以上,資訊工程相關/數理統計相關,None,None,,,1.	有Big Data分析經驗者(Distributed Systems/Big Data Processing/Cloud Computing)。 2.	有統計分析經驗者為佳。 3.	數學統計，資訊工程等相關科系碩士畢以上為佳。,0~5人應徵,121.5253392,25.0380869
+cv8shww,6nmju,大數據工程師,"月薪60,000~85,000元",60000,85000,演算法開發工程師/統計學研究員,工作內容/1. 針對Large scale streaming and unstructured data去規劃設計公司服務平台之資料架構。 /2. 執行公司資源數據分析專案與任務，並資訊視覺化報表與簡報產出。 /3. 規劃、實做與維護公司之數據分析平台。 /4. 開發與維護新的預測模型。  /5. 資料庫優化及日常維運。 /6. 負責規劃、實做與維護為研究數據所建立之POC環境。 /7. 與開發人員合作，改進數據收集程序，並將機器學習算法推向正式環境。 /8. 與產品經理合作設置數據產品策略。 /9. 負責帶領其他初級數據工程師。 //應徵條件/1. 能即時了解最新的大數據架構，機器學習平台和開源工具，並與團隊分享。 /2. 有接受過程式語言的基礎訓練，如Java、Python、R等，擇一即可。  /3. 具演算法或機器/深度學習等數據建模能力尤佳（加分）。  /4. 有實際產品上線經驗（加分）。 /5. 有經歷過敏捷開發流程（加分）。//*本職務可接受實習及兼職，一週須安排 3 天以上全日班，能力與工作內容面談。/,1人,3年以上,大學以上,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Java/Python,,,6~10人應徵,121.548223,25.029112
+abdz5yx,6mq2z,專員(大數據),"月薪28,000~35,000元",28000,35000,資料輸入人員/其他客戶服務人員/行政人員,1.協助校正語音文字資料，協助整理其他聲音及文字資料。/2.協助處理專案相關事宜/3.需具備中文聽打能力，每分鐘60個字以上；具備英文聽打能力加分。/,2~3人,不拘,大學以上,,None,None,,,,6~10人應徵,121.5152669,24.992605
+b64m6g0,6u86h,大數據分析師,待遇面議,0,0,統計精算人員/電腦系統分析師,1、資料庫維護/2、開發智慧製造應用大數據分析演算法與功能模組/3、與系統團隊合作將功能模組整合成為整體解決方案/4、配合產業需求進行分析服務診斷/5、具大數據分析經驗者,1人,2年以上,大學以上,統計學相關/一般數學相關/數理統計相關,None,None,,,,11~30人應徵,121.5586686,25.0324168
+1a2x6bkbn6,5x0ln,AI 大數據科學家,待遇面議,0,0,演算法開發工程師/軟體設計工程師/統計學研究員,"1. 運用統計及機器學習等技術，針對客戶需求，研發與實作演算法程式碼
+2. 演算法設計、開發與驗證
+3. 協助專案研發與新技術的導入。
+4. 數據分析、建模等相關工作，並進行模型評估
+5. 資料視覺化設計
+
+",1~5人,不拘,專科以上,,None,None,Linux/Github/Python,,"加分項目： 1. 具半導體經驗，了解半導體製程，有處理過良率改善經驗 2. 曾撰寫過 GPU相關程式。 3. 熟MongoDB 4. 熟Apache Spark 5. 熟以下之一：CUDA , CuPy, MPI, OpenMP 6. 熟以下之一：tensorflow, keras, pytorch PS. 誠信、負責、主動積極、有挑戰精神優先錄取 ",11~30人應徵,121.5710135,25.0455053
+18ix2fqw,74dad,大數據工程師,待遇面議,0,0,軟體設計工程師/電腦系統分析師/Internet程式設計師,"1.執行系統維護與專案系統的開發
+2.系統測試、撰寫程式說明文件及測試案例文件
+3.進行網站應用系統需求分析與規劃
+4.數據分析",1人,3年以上,大學以上,資訊管理相關/資訊工程相關,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Java/Python/MySQL/hadoop,系統架構規劃,1. 能獨立執行任務、解決問題 2. 對新事物/技術能持續學習，進行系統規劃與執行能力 3. 具電子商務系統、及流量分析經驗尤佳 4.擅長工具：Java(熟練)、 Scala(中級)、Python(初級)、SQL(熟練)、Regular Expression(熟練)、Camel(熟練)、MySQL(中級)、Hadoop(熟練)、Spark(熟練)、Storm(熟練)、Splunk(中級)、Solr(熟練)、Logstash(初級)、Redis(中級) 5. 具有數據工程、架構設計、行銷資料科學經驗,11~30人應徵,121.581311,25.0501682
+7hsiods,6nnhm,AI大數據分析師/主管,"年薪500,000~1,300,000元",500000,1300000,軟體設計工程師/演算法開發工程師/資料庫管理人員,"FinTech 菁英 /1. 數據資料清洗與統計分析。 /2. 運用演算法建立模型及優化，機器深度學習 /3. Python /4. 有Big Data分析經驗者(Distributed Systems/Big Data Processing/Cloud Computing)。 /5. 有使用decision trees, multivariate logistic regression, kNN, kMeans等任一種機器學習演算法的經驗。 /6. 有統計分析經驗者為佳。 （SAS SPSS等）/7. 數學統計，資訊工程等相關科系畢。/8. 應徵主管職缺者，需有金融產業相關的AI 大數據工作經驗及有帶人執行專案經驗",1~10人,1年以上,大學以上,數理統計相關/資訊工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,軟體程式設計/Machine Learning/資料庫系統管理維護/資料庫軟體應用,"1.資料科學/數據分析/金融業工作經驗佳。									 2.具SQL、Python或R程式能力。										 3.資料庫、特徵工程、機器學習，以及大數據架構與經驗者佳。										 3.1.熟悉MySQL/HBase。								 3.2.數值離散化、標準化。非數值型、數據擴增、降維...等處理。									 3.3.有使用decision trees, multivariate logistic regression, KNN, KMeans等任一種機器學習演算法的經驗。									 3.4.熟悉Hadoop/Hive/Spark相關數據計算經驗者佳。									 4.熟悉報表、圖表之展示及分析工具(Cognos/Tableau尤佳)。									 5.樂於分享技術和經驗, 幫助他人共同進步。										 6.了解電子金融或電子支付技能尤佳。",11~30人應徵,121.5743267,25.0759802
+ahfsoq0,6zy4c,AI大數據研發工程師/專員 - J1913,"月薪34,000元以上",34000,9999999,軟體設計工程師/演算法開發工程師,1. 數據資料前處理（包含數據清洗、特徵工程、數據相關性分析）。/2. 資料可視化處理。/3. 演算法開發與建模。/4. 機器學習、深度學習或其他相關演算法應用。/5. 參與專案與系統架構流程規劃。/6. 工作待遇/職稱(助理工程師、工程師或專員)：將依學經歷進行敘薪。,2人,不拘,大學、碩士,工程學科類/數學及電算機科學學科類/資訊管理相關,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,C/C#/C++/Python,,1. 熟悉數值分析理論、多變量分析方法與實作為佳。 2. 熟悉單變量SPC、多變量SPC技術為佳。 3. 熟悉機器學習及深度學習理論，並具備實作技術為佳。  4. 熟悉Python及下列一種語言：C、C++、C#為佳。 5. 熟悉numpy、pandas、SKLearn或其他數據處理、機器學習工具為佳。 6. 熟悉Keras、Tensorflow、Pytorch、Caffe或其他深度學習平台為佳。 7. 熟悉Matplotlib或其他資料可視化工具為佳。,11~30人應徵,121.373196,25.0511193
+cwxs6o0,6zoxf,大數據工程師[新竹],"月薪35,000~65,000元",35000,65000,軟體設計工程師/通訊軟體工程師/軟體相關專案管理師,1.構建設計核心後端AI / ML / DL系統和平台。/2.設計和開發可有效處理數據和圖像/視頻的智能和可擴展後端AI系統。/3.提供ML / AI / DL解決方案的數據建模，挖掘，模式分析，數據可視化和軟件工程。/4.建立分析結果報表，並將產出整合至產品。/,1人,2年以上,大學、碩士,,None,None,C/C++/Java/Python/Scala,,1. 具有大數據工具的經驗：Hadoop、Spark、Kafka 等。 2. 有關聯式 SQL 和 NoSQL 數據庫（包括 Postgres 和 AWS Athena）的經驗 3. 具有雲端服務的經驗。 4. 具有物件導向/函數式語言的經驗：Python、Java、Scala 等。,6~10人應徵,121.0057342,24.7836131
+1a2x6bkxph,6qwx5,Senior Python Data Backend Engineer(大數據),待遇面議,0,0,軟體設計工程師,"1.Design, develop, and maintain Big Data related projects including EDW system and ETL pipeline for data access, collection, processing and storage./2.Manage deployment of the Big Data Infrastructure and services on AWS./3.Dedicate to Big Data and Machine Learning Platform using Apache Spark and related technologies./4.Investigate, survey and evaluate various state-of-the-art technologies./5.Introduce new technologies and tackle the derived problems./6.Implement and popularize excellent software development processes and best practices.",1~3人,4年以上,專科以上,數學及電算機科學學科類/工程學科類/資訊管理相關,None,None,Linux/Python,,"Qualification:  1.BS/MS in Computer Science or Information Management (or equivalent). 2.3+ years of experience related to Big Data technologies such as Hadoop, Spark, Kafka, Cassandra, and Elasticsearch etc.  3.Expert in processing data with Python and some API frameworks, such as Flask. 4.Expert in RDBMS/NoSQL database administrator and SQL performance tuning.  5.Experience with microservice development and architecture design. 6.Ability to work in a fast-moving team environment  Nice to have:  1.Contributing to open source projects a huge plus (Please include your github page)  2.Experience with stream-processing systems: Spark-Streaming, Storm, etc. 3.Experience with Docker / K8s 4.Experience with Public Cloud like AWS is a plus",0~5人應徵,121.574784,25.0726577
+1a2x6bjgmv,70s5v,T109001 大數據處理工程師,"月薪26,000~50,000元",26000,50000,醫療器材研發工程師/演算法開發工程師/統計學研究員,"1.C語言演算法開發
+2.韌體開發
+3.ISO相關文件處理
+4.其他公司交辦事項
+",1人,不拘,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,具備韌體開發相關經驗，若有C語言演算法程式開發經歷尤佳 具備韌體開發及C語言演算法開發能力 主動積極、嚴謹務實、敬業樂群,0~5人應徵,121.0485985,24.8062867
+7mmueb6,6a27l,大數據工程師(POD00),待遇面議,0,0,軟體設計工程師,工作內容：/以集團內部之電商資料，進行資料處理、資料分析，並持續完善現有的資料倉儲、資料超市，以支援業務需求。/專案類型多元，根據不同專案，會接觸到模型設計、指標設計、成效分析乃至整個 Data pipeline 的設計與串接。//擅長工具：/擅長 Python & PySpark 或 Java & MapReduce/熟悉SQL,1人,1年以上,大學以上,資訊工程相關/數理統計相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Java/Python,,－ 具1年以上，相關工作經驗。 － 具大數據分析與統計經驗。 － 熟 data mining。 － 熟 Machine Learning 佳。 － 熟 hadoop 及 hadoop ecosystem 加分。 － 熟 任意雲端服務佳。 － 熟 Lucene / Solr / Elasticsearch 佳。 － 熟 NoSQL 佳。 － 有電商經驗 佳。,11~30人應徵,121.5491655,25.0284385
+1a2x6bjjhc,6v9d2,大數據研究中心研究員,"月薪33,000~50,000元",33000,50000,其他研究人員/統計學研究員/社會／人類學研究人員,工作內容：/1. 民意調查、市場調查之規劃、執行、分析與報告撰寫。/2. 撰寫期刊論文。/3. 尋找研究議題。/4. 能獨立進行研究能力。/5. 具備政策科學專長，並熟悉調查訪問、傳播研究、經驗政治、計量方法者優先考量。/6. 面試者請附上論文著作目錄及主要學術成就///工作條件：/1. 有寫中英論文的經驗/2  熟悉 G-suite 或 Endnote / Mendeley ，具科學文獻搜索整理能力操作者佳/3. 熟悉民意調查、市場調查之規劃與執行/4. 熟悉SPSS、SAS、STATA統計軟體/5. 有民意調查、市場調查、訪員管理經驗者，優先錄用/6. 能夠有效地向大眾說明複雜的概念/7. 能夠跨部門進行有效率的團隊合作/8. 樂於在多任務且快節奏的動態環境中工作/9. 具備進階心理計量及統計相關經驗如貝式統計(Bayesian statistics)，認知診斷模型(Cognitive Diagnosis Models)或機器學習領域尤佳/10. 熟練分析工具如  R 或 Python 等優先,2人,不拘,碩士以上,企業管理相關/社會學相關/數理統計相關,None,None,,市場調查企劃與執行/統計軟體操作/申請與執行研究計畫/撰寫研究報告與論文,,11~30人應徵,121.534577,25.0581384
+1q0r45c,57ywe,大數據應用分析人員,"月薪45,000~80,000元",45000,80000,營運管理師／系統整合／ERP專案師/統計精算人員/銀行辦事員,"工作範圍涵蓋大數據分析商業問題溝通、規劃、執行及商業價值轉換，實現端到端大數據分析服務及數據場景金融。
+1.具良好邏輯分析能力及數據洞察能力，將商業問題轉化為數據分析可解決問題，並評估數據分析可帶來的商業效益。
+2.熟悉SQL/ Excel/ Python/SPSS等統計分析及資料處理能力，運用銀行內部及外部數據，據以發展符合客戶需要的數據產品或服務。
+3.熟悉數據視覺化，透過BI或數據視覺化工具將數據轉換為具業務洞察的圖表
+4.透過機器學習模型建置及數據場景發想與運用，最大化數據應用價值。
+5.實現多元數據應用(如：網路爬蟲 、文字探勘、語音分析、地理資訊系統 、智能語音分析等)。
+6.實現數據場景金融，透過開放銀行Open banking及第三方合作伙伴數據共享。",1~2人,3年以上,大學以上,,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,,,"1.熟悉資料處理相關語言，如：Python/Impala/Hive經驗，能運用機器學習演算法處理資料，建立預測模型者經驗者加分。 2.熟悉BI及資料視覺化經驗者加分。 3.熟悉搭建、操作大數據工具 (Hadhoop, Spark, Hive)經驗者加分。 4.具爬蟲開發、API 數據擷取經驗者加分。 5.具PMP證照者加分。",30人以上應徵,121.552257,25.0381583
+1a2x6bkzym,70aaz,大數據資料處理工程師,待遇面議,0,0,軟體設計工程師,1.開發大數據系統資料處理平台/2.串流資料平行化處理程序開發，熟悉分散式運算、平行運算/3.解決大量資料處理時所衍生的效能、擴充、與維護問題/4.具有大數據資料解析程式開發能力 /5.與其他系統開發工作團隊配合/6.能獨立作業，抗壓性高,1~2人,不拘,大學以上,資訊工程相關/資訊管理相關,None,None,Linux/Java/Python/JDBC/MySQL/ODBC,作業系統基本操作/軟體工程系統開發/軟體程式設計,"*對大數據資料處理及分析有高度興趣者 *熟悉資料處理相關語言如Erlang,  C++, Python, shell script 等...... *熟悉建置分散式系統或伺服器端程式開發尤佳",11~30人應徵,121.522377,25.054823
+1a2x6bl7o5,6yaz0,企業輿情大數據分析師,"月薪30,000~45,000元",30000,45000,市場調查／市場分析/品牌宣傳及媒體公關人員／主管/產品企劃開發人員,"1.應用網路輿情大數據，研究企業輿情的變化。
+2.使用輿情系統進行網路大數據資料混搭，從數據中解讀企業面臨的風險與機會。
+3.熟悉主要網路新聞、論壇、社群、影音平台，平時是社群媒介重度涉入者。
+4.對產業競爭環境、上下游關係、供應商關係等商業策略議題有基礎認識。
+5.邏輯清楚，思考細膩，具備企劃提案和報告解說能力。
+6.需要和客戶面對面溝通，屬於顧問式工作類型。
+7.個性外向、熱情，經常保持愉快笑臉。
+8.具備統計和行銷領域知識比較容易上手。
+",1人,1年以上,碩士以上,統計學相關/企業管理相關/大眾傳播學相關,None,None,,統計軟體操作/市場調查資料分析與報告撰寫, ,11~30人應徵,121.5486774,25.0580197
+1a2x6blb66,71w53,大數據工程師(Senior),待遇面議,0,0,軟體設計工程師/資料庫管理人員,"1. 依據專案需求進行系統設計與功能規劃。
+2. 參與開發技術方案制定及相關文件編寫。
+3. 數據清洗(ETL)與創建所需的Data Pipeline
+4. 維護並優化現有數據倉庫模型
+5. 與數據分析師協作建立數據模型
+6. 代碼交付及部署升級流程開單
+7. 測試環境安裝與部署
+8. 線上問題釐清與排除
+9. 學習和研究新技術以滿足效能優化及系統需求",1~2人,3年以上,大學以上,,None,None,Scala/MySQL/hadoop/Hive,軟體程式設計,"※Basic Requirements※ (1) 三年以上軟體開發經驗 (2) 大學學歷以上 (3) 熟悉大數據開發框架, 如spark-cores, spark-sql...等等	 (4) 具備至少一種開發語言能力: python, scala, java (5) 學習新知識的熱忱，自驅動能力強，且善於獨立思考解決方案 (6) 擁有團隊意識，願意與團隊成員一同學習成長  ※Preferred※ (1) 具有大數據數據庫的應用經驗，如Hive, HBase...等等 (2) 熟悉 spark-streaming框架，並對實時流的處理有一定的經驗",0~5人應徵,121.5664128,25.0804137
+1a2x6biclh,6vxae,大數據分析專員,待遇面議,0,0,軟體設計工程師/MIS程式設計師/統計學研究員,負責大數據各類分析/須具基本經驗及能力/地點在新北市政府（新莊聯合辦公大樓）,1人,1年以上,大學、碩士,,None,None,,,,6~10人應徵,121.4178347,25.0265985
+17n3i7lk,550g9,大數據稽核諮詢顧問,待遇面議,0,0,顧問人員/稽核人員,1. 企業營運風險數據分析服務/2. 企業營運風險交易及自動化稽核平台建置服務/3.企業營運風險自動化監控工具開發與優化服務,不限,2年以上,大學、碩士,一般商業學類/企業管理相關,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,Excel/Outlook/PowerPoint/Word,,1. 大學以上管理、數據分析與應用相關科系所畢業。 2. 兩年以上數據分析相關工作經驗。 3. 精通兩種以上程式語言、資料分析或BI工具。 4.  邏輯思考能力佳，具創造力及解決問題之興趣與企圖。 5. 主動積極、具抗壓性、良好之溝通、協調、表達及獨立思考能力。 6. 英文聽、說、讀、寫能力佳。 7. 必需配合出差。 8. 有意願在顧問領域成長且發展者。 ,0~5人應徵,121.5680995,25.0352447
+1a2x6bl2g9,6sw4i,大數據實施工程師,待遇面議,0,0,系統維護／操作人員/網路管理工程師,工作職掌：/1.參與客戶需求及數據調研，數據對接方案設計；/2.參與項目實施工作，協助客戶完成數據接入工作；/3.為客戶提供技術支持，解決客戶使用 API 以及數據處理工具時遇到的問題；/4.準確底將客戶需求傳達給產品研發團隊，並進行必要的整理和歸納。//職務要求：/1.資訊相關系所畢業，有一年以上的實施、測試或者開發經驗；/2.有大數據相關經驗者優先；/3.邏輯清晰，有工程師思維和較強的協同工作能力；/4.快速學習能力，主動性強。,1~3人,2年以上,大學以上,數理統計相關/資訊工程相關/應用數學相關,None,None,Linux/Java/ETL/MySQL/hadoop/Google Analytics/Google Tag Manager,伺服器網站管理維護/資料備份與復原/系統維護操作,,0~5人應徵,121.5418039,25.0517382
+1a2x6bjr0y,7457p,大數據運維工程師,"月薪40,000~60,000元",40000,60000,MIS程式設計師/MIS／網管主管/網路管理工程師,"1、負責Hadoop、HBase、Hive、Spark等大數據平臺 規劃、部署、監控、系統優化等，確保滿足業務需求; 
+2、負責公司大數據平臺的運維管理工作，集群容量規劃、擴容及性能優化; 
+3、處理公司大數據平臺各類異常和故障，確保系統平臺的穩定運行; 
+4、設計實現業務需要的分散式集群運維、監控和管理平臺; 
+5、深入研究大數據業務相關運維技術，持續優化集群服務架構，探索新的大數據運維技術及發展方向; 
+6、負責CDP Hadoop商業平臺的部署、監控、優化等; 
+7、負責Cloudera Data Science Workbench（CDSW）的安裝部署、操作使用; ",1人,3年以上,大學以上,資訊工程相關/其他數學及電算機科學相關,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /中等,Linux/Shell/Python/MS SQL/MySQL/Vmware/hadoop/DNS/Ethernet/Firewall/FTP/HTTP/TCP/IP/VLAN/VPN/Hive,系統架構規劃/系統維護操作/系統整合分析/網路安全架構分析與設計/網路系統配置/網路規劃管理/網路設備設定安裝/網路應用軟體操作,"1、熟悉Hadoop/HBase/Hive/Spark/Kafka/Zookeeper等開源項目的安裝與調試,升級擴容;  2、熟悉Hadoop大數據生態圈，包括但不限於HDFS、YARN、Hive、HBase、Spark、Kafka、Flume等;  3、精通一門以上指令碼語言(shell/perl/python等),熟練掌握Linux系統及常規命令與工具，熟練的Shell腳本編寫能力;  4、有3年以上工作經驗，熟悉騰訊雲平臺優先;  5、熟悉CDH、CDP Hadoop和CDSW商業工具;  6、具備良好的服務意識，善於主動思考，自我驅動力強。有良好的溝通、協調能力，富有團隊精神，有較強的文檔編寫能力; ",0~5人應徵,121.4130193,24.9613308
+o5qtyqg,72ykf,資訊專案人員(大數據整理),"月薪30,000~45,000元",30000,45000,其他資訊專業人員/軟體設計工程師/統計學研究員,"1.共同了解各部門實務運作流程及程式設計需求。
+2.運用統計及程式學習等技術，研發及實作程式設計以協助各需求部門處理大量數據。
+
+",2人,不拘,專科、大學、碩士,資訊管理相關/資訊工程相關/數理統計相關,None,None,,,1.對製造業工廠運作瞭解者尤佳。 2.具備基本程式語言設計能力。 3.邏輯能力佳、具耐心及對程式軟體有興趣者。  (備註：揭示之工作待遇為公司規範之各級起薪，最終錄用薪資會再依據個人經歷與工作適配度調加),11~30人應徵,120.608244,24.1593442
+wf3xsmw,3o5cn,(大數據)零售研究員(Python),"月薪35,000~42,000元",35000,42000,市場調查／市場分析/統計學研究員,1.主要工作：零售通路商品研究以及銷售研究，進而資料整理並進行大數據分析，需要有良好且熟稔的統計技巧，並且熟悉消費市場與行銷促銷手法。/2.次要工作：資料庫研究、專案市場調查，如質量化調查，撰寫分析報告。/3.其餘主管交辦事宜,1人,不拘,碩士,統計學相關/企業管理相關/其他經社心理相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Excel/SPSS/Python,統計軟體操作/市場調查資料分析與報告撰寫,"1. 熟悉Python, 需有優秀處理數據能力之人才 2. Office軟體, Excel運用操作熟悉 3. 有市調經驗者佳 4. 聰明、邏輯清晰(非常重要) 5. 積極、有企圖心 6. 細心、工作有效率 7. 身體健康",11~30人應徵,121.5549091,25.0329619
+1a2x6bkf7m,742dh,大數據應用產品開發管理師,待遇面議,0,0,軟體專案主管/軟體相關專案管理師/專案管理主管,"1.	具備數據產品開發經驗及系統產品研發專案管理經驗。
+2.	負責監督研發專案流程進展，整合管理研發資源、管控各項開發任務時程及開發成本，確保專案功能與製作時程符合專案目標。
+3.	重視客戶需求與使用者體驗，能夠獨立完成需求訪談及分析、產品規格與商業解決方案，並獨立製作原型將需求轉化為可執行的計畫與產品規格書。 
+4.	主動跟追專案開發進度，發掘潛在問題，協助工程師釐清邏輯與思緒，提升團隊開發效率。
+5.	規劃專案時程、分派工程任務，與產品及前、後端工程師協作，以推動專案進行。
+6.	經歷1個以上完整的APP/Web產品研發、上架、迭代經驗，熟悉從市場調查、產品需求分析及文案撰寫、產品開發團隊組織及進度安排、產品測試到產品上架發佈等各項流程。
+7.	製作專案規格表、流程圖、架構圖、甘特圖等。
+8.	熟悉程式開發與產品迭代經驗佳，有大型專案PM能力加分。",1人,1年以上,大學以上,,None,None,,預算編製與成本控管/專案成本╱品質╱風險管理/專案規劃執行╱範圍管理/專案溝通╱整合管理/專案管理架構及專案說明/協商談判能力/軟體程式設計/專案時間╱進度控管/專案管理軟體操作/軟體工程系統開發,1.	須具備良好數據分析、溝通協調能力，熟悉Google Analytics、Amplitude、GTM、Firebase…等數據相關分析工具。 2.	有產品迭代經驗、熟悉專案管理，具備大型專案管理能力加分。 3.	具備操作數位廣告經驗或具相關知識概念者加分。 4.	主動、積極、良好的表達與溝通能力。（內部：行銷、UIUX設計師、工程師、跨部門整合; 外部：專案客戶與合作對象）  5.	具有高度責任心，良好的團隊規劃、協調和人際溝通能力，富有團隊合作精神，擅長領導團隊。 6.	需具備分析報告撰寫、跨單位教育訓練及大型簡報能力。,6~10人應徵,121.5483421,25.0479615
+1a2x6bldf2,73hae,SEO / SEM 大數據行銷儲備經理,待遇面議,0,0,其他資訊專業人員/軟體設計工程師/行銷企劃人員,"1. 運用站內站外SEO 優化技巧與白帽手法，提昇網站的流量。 
+
+2. 計劃並執行所有數位營銷，包括SEO / SEM，營銷數據庫，電子郵件，社交媒體和展示廣告系列。 
+
+3. 衡量並報告所有數字營銷活動的績效，並根據目標（ROI和KPI）進行評估。 
+
+4. 進行市場調研並分析數據。 
+
+5. 彙編和製作統計信息。 
+
+6. 頭腦風暴提出假設制定行銷策略。 
+
+ 
+
+======================================= 
+
+• Use on-page and off-page SEO and white hat techniques to increase website traffic. 
+
+• Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns. 
+
+• Measure and report performance of all digital marketing campaigns, and assess against goals (ROI and KPIs). 
+
+• Conduct marketing research and analyze data. 
+
+• Compile and produce statistical information. 
+
+• Brainstorming hypotheses, develop marketing strategies. ",1~3人,不拘,高中、專科、大學、碩士,,None,None,,,,6~10人應徵,121.571029,25.0458539
+ckkyqvc,5atn7,D4000 大數據平台工程師(Java),"月薪35,000元以上",35000,9999999,Internet程式設計師/軟體設計工程師/其他資訊專業人員,1. 數據應用相關系統的設計、開發和維運/2. 數據服務API的設計、開發和維運/3. 大數據平台的設計、開發和維運/4. 開源方案導入的研究和評估/5. 主管交辦的其他任務//**資深者另議薪資**,4人,1年以上,專科以上,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Java/Spring/PL/SQL,,"1. 對數據相關應用系統的設計、開發和維運有興趣者 2. 對研究相關開源方案(Redis, Kafka, Hadoop等)有興趣者 3. 熟UML、OOAD尤佳 4. 熟設計模式、SOLID設計原則尤佳 5. 熟多執行緒尤佳  * 如經面試錄取後，報到時須繳交「體格檢查表(一般)」，請於報到前自行至醫療機構辦理體檢 *",0~5人應徵,121.571197,25.0800028
+coo5hi0,71nuu,大數據系統開發工程師 (福建),"月薪40,000~100,000元",40000,100000,軟體設計工程師/其他資訊專業人員,"1.C#或C++程式開發能力，具備物件導向設計觀念
+-具Windows Form專案開發經驗
+-具Oracle or MS SQL DB使用經驗
+-熟悉LINQ/Lambda語法
+-熟悉multi-thread/multi-task開發
+2.熟悉Python
+3. 具演算法開發經驗
+4.ASP.NET MVC Web框架開發能力，具備前後台程式整合觀念
+-熟悉HTML/CSS/JQuery/Json
+-了解Web API/Web Service/WCF
+5.具SVN、Git版本控管使用經驗
+6.具系統分析及撰寫系統設計規格經驗",1~2人,不拘,碩士,資訊工程相關,英文,聽 /中等、說 /略懂、讀 /精通、寫 /中等,Git/ASP.NET/C#/Python/PL/SQL,軟體程式設計/結構化程式設計/資料庫程式設計,台清交成（985）或中字輩（211）資訊工程碩士  ,0~5人應徵,117.9249002,26.4836842
+612hgj4,5owsg,「大數據研發」網路系統工程師,待遇面議,0,0,軟體設計工程師/Internet程式設計師/電腦系統分析師,本公司大數據部門欲徵求有志者一同參與臨床檢測服務系統開發。應徵者須擁有資訊科學或任何相關課程學位，並且必須具備以下條件：/•有PHP相關的經驗/•有Laravel framework相關的經驗/•有AJAX、jQuery、RWD、JavaScript相關的經驗/•具有資料庫：MySQL或MariaDB或PostgreSQL的經驗/•有版本管理經驗（Git）/•有大型系統開發相關的經驗者優先/•有UX/UI經驗、維護網站經驗、API建置經驗、vue.js經驗者優先/•有生物背景者優先,1人,2年以上,大學、碩士,,None,None,PHP/MySQL/HTML/JavaScript/jQuery,,1. 具強烈責任感，喜歡學習新技術 ，並可獨立完成專案。  2. 若有以 PHP 開發的作品，可以附上網頁連結或是相關程式,0~5人應徵,121.004692,24.783813
+1a2x6bktpo,72x55,[TCXY08]大數據工程師_Big Data Engineer,"月薪38,000~80,000元",38000,80000,資料庫管理人員/演算法開發工程師/統計學研究員,"1. 以集團內部之業務資料，進行資料處理、資料分析，並持續完善現有的資料倉儲，以支援業務需求。
+2. 工作內容包含模型設計、指標設計、成效分析乃至整個 Data pipeline 的設計與串接。",1人,1年以上,大學以上,,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /中等,Java/Python,,1. 1 年以上相關經驗。 2. 擅長 Python & PySpark 或 Java & MapReduce。 3. 熟悉資料抽取/清理/轉換/載等ETL流程。 4. 學習、整合能力強，樂於團隊合作，分享成果。 5. 熱於研究新技術並能快速加以學習。 6. 面試時需準備相關簡報作品並展現口語表達能力。,0~5人應徵,120.6456503,24.1613408
+10wkoo2w,71mss,【大數據】資料應用開發工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師/其他資訊專業人員,"1. 規劃開源解決方案整合應用 (如：Redis、ELK、MongoDB等)
+2. 負責開源軟體或其他相關產品之開發。
+3. 使用開源的套件和工具處理資料 。",1~2人,3年以上,專科、大學、碩士,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Linux/C/Python/TCP/IP,,"1. 熟悉多項作業系統 (Windows, Linux, ......) 2. 具備基礎程式語言能力，如C/python/shell script/......",0~5人應徵,121.5433783,25.0249441
+1a2x6bktpo,71vpf,[TCXY07]大數據平台工程師_Big data platform engineer,"月薪35,000~70,000元",35000,70000,其他資訊專業人員/資料庫管理人員/軟體設計工程師,"1.負責大數據平台系統架構設計與環境佈署管理。
+2.負責技術團隊內部溝通協調及相關技術文件產出。
+3.負責大數據平台系統新技術研究與需求性模組引進、整合與測試管理。",1人,1年以上,大學以上,,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /中等,C++/Python/hadoop,資料庫程式設計/資料庫軟體應用,1. 1 年以上相關經驗。 2. 熟悉任一分散式架構，如 Hadoop 或 Spark。 3. 熟悉任一 NoSQL，如 MongoDB 或 Cassandra。 4. 熟悉一種以上的程式語言，如 Python 或 C++。 5. 熟練關聯性資料庫技術 (加分)。 6. 具備良好溝通能力，並可獨立解決問題 。 7. 學習、整合能力強，樂於團隊合作，分享成果。,0~5人應徵,120.6456503,24.1613408
+cr8bru0,6ztvz,資料科學家(大數據處),待遇面議,0,0,統計學研究員/市場調查／市場分析/其他資訊專業人員,"台灣大車隊不是傳統的計程車產業，我們不斷創新，致力讓數百萬會員與 21,000 名司機擁有更好的生活品質。面對世界級的競爭，需要優秀的你加入，用數據與科技為力量，讓台灣更進步。//【工作內容】/1.數據分析、挖掘、建模、模式評估等相關工作，並進行模型評估。/2.使用unsupervised learning 和 supervised learning 建構行為預測及使用者分群的模型。/3.熟悉機器學習演算法之開發及優化。/4.爬蟲程式開發。/",1人,2年以上,大學以上,,None,None,MS SQL/Excel,,使用過 GCP、Tableau 加分,11~30人應徵,121.4685302,25.045036
+1a2x6bi2px,6j2dn,Java/Python/Go 大數據平台工程師,待遇面議,0,0,Internet程式設計師/軟體設計工程師/MIS程式設計師,"Java/Python/Go 大數據平台工程師//adGeek艾得基客是一家專注於網路廣告優化及行銷整合的互聯網公司。目前我們團隊處於高速開發產品的時間，產品的功能相當多，可以玩與嚐試的東西很多，特別是架構面的東西，如消息隊列、大數據架構、設計模式、OAuth/SSO認證系統等。此外，團隊中也有不同領域的夥伴可以一同學習與分享，包含AI, 大數據，API平台等。//工作職责:/1. 開發穩健可擴充的後端系統/2. 根據公司產品需要不斷提高產品用戶體驗和更好的實現產品規劃目標/3. 根據技術部門要求完成技術研究工作，並輸出研究成果和推動成果實作。//任職資格:/1.大學以上學歷，1年以上(含)的Python/Java/Go後端開發經驗/2.精通web開發後端框架，至少一個(Django/Pyramid/Spring/STRUS2)/3.至少瞭解一種關聯式資料庫（ MySQL/MariaDB/Percona/Oracle/SQL Server等）的開發經驗；熟悉至少一種NoSQL資料庫者優先(MongoDB/Cassandra/Dynamal)；/4.知道io，分布式、快取、消息隊列、搜索等機制；/5.有ETL經驗者佳 (kafka/RabbitMQ/SPARK/Apache Storm/Apache Kylin/Apache Nifi/Hadooop/Druid/Elastic Search/Flume/Fluentd/logstash)/6.熟悉常用的資料結構和演算法/7.使用過AWS/GCP經驗者佳//所以，我們希望即將成為我們夥伴的你(妳)，可以具備以下特質://1. 你(妳)必須對於技術有著極大的熱情 /2. 你(妳)可以輕鬆的面對工作，但不可以沒有責任心 /3. 你(妳)可以展現個人能力，但不可以特異獨行//概括來說，為了提供給公司業務及產品更完整的支持，對於廣告的相關知識，我們有完整的教育訓練，你(妳)不必擔心。我們更期待你(妳)能夠與團隊成員合作、溝通，擁有面對挑戰的決心與毅力以及對於網路廣告服務無限的熱情， 主動積極地向我們推薦自己，我們將誠摯歡迎你(妳)的加入。",3~4人,1年以上,大學以上,數學及電算機科學學科類/電機電子工程相關/資訊管理相關,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /中等,Linux/UML/Java/PHP/Python/MySQL/RDBMS/HTML/JavaScript/jQuery/HTTP/ssh,伺服器網站管理維護/軟體工程系統開發/軟體程式設計/網路程式設計/資料庫程式設計/設計網路安全系統/網路安全架構分析與設計,,0~5人應徵,121.548223,25.029112
+1a2x6bk1k6,73cip,市調經理 / 大數據分析師,"月薪28,000元以上",28000,9999999,統計精算人員/市場調查／市場分析/行銷企劃人員,"1.規劃並執行各類研究調查專案（如：電話訪問、郵寄問卷、街訪、家戶訪問、線上調查、焦點座談會、深度訪談等）。
+2.管控問卷資料的品質，包括訪員訓練、複核問卷、側聽及輔導等管理工作。
+3.進行調查數據的彙整、除錯，分析調查數據與繪製統計圖表，並撰寫分析建議報告。
+4.收集及分析市場情報（如：消費者的人口特性、偏好、需求與購買習慣，以及競爭者的品牌形象、價格、產品、通路及行銷方案等）。
+5.分析企業統計數據（如：營業額、銷售量、客戶數等，預測與追蹤市場和銷售的趨勢）。
+6.市場大數據分析，提供公司及客戶銷售的參考方向。
+7.分析及找尋藍海市場的可能性，提供拓展市場路徑新方向。",1人,6年以上,大學以上,,None,None,Excel/PowerPoint/Word/中文打字50~75/Adobe Photoshop/CorelDraw/Illustrator,文件收發與檔案管理/文書處理╱排版能力/行政事務處理/報表彙整與管理/文件或資料輸入建檔處理/文件檔案資料處理、轉換及整合工作/客戶資料更新維護/業績目標分配與績效達成/業績與管理報表撰寫/客戶情報蒐集/產品介紹及解說銷售,,0~5人應徵,120.2984343,22.604122
+1a2x6bkxph,6qwxd,Senior Java/Scala Data Backend Engineer (大數據),待遇面議,0,0,軟體設計工程師,"1.Design, develop, and maintain Big Data related projects including EDW system and ETL pipeline for data access, collection, processing and storage./2.Manage deployment of the Big Data Infrastructure and services on AWS./3.Dedicate to Big Data and Machine Learning Platform using Apache Spark and related technologies./4.Investigate, survey and evaluate various state-of-the-art technologies./5.Introduce new technologies and tackle the derived problems./6.Implement and popularize excellent software development processes and best practices.",1~2人,4年以上,專科以上,數學及電算機科學學科類/工程學科類/資訊管理相關,None,None,Linux/Java/Scala,,"Qualification:  1.BS/MS in Computer Science or Information Management (or equivalent). 2.3+ years of experience related to Big Data technologies such as Hadoop, Spark, Kafka, Elasticsearch, and Cassandra etc.  3.Expert in processing data with Java, Scala etc.  4.Expert in RDBMS/NoSQL database administrator and SQL performance tuning.  5.Expert in Git / Git Flow. 6.Experience with microservice development and architecture design. 7.Experience with stream-processing systems: Spark-Streaming, Storm, etc. 8.Ability to work in a fast-moving team environment   Nice to have:  1.Contributing to open source projects a huge plus (Please include your github page)  2.Experience working with Scala a plus  3.Experience with Docker / K8s a plus 4.Experience with Public Cloud like AWS is a plus",0~5人應徵,121.574784,25.0726577
+1a2x6bk3uw,7066r,大數據專案規劃工程師-台北(DF0),待遇面議,0,0,電腦系統分析師/軟體相關專案管理師/營運管理師／系統整合／ERP專案師,1.大數據專案前置規劃、軟硬體解決方案評估、系統分析/2.大數據專案解決方案設計與開發評估、資料驗證、系統測試/3.專案交接與建置期間督導執行/4.依據客戶使用者需求制定專案策略和目標/5.專案售前技術及規劃書文件撰寫/6.資料視覺化評估設計,1人,5年以上,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Excel/PowerPoint/Project/Word,專案規劃執行╱範圍管理/專案溝通╱整合管理/專案管理架構及專案說明/協商談判能力/提案與簡報技巧/系統架構規劃/系統整合分析,"【職務需求】 1. 主動積極、邏輯與分析能力強，能夠持續自主學習。 2. 溝通能力佳、積極處理態度、具備解決問題能力及團隊合作精神。 3. 具備專案規劃、系統分析、文件撰寫及簡報能力。 4. 熟悉Linux 操作及管理 5. 熟悉資料庫系統概念（熟Oracle , PostgreSQL , MySQL , MSSQL任一資料庫） 6. 熟悉Hadoop平台架構 【加分項目】 1. Hadoop 平台管理經驗 （CDH or HDP） 2. 具Hadoop平台相關認證 3. 熟悉ETL工具（如Informatica、DataStage等任一種）尤佳 4. 熟悉BI資料視覺化工具（如Power BI、Zoomdata、Tableau、Microstrategy等任一種）尤佳",0~5人應徵,121.549271,25.0289307
+o5x51w0,4lwfh,10R0-大數據中心 生物統計師(biostatistician),"月薪34,000~35,000元",34000,35000,生物學專業與研究/統計學研究員,"具資料庫管理與生物統計專才，協助研究設計、大型資料清理彙整與統計分析。有以下條件為佳:/1. 熟悉至少一類統計軟體 (SAS, R, STATA, SPSS等)/2. 有一年以上處理大型資料庫的經驗，例如：臨床資料庫或衛福部資科中心資料庫/3. 熟習Longitudinal data analysis與survival analysis",2人,不拘,碩士以上,數理統計相關/其他醫藥衛生相關,None,None,SAS/SPSS,,具備SAS、SPSS、R、Stata等分析軟體操作,0~5人應徵,120.6805492,24.1576494
+wiedfdk,5amyj,03_大數據科學家,待遇面議,0,0,電腦系統分析師/演算法開發工程師/專案管理主管,"1. 行銷議題分析與行銷解決方案之建議，提供行銷數據分析報告
+2. 數據分析、挖掘、建模、模式評估等相關工作，並進行模型評估
+3. 爬蟲程式開發，並進行文字探勘
+4. 與使用者及開發人員合作，定義 Report 及 Business Intelligence 需求及規格，參與資料庫架構設計並建置分析資料集，並進行教育訓練
+5. 分析型資料市集設計、開發、管理維護，用資料導向概念提升行銷業務，並導入系統以加強各項資料應用
+6. ETL問題追蹤管理及系統文件撰寫，結構化及非結構化資料處理與整合
+7. 系統規劃與維運",1人,2年以上,大學、碩士,,None,None,,,(1) 資料庫語言 (SQL) (2) ETL 工具 (Trinity) (3) 爬網程式 (Python) (4) Data Mining (R/SAS/SPSS) (5) Data Modeling (6) 熟悉大數據架構(HDFS) (7) 統計分析專業知識 (8) 掌握各產業知識,11~30人應徵,121.5667312,25.0782073
+10wkoo2w,71mow,【大數據】資料庫工程師,待遇面議,0,0,資料庫管理人員/電腦系統分析師/其他資訊專業人員,"熟悉資料庫建置與管理 (如：MySQL/PostgreSQL/SQL Server等)
+
+",1~2人,3年以上,專科、大學、碩士,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Linux/Database Administrator/Database Management/MySQL/Oracle/Vmware/JavaScript/TCP/IP,作業系統基本操作/軟體程式設計/資料庫系統管理維護, ,0~5人應徵,121.5433783,25.0249441
+cr8bru0,73h4r,數據架構管理師(大數據處),待遇面議,0,0,統計學研究員/市場調查／市場分析/其他資訊專業人員,"台灣大車隊不是傳統的計程車產業，我們不斷創新，致力讓數百萬會員與 21,000 名司機擁有更好的生活品質。面對世界級的競爭，需要優秀的你加入，用數據與科技為力量，讓台灣更進步。
+
+【工作內容】
+1.負責大數據平台架構需求設計、新技術探索。
+2.擬定數據採集與整合應用規劃方案並執行。
+3.實施資料治理架構及持續優化。
+4.進行資料品質驗證及優化。",1人,5年以上,大學以上,,None,None,,,,0~5人應徵,121.4685302,25.045036
+wifkjug,71dh1,【資訊專業】大數據工程師,待遇面議,0,0,軟體設計工程師,"1、大數據應用平台系統建置開發
+2、資料模型設計、ETL 與BI視覺化分析工具開發應用
+3、維持與確保應用平台系統功能正常運作
+4、電信產業、物聯網等場域專案執行與應用資料之收集處理
+",1人,3年以上,大學、碩士,資訊工程相關/電機電子工程相關,None,None,,,(1).孰悉企業級資料倉儲系統與架構 (如Teradata、Oracle、MSSQL等DW資料庫系統) (2).孰悉主流視覺化分析工具，如Tableau、Cognos、PowerBI等 (3).熟悉ETL相關應用工具，如SSIS、Trinity、Informatica等 (4).熟悉非結構化資料處理與應用(NoSQL DB) (5).具機器學習、深度學習演算法等資料科學領域相關應用經驗尤佳 (6).具有大數據分散式架構 (K8s)或雲服務平台管理領域經驗尤佳  ※勞安證照(乙級勞安管理員)者優先面試※,11~30人應徵,121.5645028,25.0806383
+1a2x6bio5g,660xg,Big Data Solution PO 大數據應用產品經理,待遇面議,0,0,統計學研究員/營運管理師／系統整合／ERP專案師/軟體相關專案管理師,"工作內容：/-發展零售大數據相關應用，協助帶動零售業客戶成長。/-依據公司策略目標，規劃並制定短中長期產品Roadmap，並依據市場變動及客戶需求，決定資源投入與功能發布之優先順序。/-做為數據產品的PO，依Agile/Scrum方式發展產品，帶領整個數據團隊(含數據分析師，數據工程師，資料科學家，統計專家)，並為產品成敗負責。/-與其他產品團隊的產品PO協作，溝通協調，有效提供其他產品團隊數據相關的支援與資源。/-與公司其他部門協作，溝通協調，有效支援其他單位數據相關需求，加速業務發展。//91APP專注發展零售業，協助中大型零售業品牌進行數位轉型，進入新零售時代。我們協助客戶掌握全通路的全景數據，包含全通路完整交易數據，全通路會員資料，以及會員的行為資料(到訪, 瀏覽, 搜尋, 加入購物車等)， 加上流量來源數據等，透過完整的資料搜集，協助客戶了解品牌經營全貌，發展全方面的監控報表，並透過數據模型對會員進行分群，精準行銷，同時導入AI與機器學習相關技術，透過預測, 類似受眾, 推薦商品等，協助品牌從全通路的全景數據中，找到成長的動能，挖出數據金礦。",1人,不拘,大學以上,資訊管理相關/資訊工程相關/統計學相關,None,None,,,"-3年以上專案管理或產品經理相關經驗。 -3年以上網路相關產業經驗。 -1年以上大數據相關工作經驗。 -對商業分析, 商業策略有足夠的敏感度。 -良好的溝通協調能力，與團隊協作能力。 -有電商或零售相關產業經驗者佳。 -有 Agile / Scrum 經驗者佳。 -了解新零售，對91APP所發展的solution有一定認同，想投入傳統產業數位轉型浪潮的專業工作者，歡迎大家來挑戰這個職位。",0~5人應徵,121.580602,25.049962
+cwxk0oo,6oz7y,資訊工程師(大數據系統工程師),"月薪37,000元以上",37000,9999999,MIS程式設計師/電腦系統分析師/其他資訊專業人員,"一、職務內容說明：/1.大數據系統平台之建置與維護  /2.EDA資訊系統維運與改善 /3.Oracle 資料庫管理與優化/4.資料庫維護與異常排除/5.資訊系統建置及開發，並能對系統安全性以及架構規劃提供建議 //二、條件需求：/1.大學、研究所資管/資工相關系所畢業/2.對系統建置管理與維護有興趣者，熟 Unix, Linux, Microsoft 作業系統及指令操作/3.具備大數據平台(Hadoop HDFS / Apache Spark )建置管理維護與整合相關經驗者優先/4.具備Kafka, HBase, Pentaho ETL Tool相關經驗者優先/5.具備Oracle或其他關聯式資料庫建置管理、備份維護等相關經驗者佳/6.熟悉Python/Java/Scala程式語言者佳/7.具資訊專案開發及半導體相關經驗者佳",1人,不拘,大學、碩士,統計學相關/資訊工程相關/工業工程相關,None,None,,,※具經驗者，薪資依相關學/經歷、證照核薪。,6~10人應徵,121.0171589,24.769277
+cwxk0oo,6z6dq,資訊工程師(大數據程式開發),"月薪37,000元以上",37000,9999999,MIS程式設計師/電腦系統分析師/其他資訊專業人員,1.大學或研究所資訊相關系所畢業/2.具備 Visual Studio/Python/R/Spark 程式設計實務經驗優先/3.具備 Oracle DB/SQL/PostgreSQL 使用經驗者佳/4.熟悉資訊專案開發、有半導體經驗、熟悉 EDA / FDC 系統佳,1人,不拘,大學、碩士,統計學相關/資訊工程相關/工業工程相關,None,None,,,※具經驗者，薪資依相關學/經歷、證照核薪。,11~30人應徵,121.0171589,24.769277
+169tvn88,6zkvc,「生醫大數據資料分析」研究助理,"月薪32,000元以上",32000,9999999,研究助理/統計學研究員/應用科學研究員,"工作內容：
+處理及分析生醫大數據，如基因體、環境空污及健保資料庫資料，例如探討基因與空污(PM2.5)對疾病的影響，串接健保資料庫及環境資料探討環境對疾病發生率的影響。
+
+本研究室提供內部及外部教育訓練機會，如國家高速網路中心提供的機器學習法類神經網路在大數據的應用。關於本研究室的研究方向及成員可參考: http://rclab.nhri.org.tw
+
+應徵條件：
+1. 統計或資訊相關系所大學以上學歷
+2. 對生醫大數據研究有興趣
+3. 熟悉R或Python
+
+工作待遇：
+學士32000以上，碩士37000以上
+",1人,不拘,大學以上,,None,None,,,,6~10人應徵,120.9139645,24.7049997
+wifkjug,6te4b,【資訊專業】大數據資料管理師,待遇面議,0,0,軟體設計工程師/統計學研究員/其他專案管理師,1、根據專案需求進行大數據分析工作，包括業務數據分析、通路分析、指標分析、産品分析、目標客戶分析、營銷活動評估等。/2、提供專案業務相關諮詢項目之數據處理及業務分析/3、運用數據挖掘/統計學習的理論和方法，深入挖掘和分析用戶行爲、業務數據，即時發現數據中潜在問題/商機，並出具數據分析/數據挖掘報告。 /4、參與各項專案業務訪談，瞭解與分析公司營運業務痛點問題，並提出完整的分析方案/5、獨立完成分析體系和方法的研究和報告撰寫工作/6、與團隊內部以及需求部門進行有效跨部門溝通，跟進專案進度以及解决相關問題。,1人,3年以上,大學、碩士,統計學相關/資訊工程相關/數理統計相關,None,None,Python/R/SPSS,,1、需3年以上數據處理和數據分析經驗，具專案數據諮詢、行業經營分析等資訊服務提供經驗，熟悉製造、醫療、農業等領域者優先考慮 2、熟悉SQL數據處理、挖掘，數據資料庫操作，具有數據建模經驗者優先考慮(需有案例證明) 3、熟悉使用SPSS、SAS、R、Python等主流數據挖掘工具者優先考慮         ※勞安證照(乙級勞安管理員)者優先面試※,11~30人應徵,121.5645028,25.0806383
+cr8bru0,6ztw9,數據ETL工程師(大數據處),"月薪30,000~50,000元",30000,50000,統計學研究員/市場調查／市場分析/其他資訊專業人員,台灣大車隊不是傳統的計程車產業，我們不斷創新，致力讓數百萬會員與21000名司機擁有更好的生活品質。面對世界級的競爭，需要優秀的你加入，用數據與科技為力量，讓台灣更進步。//【工作內容】/1.雲端的資料倉儲系統規劃、設計與監控管理。/2.數據資料的蒐集、清洗、儲存、資料庫設計(ETL流程設計及客製化程式開發)。/3.熟悉任一種資料庫之SQL語法執行及ETL工具。/4.負責撰寫及開發集團跨公司資料整合SQL程式。/5.第三方外部資料介接。/6.ETL問題追蹤管理及系統文件撰寫。,1人,2年以上,大學以上,,None,None,Java/Python/MS SQL/Tableau,,使用過 GCP、Tableau 優,0~5人應徵,121.4685302,25.045036
+1a2x6bkzzz,6xrlh,大數據分析工程師（Big Data Analysis engineer）,"月薪50,000元以上",50000,9999999,演算法開發工程師/軟體設計工程師,1. 數據資料前處理（包含數據清洗、特徵工程、數據相關性分析）/2. 資料可視化處理/3. 演算法開發/4. 機器學習、深度學習或其他相關演算法開發/5. 參與專案與系統架構流程規劃/6. 協同前端、後端工程師進行系統整合/7. 配合專案，不定期短期出差大陸,1~2人,3年以上,碩士以上,數學及電算機科學學科類/工程學科類,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Python/LabVIEW/JDBC/MS SQL/MySQL/Oracle/PostgreSQL/hadoop/AWS/Tableau/Power BI​/Hive/SAN/NAS/Teradata/TIBCO,系統整合分析/軟體工程系統開發/問題追蹤處理(Bug tracking)/軟體整合測試/結構化程式設計/資料庫程式設計,必備條件：  必備條件：  1.	熟悉數值分析理論與實作 2.	熟悉多變量分析方法與實作 3.	熟悉單變量SPC、多變量SPC技術 4.	熟悉機器學習及深度學習理論，並具備實作技術 5.	熟悉Python及下列一種語言：C、C++、C# 6.	熟悉numpy、pandas、SKLearn或其他數據處理及機器學習套件 7.	熟悉下列任一種深度學習框架：Keras、Tensorflow、pytorch、caffe 8.	熟悉matplotlib或其他資料可視化套件 9.     軟體程式設計、Machine Learning、Deep Learning 10.     具UI開發能力尤佳,11~30人應徵,121.3247835,24.9982328
+1a2x6blcxx,72kkc,大數據資料庫分析師,"月薪35,000~50,000元",35000,50000,資料庫管理人員/統計精算人員/電腦系統分析師,"1.配合數據分析系統之主資料庫架構，以T-SQL/SSIS/Stored Procedure匯整各系統資料庫資料。
+2.執行資料匯整的擷取,導入,及轉化(ETL)等資料處理及資料清理工作
+3.配合業主提供相關業務資料
+4.做中學成為支援大數據業務之資料工程師
+
+需求條件：
+1.MS SQL Server資料庫開發經驗1年以上。
+2.專精 T-SQL 語法及Stored Procedure開發技術
+3.熟悉資料庫系統規劃、設計、構建、還原、升級、備份管理經驗。
+4.熟悉 SQL Server Integration Services(SSIS) 開發及SQL Server Agent排程管理經驗。
+5.具系統和資料庫監控及優化經驗，包括網絡連接、系統狀態、SQL語法調整。
+
+【加分條件】
+1.具規劃高可用性的主資料庫架構經驗優先。
+2.資料庫管理工具，.NET程式編寫。
+3.熟悉 Tableau 數據圖表製作者尤佳。",1人,不拘,大學、碩士,,None,None,C#/MS SQL/Tableau,資料庫系統管理維護/資料庫程式設計,,0~5人應徵,121.5132,25.032068
+13u3sbvs,69zh1,【 2020軟體技術人才招募】大數據工程師,待遇面議,0,0,資料庫管理人員/軟體設計工程師/電腦系統分析師,"【２年以上軟體相關經驗者，歡迎投遞！】資格不符者，恕不另行通知，謝謝!/緯創軟體是台灣唯一專注於全球交付的資訊服務上櫃公司。因應業績不斷成長，需要大量人才加入國際軟體開發團隊。/● 主要專案有：(1)銀行/保險/證券業系統開發、(2) 半導體/面板/電子產業相關系統開發、(3)通訊業系統開發、(4) 資安系統開發、(5)其他新技術應用開發, 如Machine Learning, Big Data…等。/● 歡迎有任一產業經驗的軟體工程師與程式設計師加入我們。資深者佳。/● 因專案眾多，將根據您產業經驗、技術程度、專長類別、與期待工作地點，於面試時詳談工作內容與機會。//1.因應客戶需求做大數據蒐集、分析與開發/2.將資料視覺化, 程式設計, 工商業邏輯分析判讀./3.依據分析結果提出優化給善方案./4.主要技術: Hadoop/R/Python.",10~15人,2年以上,專科以上,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Java/ETL/MS SQL,,,11~30人應徵,121.6480753,25.0619454
+1a2x6bl5rb,747ym,大數據開發工程師,"月薪200,000~300,000元",200000,300000,Internet程式設計師/軟體設計工程師/電玩程式設計師,"1.負責公司大資料相關系統運維，包含資料的收集、存取及存儲；
+2.參與公司大資料產品的架構設計，依照業務需求持續對 Hadoop/Spark 等集群進行優化；
+3.負責大資料產品核心功能的實現，從事資料ETL相關程式的開發工作。
+",1~2人,不拘,碩士以上,,None,None,Linux/Python/hadoop,系統整合分析/網路程式設計/資料庫系統管理維護/資料庫程式設計/資料庫軟體應用,"1.碩士以上，電腦、數學相關專業畢業； 2.三年以上技術開發經驗，兩年以上 Linux 系統管理經驗； 3.瞭解 Hadoop ecosystem 並具有相關開發或使用經驗，如：Spark, Hive, ETL pipeline 等； 4.熟練使用ETL工具（如：Sqoop, Spark, Flink等）進行資料抽取、清洗、轉換等操作； 5.瞭解分散式系統的基本原理，具有 NoSQL 分散式存儲、計算平臺（Hadoop, Spark 等）的開發和管理經驗（如：系統維運、調優等）； 6.熟悉ELK的使用並有實踐經驗，有Grafana實踐經驗者尤佳。  ",0~5人應徵,121.774017,12.879721
+cr8bru0,6v2kz,大數據發展事業處-(資深)數據分析師,待遇面議,0,0,統計學研究員/市場調查／市場分析/其他資訊專業人員,"台灣大車隊不是傳統的計程車產業，我們不斷創新，致力讓數百萬會員與 21,000 名司機擁有更好的生活品質。面對世界級的競爭，需要優秀的你加入，用數據與科技為力量，讓台灣更進步。//【工作內容】/1. 協助各單位分析資料撈取。/2. 分析乘客，司機與其他使用者行為，優化現有流程或找出新的商機。/3. 建立會員標籤模型與數據庫串接。/4. 與各業務單位合作，協助專案所需之資料處理與研究。/5. 資料視覺化呈現，幫助各部門了解數據意義，進而應用。/",1人,3年以上,大學以上,,None,None,MS SQL/Excel,,1.	從事資料分析相關工作經驗3年以上，希望有顧客分群、處理GPS資料、或其他數據建模的實務經驗。 2.	熟悉SQL與Excel是必要條件，非常歡迎熟悉Tableau 、R、Python，或其他分析工具的高手。 3.	數理統計相關科系佳。 4.	具有好奇心和細心，喜歡從混亂的資料中找出規則的過程，熱愛用數據作為分析與解決問題的工具，會因為從數據中發現新的lnsight而雀躍不己。 5.	能獨立作業、主動發現問題、主動解決問題。 6.	具表達及溝通能力，能理解業務單位商業需求，並能將分析結果清楚呈現。 7.	數字及邏輯概念清楚，熟悉簡報制式及數字分析。 8.	需具備會員經營相關經驗，知道如何向會員溝通。 ,6~10人應徵,121.4686,25.045475
+1a2x6bj312,5qcze,人工智慧及大數據工程師,"月薪40,000~80,000元",40000,80000,電信／通訊系統工程師/軟體設計工程師/網路管理工程師,1.負責人工智慧軟體之分析、設計以及程式撰寫。以大數據分析醫療成果。/2.規劃執行人工智慧軟體架構及模組之設計，並控管軟體設計進度。/3.進行人工智慧軟體之測試與修改。/4.規劃、執行與維護量產的產品。/5.協助研發軟體新技術與新工具。,1人,不拘,不拘,,None,None,,,,0~5人應徵,121.5679254,25.0412618
+10wkoo2w,71msm,【大數據】Hadoop系統工程師,待遇面議,0,0,軟體設計工程師/其他資訊專業人員/數學研究員,"1. Hadoop系統建置、管理、維運。
+2. 雲端大數據資料分析平台研發。
+3. 巨量資料處理及ETL架構規劃及開發。
+4. Big Data關鍵技術研究發展。
+",1~2人,3年以上,專科、大學、碩士,,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Linux/Java/Python/hadoop/AWS/TCP/IP,,1. 熟悉Hadoop(HDFS/MapReduce/HBase/Hive...)之開發經驗。 2. 熟悉J2EE架構，具有Struts/Spring等Framework開發經驗。 3. 具資料ETL或Python開發經驗尤佳。 4. 熟悉java，會R或Python撰寫分析演算法程式尤佳。,0~5人應徵,121.5433783,25.0249441
+1a2x6blcfz,73bj9,大數據運維工程師,"月薪100,000~150,000元",100000,150000,多媒體動畫設計師/電玩程式設計師/軟體設計工程師,"1、負责公司大數據平台的部署、管理、優化、監控警報，保障平台服务7*24稳定可靠高效運行；
+2、深入理解公司大數據平台架構，發現並解决性能瓶頸，支撑業務和數據量的快速增長；
+3、開發大數據自動化運維、監控警報、故障處理相關脚本和工具；
+4、負責Hadoop/spark／Kafka等集群服務、業務監控、持續交付、應急響應、容量規劃等",1~2人,3年以上,專科、大學、碩士,,None,None,,,"1、3年以上互聯網運維相關工作經驗，2年以上大數據平台運維相關工作經驗； 2、具备一定的故障排查能力，有良好的技術敏感度和風險識别能力，精通一門以上脚本語言(shell/python等)，熟悉Http/Https、TCP/IP、SMTP等协议； 3、熟悉hadoop、hbase、spark、kafka、zk等相關组件的原理、部署、troubleshooting； 熟悉Linux(redhat/centos)软硬件環境、系统管理和優化,熟練部署、優化各種常用服務； 4、具備较强技術鑽研能力，能够關注業内的技術發展並不断學習； 5、有强烈的责任心和主動性，具備良好的溝通能力和團隊合作能力；",0~5人應徵,120.6383859,24.1581052
+cnk0ahs,6iubm,資訊安全分析師(大數據平台Splunk操作 ),"月薪40,000~60,000元",40000,60000,網路安全分析師,主要為利用Splunk將資訊安全相關設備Log進行正規化、儀表版化。/對資訊安全大數據資料分析、處理、視覺化有興趣者。/工作內容：/1.利用大數據平台Splunk SPL 語法建構SIEM平台所需之資安設備報表、規則與Log解析/2.處理客戶Splunk平台叫修/3.對於資安技術有熱忱者/4.對ELK、Splunk 熟悉者佳/,1~2人,不拘,專科、大學、碩士,,None,None,,,    1. 熟悉TCP/IP Protocol 及網路架構。     2. 熟Linux、Windows系統操作。     3. 具備系統及資安領域證照為佳，如CCNA 、RHCE、ISO 27001 LA、Security + 、CEH….等。  優先面試經濟部工業局DIGI⁺ Talent計畫之結訓研習生(IOT),0~5人應徵,121.5759414,25.0754809
+21nuubs,5r7ve,大陸地區-大數據專案特助,待遇面議,0,0,市場調查／市場分析/營運管理師／系統整合／ERP專案師/資料庫管理人員,1.利用集團既有系統的內、外部資料進行商務智慧分析報表的製作，推動BI系統的資料報表視覺化。/2.依據各部門的資料分析標準、規則及資料中心的管理要求，透過系統進行內、外部資料挖掘與創新應用探索，建立各類分析模型及專項分析，進行大量資料採擷，逐步探索、建構資料分析模型體系。/3.針對行銷過程中的各類資料和方案進行評估、資料分析，以出適宜的管理方案。/4.協助發展集團各部門的資料分析標準和規則的宣貫工作。/5.配合大資料中心須求，推動行銷資料收集和分析機制、流程的建設和優化，逐步探索、構建資料分析模型體系，從業務運行機制層面，幫助、促進行銷業務的發展。/6.建立和協調集團總部和各分公司的工作關係，保持溝通管道暢通與即時滿足內部客戶需求，確保提供專業可靠的業務支援服務，積極配合相關業務部門快速、高效開展相關工作。/7.以專案形式完成與本職工作相關的支持和協調工作，以及直接上級領導交辦的一切對企業發展有利的事情。,1人,5年以上,大學、碩士,商業及管理學科類/數學及電算機科學學科類,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,專案規劃執行╱範圍管理/專案溝通╱整合管理/提案與簡報技巧/行銷策略擬定/市場調查資料分析與報告撰寫/調查樣本統計分析/客戶情報蒐集,1.5年以上工作經驗，且具備3年以上零售業或FMCG產業數據分析或市場銷售等相關工作經驗，並熟悉消費者行為的洞察力，且能協調內外部合作夥伴進行市場研究和個案諮詢工作。 2.具良好的自主管理能力，邏輯清晰能條理有序的提出問題及對策。 3.良好的人際交往能力、組織協調及溝通能力，以解決複雜問題的分析熟悉應用各種工具進行資料分析。 4.本科及數學、統計、電腦、市場行銷及相關專業者優先錄取。,0~5人應徵,121.4737021,31.2303904
+7lka688,4npe1,大數據/機器學習數據工程師-(Data/ML Engineer)-台北,待遇面議,0,0,軟體設計工程師,"1. 透過資料分析及機器學習以提供決策建議.
+2. 負責資料蒐集及處理各項數據、資料建模、ETL流程設計及演算法開發，並經梳理後產出使用.",1人,不拘,大學、碩士,資訊工程相關/資訊管理相關/數學及電算機科學學科類,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Linux/Windows Server 2008/Java/Spring/MS SQL/Oracle/HTML/JavaScript/XML/Word,系統整合分析/軟體程式設計,"1. 具備程式語言及開發的背景，如資訊工程、電機、數學、應數、物理等理工科系 2. 具備資料倉儲概念，並具備基本Machine Learning 相關知識 3. 具備SQL及Shell之技術，或熟悉R/Python/JAVA等語言 4. 具操作過大型資料集(1TB以上)、Hadoop 資料倉儲或Spark 平行化處理之經驗者尤佳 5. 熟悉一種以上資料庫系統 (Oracle , PostgreSQL , MySQL , MSSQL.. 其他 ) 6. 良好之團隊協作、溝通協調能力",11~30人應徵,121.5198716,25.0421407
+1a2x6bi80a,71x5u,AIOT工業物聯網大數據工程師(派駐深圳),待遇面議,0,0,通訊軟體工程師/韌體設計工程師,"1. 傳感器評估,自行動手安裝運營  
+2. 傳感器物聯網大數據資料傳輸以及蒐集
+3. 資料儲存管理
+
+",1~2人,不拘,大學、碩士,資訊工程相關/資訊管理相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1. 孰悉傳感器原理並負責資料蒐集分析 2. 熟悉物聯網相關網路架構及網路協議 3. 具大數據/機器學習/深度學習相關經驗者優先考慮 ,0~5人應徵,114.057865,22.543096
+aldnfbc,2tv5q,集團總部供應鏈大數據管理專員(全球第二大IT通路集團),待遇面議,0,0,營運管理師／系統整合／ERP專案師/電腦系統分析師,"科技產業的供應鏈大數據分析管理, 包含從產品銷售後之預測, 到庫存配置方案, 及透過數據模擬分析, 透過AI工具, 改善供應鏈實體物流等流程。//此職務負責聯強全球各地區供應鏈數據分析管理.以聯強擁有自有MIS系統及AI開發團隊, 此職務可以帶來完整的產業觀, 及專業管理能力及科技數位化能力, 成為跨國供應鏈管理之人才。//工作內容：/1. 負責全球供應鏈數據分析及管理/2. 負責全球各地區供應鏈之績效管理/3. 全球各地供應鏈流程改善/",1人,2年以上,大學以上,,None,None,,,1.至少兩年以上工作經驗。 2.大學以上畢業，具財會、商管、工業工程、電機等背景尤佳。 3.具主動積極之人格特質。,11~30人應徵,121.54095,25.072706
+1a2x6bishn,5nx3b,大數據與AI人工智慧/專案工程師/PM,"月薪26,000~82,000元",26000,82000,軟體相關專案管理師/產品管理師/FAE工程師,"昱冠資訊致力於協助客戶轉型成智慧工廠, 往工業4.0邁進. /本公司產品具應用前瞻性, 歡迎您成為昱冠資訊的最前線!!! /本公司大數據智慧系統應用領域主要分: 安全監控/產品外觀檢查/維修預測保養. /應用場域包含: 半導體業/製造業/傳統加工業/機械業/醫療...等, 但不侷限在這些領域. //本職缺主要工作內容：//1. 執行專案工程之規劃、進度管控及協調、人力安排、客戶協調、問題應變及解決。 /2. 按時完成發開驗收及交付客戶。 /3. 主管交辦之事宜。/",1~2人,不拘,大學以上,資訊工程相關/資訊管理相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1.	有軟體開發經驗者佳 2.	接觸過程式語言佳(JavaScript、Python尤佳) 3.	畢業科系為理工相關學系、商/管相關學系。 4.	歡迎對於軟體有興趣之管理背景人才 或 對於管理有興趣之工程背景人才 5.	擅長團隊合作與溝通 6.     有敏捷開發經驗者佳 / 熟悉git佳  Skills  1.具備良好之溝通及協調能力，擔任專案窗口管理工作進度及成果。  2.具備獨立思考及良好之寫作能力，以利達成及提升計畫及公司要求之文件品質。  3.個性細心、謹慎且具勇於自我挑戰之工作態度，完成計畫及交付之工作。 4.具組織性、擅長發現問題與找到解決辦法 ,6~10人應徵,120.9674798,24.8138287
+a9nlils,38d3v,大數據平台工程師(亞太地區領導專業配銷商)-T7,"月薪32,000~70,000元",32000,70000,資料庫管理人員/系統維護／操作人員,1. Linux及Windows作業系統日常維運與障礙排除/2. 大數據平台安裝建置(Hadoop/SAS etc)/3. 數據資料庫建置管理/4. 資料串流平台安裝與建置,1人,1年以上,專科、大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1. 熟悉UNIX、SUSE、Red Hat Linux etc. 2. 具Hadoop、Greenplum相關經驗尤佳 3. Shell Script設計能力 4. 正向積極，樂於學習,0~5人應徵,121.5137852,25.0622559
+1a2x6bl9s5,6zx8e,（農場事業處）大數據系統工程師,待遇面議,0,0,演算法開發工程師/其他資訊專業人員,"主要參與雲端、大數據及手機與智能設備平台研發,/- 建立畜牧業科技化運用的雲端大數據平台, 建構企業與雲端的大數據體系./- 建構企業與雲端的數據中台架構.",2~3人,3年以上,大學以上,,None,None,Java/Python/ANSI SQL/MS SQL/PL/SQL/PostgreSQL,作業系統基本操作,技術能力: - 需要 - 分散式大數據體系: Hadoop、Hbase、Hive、Pig、Oozie、Zookeeper、Flume、Sqoop等 - 資料庫: MS SqlServer、Postgre、mySql、Redis、MongoDB等 - 程式語言: .Net c#、Java、Sql、Python、Golang - 作業系統: Linux、Windows Server,0~5人應徵,121.5656774,25.0802721
+1a2x6bjf44,4nvhg,演算法資料／大數據 工程師！加入台中矽谷,"月薪30,000~52,000元",30000,52000,演算法開發工程師/軟體設計工程師,"1. 利用演算法，解決各領域的問題/2. 進行演算法的設計、分析及模擬/3. 模糊理論之設計開發與分析/4. 找出最佳路徑成效轉換率/5. 大數據分析//*尋找* /a. 我們需要對工作充滿熱情的夥伴 /b. 對一切事物都充滿好奇心 /c. 善於溝通,並具有團隊精神 /d. 願意吃苦,敢於接受最嚴厲的磨練 /e. 謝絕草莓族",1人,不拘,大學以上,,None,None,,,"◆ 獎金 / 禮品類 1. 專案分紅獎金制度 2. 結婚禮金 3. 喪葬慰問金 4. 年終獎金  ◆ 保險類 1.勞保 2.健保  ◆ 休閒類 1. 免費的零食吃到吐... (變胖別怪公司喔) 2. 員工旅遊 3. 運動休閒：按摩椅、桌球、棒球、拳擊、單槓、飛鏢、手足桌、軌道車 (重視您的生活） 4. 微波爐、烤箱、電鍋、烤麵包機 5. 上班聽音樂 6. 美國矽谷工作環境  ◆ 請 / 休假制度 1. 週休二日 2. 國定假日（全部休！） 3. 特休  公司官網＞＞  http://www.marsman.tw  準備一顆熱情的心，加入我們的行列，進軍全球市場~ P.S 您是想要平平凡凡的過一生，,還是要跟我們一起改變全世界！",0~5人應徵,120.7223572,24.2521156
+b8gl75c,6r2nr,資料倉儲工程師 (台北) (資料庫/大數據/巨量資料/資料倉儲),待遇面議,0,0,其他資訊專業人員/資料庫管理人員/資訊助理人員,"【職務說明】
+將參與各大系統專案進行資料倉儲平台架構規劃及設計，其中包含 Pivotal Greenplum產品服務，資料倉儲工程師將專注於資料倉儲顧問服務，解決使用者關於資料倉儲相關需求。
+
+資料倉儲專為資料分析所設計，可讀取大量的資料以了解資料的關係和趨勢，資料通常會定期從交易處理系統、關聯式資料庫和其他來源流入資料倉儲。讓商業分析師、資料科學家和決策者可透過商業智慧 (BI) 工具、SQL 用戶端和其他分析應用程式存取資料。
+
+所以資料倉儲工程師必須要了解資料倉儲特性及資料存放方式，來根據使用者需求給予建議，並且為其使用單位提供適合的資料倉儲架構，建立完整資料倉儲資料流流入方案及資料倉儲管理機制。
+
+本工作職缺適合關聯式的資料庫工程師，有意願轉型為資料倉儲工程師來接觸更廣泛的資料處理服務面向，可以更容易延伸接觸其他資料處理的技術及平台，來加值自身的技術能力。
+
+【工作項目】
+平台規劃及設計
+平台架構建置及設定
+平台高可用性建置及設定
+平台開發顧問服務
+平台資源規劃調教
+平台權限規劃設定
+ETL 資料流設定
+
+【職務需求】
+熟悉 Linux 操作及管理
+熟悉一種資料庫系統 (Oracle , PostgreSQL , MySQL , MSSQL.. 其他 )
+良好的文件撰寫能力
+良好之團隊協作、溝通協調能力",1~2人,3年以上,專科以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Linux,資料庫軟體應用,"【加分條件】 EDW資料倉儲管理經驗 Hadoop 平台管理經驗 Hadoop 平台相關認證 ETL 相關經驗 資料庫相關工作管理經驗 Python , Java 程式開發經驗 英文認證",0~5人應徵,121.5124562,25.0500181
+1a2x6bizrb,72iol,YU-新創大數據公司  軟體專案主管(產品微軟平台上架),"月薪60,000~70,000元",60000,70000,軟體專案主管/軟體設計工程師/專案管理主管,"1.擔任軟體技術主管相關經驗
+2.產品開發前的技術評估與相關單位協調事宜
+3.熟習產品開發流程與工作分派
+4.懂產品開發的系統架構規劃
+5.熟悉Git，懂GitFlow 佳
+
+加分
+1. 熟悉HTML5/CSS網頁切版 
+2. 熟悉JavaScript/Ajax/jQuery 
+3. 熟悉VSCode或Sublime Text編輯器
+4. 熟Git版本控制 
+5.熟MySQL、influxDB資料庫管理與優化
+6. 熟Python控制、Django framework
+",1人,不拘,大學以上,,None,None,PHP/JavaScript,,,0~5人應徵,121.4178347,25.0265985
+5wp49rs,74pjo,資訊類-大數據資料分析師,待遇面議,0,0,資料庫管理人員/電腦系統分析師,"1.大數據專案前置規劃、數據收集、資料清洗、系統分析。
+2.BI設計、評估、開發、測試、資料驗證及文件撰寫。
+3.維持與確保BI系統功能正常運作，持續優化現有的BI報表。
+4.解決大量資料處理時所衍生的效能、擴充、與維護問題。
+5.依據客戶使用者需求制定專案策略和目標。
+6.具有大數據資料解析、數據洞察能力及良好邏輯分析與程式開發能力。
+7.能與其他系統開發工作團隊配合。",1人,不拘,專科以上,資訊工程相關/資訊管理相關/數學及電算機科學學科類,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1.對大數據資料處理及分析有高度興趣者。 2.具備專案規劃、系統分析、文件撰寫及簡報能力。 3.具資料庫、機器學習及大數據架構與經驗者尤佳。 4.熟悉資料庫系統概念(熟悉Oracle、MSSQL資料庫)，具SQL程式能力。 5.熟悉報表、圖表之展示及分析工具(Tableau尤佳)。 6.熟悉ETL相關應用工具，如SSIS、Trinity、Informatica等尤佳。 7.熟悉建置分散式系統或伺服器端程式開發尤佳。 8.主動積極、邏輯與分析能力強，能夠持續自主學習。  9.具備良好的溝通和表達能力，並有團隊合作精神。 10.認真負責、有熱誠、能獨立作業、抗壓性高，執行力強、具強烈企圖心。,0~5人應徵,121.4869174,24.9965494
+1134yk9s,6cndt,熱情招募_全方位銷售達人(結合AI、大數據、互聯網、雲端科技的產品與服務平台),"月薪25,000~60,000元",25000,60000,國內業務人員/國外業務人員/產品行銷人員,"● 具服務、銷售熱忱，希望從滿足客戶需求中獲得成就感
+● 充滿熱情活力，讓客戶感受到在優秀的產品，背後有一群同樣優秀的銷售顧問
+● 能與同事分享工作知識及共創新價值
+● 喜歡從事與人相關工作者
+● 除本薪外，提供高額專案獎金等你挑戰
+● 每周免費按摩，讓你筋速喜
+● 免費使用TutorABC課程
+● 員工親友購買課程專屬優惠
+***迎戰雙語 AI教育新革命***
+https://www.youtube.com/watch?v=CUskW4PhrSo&feature=share
+
+【我們與傳統內勤銷售不同】
+獨特Social CRM系統(社群客戶管理系統)，擺脫傳統電話行銷方式，
+將售前、售後、分享、營銷透過社群媒體一鍵搞定。
+[Job Responsibilities]
+1.透過電話、電腦雲端平台，介紹與銷售公司產品
+2.提供客戶專屬課程規劃服務
+3.提供客戶難以忘懷的客戶體驗
+4.公司提供優質白領階級客戶名單，免陌生開發
+5.公司提供完整職前菁英培訓計劃，培育專業銷售管理人才
+6.工作地點：台北／台中
+
+[Job Responsibilities]
+1.透過電話、電腦雲端平台，介紹與銷售公司產品
+2.提供客戶專屬課程規劃服務
+3.公司提供優質白領階級客戶名單，免陌生開發
+4.公司提供完整職前菁英培訓計劃，培育專業銷售管理人才
+5.工作地點：台北／台中
+
+[Job Requirements]
+***具業務經驗尤佳***
+1. 諳電腦操作(中打、英打、Office)
+2. 排休制 
+3. 上班時段(可彈性排班)：
+早班10:00-20:00、晚班13:00-22:00
+4. 抗壓力強、配合度高
+5. 個性外向、活潑、負責、有耐心、具服務熱誠 
+6. 具溝通能力，能獨立作業 
+7. 喜愛人群、熱愛分享與銷售
+8. 歡迎具服務熱忱、活潑開朗，積極為自己創造百萬年薪的您。",5~8人,不拘,高中以上,,None,None,,, ,6~10人應徵,120.6600755,24.1231903
+1a2x6bl5f2,6wnki,大數據開發 年薪40-100萬 rmb,待遇面議,0,0,軟體設計工程師/軟體專案主管/資料庫管理人員,職務要求：/1、負責spark、hadoop、flink計算平臺的設計和開發工作；/2、負責構建高效穩定的計算平台，為業務提供大資料分析所需的海量計算服務；/3、負責資料倉庫、以及機器學習平臺的建置；//任職資格：/1、大學以上，電腦相關科系畢業，2年以上大資料平臺開發、運維經驗；/2、對spark、hadoop平臺計算原理有深刻理解，能夠閱讀spark、hadoop源碼；/3、精通JAVA、熟練掌握MapReduce原理及資料分析相關的二次開發；/4、熟悉spark流計算框架或其他開源即時計算框架；/5、有資料倉庫建設經驗或社區有源碼貢獻者優先；/6、有資料大資料演算法經驗、機器學習平臺建設經驗者優先；/7、對新技術充滿熱情，具有良好的學習能力、團隊協作能力和溝通能力；/8、能承受較大的工作壓力。//應徵本職缺，請聯繫line：wonder20202020//,30~60人,不拘,大學以上,數學及電算機科學學科類,None,None,,,,0~5人應徵,120.9826825,14.5349838
+1a2x6bi7m9,6z01o,大數據系統開發儲備幹部/主管 (上海&嘉善),待遇面議,0,0,MIS／網管主管/演算法開發工程師/MES工程師,"1. 規劃大數據平臺的架構和部署需求，負責平臺設計、建模、代碼開發和測試，並把握系統的高可用、擴展、安全、性能、伸縮性等
+2. 負責核心技術難題的攻關，協助解決團隊遇到的技術難題
+3. 及時與產品/專案經理溝通需求，分析梳理業務場景，協助需求解決各種業務實現問題
+4. 負責團隊建設及管理，技術檔案輸出",1人,5年以上,大學以上,資訊工程相關/資訊管理相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1. 熟悉Hadoop生態圈，HBase、Hive、Sqoop等，有Spark、Storm、Kafka、Zookeeper等開源產品者優先，或精讀過其中某一個的源碼，有修改源碼經驗優先 2. 熟悉flume、kafka、redis、spark、presto、elasticsearch等即時系統處理中介軟體，有相關專案開發經驗，熟elasticsearch優先 3. 熟悉SQL和NoSQL的資料庫開發設計及性能調優 4. 具備大型分散式、高併發、高負載、高可用系統設計、開發及優化經驗，有大數據平臺的軟體發展和部署經驗者佳 5. 熟悉大數據、雲計算、微服務等技術，有互聯網運營平臺架構設計或大數據公司同類平臺或產品開發經驗者佳 6. 軟體基礎理論知識扎實，具有良好的資料結構、演算法、程式設計開發能力，精通Java及其他開發語言 7. 對新技術敏感，有獨立分析、技術研究能力，樂於接受挑戰，具有良好的團隊合作精神 8. 工作中有帶團隊經驗者或有製造業相關經驗者佳,0~5人應徵,120.92585,30.830898
+b8gl75c,6yxzi,資料倉儲工程師 (新竹) (資料庫/大數據/巨量資料/資料倉儲),待遇面議,0,0,其他資訊專業人員/資料庫管理人員/資訊助理人員,"【職務說明】
+將參與各大系統專案進行資料倉儲平台架構規劃及設計，其中包含 Pivotal Greenplum產品服務，資料倉儲工程師將專注於資料倉儲顧問服務，解決使用者關於資料倉儲相關需求。
+
+資料倉儲專為資料分析所設計，可讀取大量的資料以了解資料的關係和趨勢，資料通常會定期從交易處理系統、關聯式資料庫和其他來源流入資料倉儲。讓商業分析師、資料科學家和決策者可透過商業智慧 (BI) 工具、SQL 用戶端和其他分析應用程式存取資料。
+
+所以資料倉儲工程師必須要了解資料倉儲特性及資料存放方式，來根據使用者需求給予建議，並且為其使用單位提供適合的資料倉儲架構，建立完整資料倉儲資料流流入方案及資料倉儲管理機制。
+
+本工作職缺適合關聯式的資料庫工程師，有意願轉型為資料倉儲工程師來接觸更廣泛的資料處理服務面向，可以更容易延伸接觸其他資料處理的技術及平台，來加值自身的技術能力。
+
+【工作項目】
+平台規劃及設計
+平台架構建置及設定
+平台高可用性建置及設定
+平台開發顧問服務
+平台資源規劃調教
+平台權限規劃設定
+ETL 資料流設定
+
+【職務需求】
+熟悉 Linux 操作及管理
+熟悉一種資料庫系統 (Oracle , PostgreSQL , MySQL , MSSQL.. 其他 )
+良好的文件撰寫能力
+良好之團隊協作、溝通協調能力",1~2人,不拘,專科以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Linux,資料庫軟體應用,"【加分條件】 資料倉儲管理經驗 Hadoop 平台管理經驗 Hadoop 平台相關認證 ETL 相關經驗 資料庫相關工作管理經驗 Python , Java 程式開發經驗 英文認證",0~5人應徵,120.9674798,24.8138287
+b8gl75c,6qjw8,Hadoop 平台工程師(資料湖/大數據/巨量資料/HDP/CDH/串流處理),待遇面議,0,0,軟體設計工程師/其他資訊專業人員,"【職務說明】/將參與各大系統專案進行 Hadoop 平台架構規劃及設計，並包含 Cloudera Data Platform / Hortonworks Data Platform / Cloudera data flow 各項產品服務，將專注於 Hadoop 平台顧問服務，解決使用者關於 Hadoop 平台相關需求。//【工作項目】/平台規劃及設計/平台架構建置及設定/平台高可用性建置及設定/平台開發顧問服務/平台資源規劃調教/平台權限規劃設定/平台認證規劃設定 (kerberos,LDAP)",1~2人,2年以上,專科、大學,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"【職務需求】 Hadoop 平台建置經驗 (CDH or HDP) 熟悉 Linux 操作及管理 熟悉 一種資料庫系統 (Oracle , PostgreSQL , MySQL , MSSQL.. 其他 )  良好的文件撰寫能力 良好之團隊協作、溝通協調能力  【加分條件】 Hadoop 平台管理經驗 (CDH or HDP) Hadoop 平台相關認證 資料庫相關工作管理經驗 Python , Java 程式開發經驗 英文認證  *應屆畢業需要滿足1.職務需求 2.資訊相關科系 3.英文能力佳",0~5人應徵,121.5124562,25.0500181
+1a2x6bjf44,5a5et,【大數據分析工程師】分析萬事萬物！加入台中矽谷,"月薪30,000~52,000元",30000,52000,市場調查／市場分析/演算法開發工程師/統計精算人員,"1.具備資料庫結構(MySQL)與擷取資料探勘
+2.熟悉大數據處理相關技術與統計之資料探勘相關實務經驗。
+3.熟網路社群分析，發掘消費者行為模式與偏好，據此建立分類、群集、關聯、時序及預測模型，解讀分析的結果、並提出行銷策略規劃、應用執行方案與行銷決策建議。
+4.分析消費者行為、社群行銷、電子商務.. 等領域
+5.從大量資料產出資料模型、數據分析報表、建議報告 
+6.對資料或資料結構具備高度敏感性",1~2人,不拘,專科以上,,None,None,,,※ 良好溝通協調能力，善於溝通  ※ 思考清晰、具備數據整理能力、統計分析能力,0~5人應徵,120.7223572,24.2521156
+1a2x6bk9dy,61cuq,"FB廣告投放,粉絲小編,GA大數據分析 (高雄市)","月薪40,000~90,000元",40000,90000,行銷企劃主管,1.網路行銷創意執行/2.提升來客數,2~3人,不拘,高中以上,,None,None,,,,0~5人應徵,120.2953492,22.6252508
+1a2x6bj31u,4qqjx,大數據軟體工程師 (月薪10萬-20萬),"月薪80,000~200,000元",80000,200000,Internet程式設計師/軟體設計工程師,Advanced Programming for Cloud Computing (月薪10萬-20萬)/Build Big Data Analytics Solution/大數據分析,不限,不拘,大學以上,資訊工程相關/其他數學及電算機科學相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C++/Java/Go/JavaScript,軟體程式設計/網路程式設計,,6~10人應徵,121.5258123,25.0456714
+1a2x6biclh,6uksl,智慧交通運輸 交通分析師/時制重整/交通大數據,"月薪40,000~90,000元",40000,90000,都市／交通規劃人員,交通流量調查分析 /交通維持計劃撰寫 /交通影響評估 /道路工程設計/交通趨勢大數據分析/路口號誌時制重整改善/*****無相關經驗或是非交通學科請勿投遞,6~9人,3年以上,專科以上,,None,None,,,*****無相關經驗或是非交通學科請勿投遞,0~5人應徵,121.562324,25.0332591
+1a2x6bl5f2,6w76p,大數據開發（月薪：30k-50k 人民幣）+每月績效+年底13-16薪,"月薪128,354~213,923元",128354,213923,軟體設計工程師/硬體研發工程師/行銷企劃人員,職務要求：/1、基於Hadoop，Spark生態技術構建大資料平臺；/2、基於Flume生態技術構建即時計算平臺；/3、基於分散式運算存儲系統，進行資料倉庫架構設計，資料模型設計，以及ETL開發；/4、持續優化大資料平臺，快速修復問題，快速回應業務的資料需求；//任職資格：/1、三年以上互聯網行業大資料開發工作經驗；/2、熟練掌握Scala/Java/Python語言中的一種，熟悉Linux系統；/3、熟練掌握Hadoop、Spark、Flink、Hbase、Impala、Druid、Kylin技術棧中一種及以上；/4、有基於SparkStreaming，Flink進行即時計算開發經驗優先；/5、具有較好的資料建模經驗優先；/,20人,3年以上,大學以上,,None,None,,,,0~5人應徵,120.9826825,14.5349838
+13uzkigw,6d8m6,大數據高階整合工程師,待遇面議,0,0,工業工程師／生產線規劃/軟體設計工程師/統計學研究員,工業4.0 Digital Twin數位分身:模擬技術研究與支持/產線大數據分析和技術支援/整合大數據分析平台與使用介面開發/客戶痛點顧問服務/專案計算分析/軟體平台測試研究/軟體安裝訓練/POC 分析/R與python結合應用/,1人,不拘,大學、碩士,工業工程相關/資訊工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C#/C++/Python/R/Dbase,,具程式語言背景優先考慮 ,0~5人應徵,120.539438,24.093166
+fuu0th4,x0wg,大數據資訊專員,待遇面議,0,0,軟體設計工程師/演算法開發工程師/系統維護／操作人員,"1. 企業戰情室報表設計開發及維運
+2. 資料平台Data Modeling 開發及維運
+3. AI模型建立及維運",1人,2年以上,大學、碩士,數學及電算機科學學科類/商業及管理學科類,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Data Modeling/ETL/PL/SQL/Tableau,,1.熟悉SQL語法，具備ETL及Data Modeling經驗 2.具視覺化工具經驗，熟悉Tableau 3.具AI演算法及預測模型建立開發經驗,0~5人應徵,121.4241499,24.9841598
+233rv1s,6qvzx,大數據系統工程師(天津),待遇面議,0,0,資料庫管理人員/軟體專案主管/軟體設計工程師,"1.搭建大數據相關分散式開源(open source)解決方案之平台
+2.Open API 平台搭建
+3.工業大數據分散式儲存平台(SQL/NoSQL)搭建",1人,3年以上,碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"1.熟悉 Cassandra, Spark, Storm 等分散式處理平台 2.分散式處理平台之校能調校及優化經驗 3. Docker 環境搭建、管理和優化經驗",0~5人應徵,117.3616476,39.3433574
+1a2x6bkjk0,6r2ko,大數據研發工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師,工作要求：/1. 學士及以上學歷，5年以上相關工作經驗；/2. 精通Scala、java語言，有Scala實際編程經驗；/3. 熟悉Linux 操作系統，熟練使用Shell、Python腳本語言；/4. 深入了解分佈式系統、大數據平台、消息隊列等高可用高彈性架構；/5. 對HDFS/Yarn/HBase/Hive/Spark相關組件的性能優化和補丁跟踪等有實際經驗；/6. 在Hadoop、Spark、Storm、Flink等開源社區有過貢獻最佳；/7. 良好的英語讀寫能力；/8. 強烈的責任心和自我驅動意識，有良好的團隊合作精神和溝通協調能力。/,1人,5年以上,大學以上,資訊工程相關/數理統計相關/應用數學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,,0~5人應徵,0.0,0.0
+ap7rv14,6q0d3,R類: AI大數據工程師-330,待遇面議,0,0,軟體設計工程師/Internet程式設計師/電玩程式設計師,測試數據分析模組開發,不限,1年以上,碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Python/MS SQL,,1. 熟Python 或R 程式開發 2. 熟 SQL 資料庫及語法 3. 具統計建模、資料採擷、機器學習或深度學習的應用開發經驗,0~5人應徵,121.5231511,25.106097
+233rv1s,4rdku,大數據系統架構師(深圳),待遇面議,0,0,資料庫管理人員,"1. Hadoop系統架構設計︑服務部署與集群管理
+2. 產品開發環境部署、資源優化與安全性管控
+3. Hadoop新技術POC與部署服務應用",1人,不拘,大學以上,資訊工程相關/電機電子工程相關,None,None,,,"1. 熟悉大數據服務部署與操作(Hadoop,Spark,MapReduce) 2. 具備SQL/NoSQL資料庫建置與管理經驗 3. 具備大數據系統建置與管理(Cloudera)經驗尤佳",0~5人應徵,114.057865,22.543096
+4cgulm0,534il,大數據分析工程師/6120(林口),待遇面議,0,0,軟體設計工程師,"1. 工業4.0大數據處理分析
+2. 參與公司跨事業部工業大數據解決方案之計劃",1人,不拘,大學、碩士,資訊工程相關/數理統計相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C#,,熟Database/R語言/Text Mining/Machine learning/SQL語言,0~5人應徵,121.3888541,25.0507832
+bj3cdaw,54ruo,大數據主管(總管理處),待遇面議,0,0,資料庫管理人員/專案管理主管,"1. 負責集團大數據Roadmap規劃推展與建置。/2. 規劃建置集團大數據資料來源的蒐集與整併、資料預處理(ETL)、客戶辨識與資料運算。/3. 規劃建置集團大數據模型，並提供行銷推展或流程改善建議。 /4. 負責資料探勘、分析、與管理，包括線上APP/Web site資料、線下銷售資料、車聯網車主行為資料等。/5. 熟悉分析工具的使用，例如 R, Tableau, SPSS, SAS, data mart, data warehouse等。/6. 掌握大數據發展與創新應用趨勢, 據以提出創新解決方案或專案規劃。/7. 具有集團(跨領域)大數據分析與專案管理經驗尤佳。/",1人,7年以上,大學以上,統計學相關/企業管理相關/應用數學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Data Modeling/MS SQL/Oracle/Data Architect/SAS/SPSS,,"技能需求  熟悉一種RMDB(MySQL,Oracle, SQL Server..)或一種NoSQL Database(MongoDB、Cassandra...), 具備有R. Python. SAS, SPSS. Hadoop. Spark, Hive等技術能力尤佳。 ",0~5人應徵,121.5452449,24.9777662
+agf7nww,6uhpp,大數據工程師,"月薪40,000~60,000元",40000,60000,資料庫管理人員/其他資訊專業人員,"永慶房產集團以科技房仲自詡，用科技創新引領房仲變革，歡迎IT領域的優秀夥伴加入!
+我們團隊有創新的技術開發環境，鼓勵團隊成員持續學習、提升技能。夥伴們年輕、充滿活力，彼此分享經驗一起成長。
+
+工作內容如下:
+1.管理集團資料庫(MS SQL、MySQL)，包含架構規劃建構、權限管理、使用空間、系統資源(CPU、Memory、IO)、效能調教...等。
+2.開發資料庫預存程序(SP)及數據處理程式(SSIS、Python)
+3.主動學習大數據相關新技術探索。",1人,3年以上,專科以上,,None,None,MS SQL/MySQL,,1.學歷:資訊相關科系 2.年資經驗:3年以上 3.熟悉Linux作業系統，熟悉MS SQL、MySQL管理技能，具備DB Cluster實作經驗尤佳。  優先面試經濟部工業局DIGI⁺ Talent計畫之結訓研習生(BD),0~5人應徵,121.5491618,25.0300998
+5vox8tk,6vrsu,品質大數據分析工程師(台南),待遇面議,0,0,軟體設計工程師/演算法開發工程師,"以R、Python進行數據清洗、建模、可視化等分析流程，進階運用統計方法、機器學習及深度學習技術開發符合實作運作之演算法
+1.數據探勘(Data Mining)
+2.應用演算法分析生產相關數據
+3.數據及分析結果視覺化
+4.演算法研發",1~2人,不拘,碩士,電機電子工程相關/工業工程相關/數理統計相關,None,None,Python/R,,統計方法論、Data Mining、Machine Learning,11~30人應徵,120.2774192,23.0901596
+233rv1s,6vshg,04.【2020新幹班】大數據類,待遇面議,0,0,軟體設計工程師,"1.負責數據接口開發、數據庫管理與應用、資料擷取整理與ETL處理
+2.產品領域包含雲端、通訊網路產品等
+3.工作地點包含高雄/越南等地",不限,不拘,大學以上,資訊工程相關/數學及電算機科學學科類/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1.熟悉R、Python、SQL、C++等程式語言，具備資料探勘、機器學習相關經驗 2.資工/資管、數學/統計、電機/電子、通訊/電信等相關背景者尤佳,6~10人應徵,121.421374,24.9661064
+1a2x6bi2n1,6vvcb,手機視覺智慧感測大數據APP軟體工程師,待遇面議,0,0,軟體設計工程師,1. iOS 或 Android 手機 App 開發/2. 手機影像資料擷取與數據處理智能化 /3. 可獨立作業 /4. 與多元領域團隊溝通/5. 主管交辦事項,1人,不拘,大學、碩士,資訊工程相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Java/Python/Objective-C/SWIFT/Kotlin,,1. 手機APP開發與上架經驗(有作品者佳) 2. 具機器學習，人工智慧，電腦視覺相關經驗（例如使用 PyTorch、TensorFlow、Keras，scikit-learn，Core ML，OpenCV等套件） 3. 持有經濟部能力鑑定(iPAS)證書者優先面試! MAD IOTS,0~5人應徵,120.9213273,24.7068534
+5msc8qo,6uikx,大數據分析人員,待遇面議,0,0,資料庫管理人員/統計精算人員,1.績效數據處理：數據資料篩選、分類與分析，資料分析之系統協調 /2.分析與營運管理：分析營運項目表現、行銷活動成效、特定專案之分析、製作報表及簡報，協助制定與追蹤通路經營或改善計畫 /3.提供分析資料及建議供決策單位政策調整參考/4.各類通路市場資訊蒐集與彙整、管理辦法修撰、主管交辦事項,1人,2年以上,大學以上,統計學相關/數理統計相關/會計學相關,None,None,Excel/Oracle ERP/SAP,,1.統計相關科系且熟習財會作業 2.具工作資歷2年以上，負責公司市場資料蒐集、數據分析、模型建立及驗證 3.統計工具軟體實務應用經驗(包含但不限於軟體/語言/資料庫的整合應用)、有ERP及SAP系統相關運用經驗更佳 4.文書相關軟體應用,0~5人應徵,121.5801049,25.0638856
+1a2x6bkk7h,6tjs6,大數據技術總監 - Big Data Technical Director,待遇面議,0,0,軟體設計工程師/演算法開發工程師/其他資訊專業人員,1. 負責公司資料系統的整體架構設計。/2. 資料庫、大數據平台、報表視覺化的搭建及研發。/3. 按時完成各個業務和產品部門的資料服務需求，持續優化現有的平台架構。/4. 負責數據團隊的招聘、組織架構設計及團隊培養和日常管理。/5. 帶領團隊設計並開發具有創新價值的大數據分析平台。/,1人,5年以上,大學以上,資訊工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Python/hadoop/Google Analytics/Hive,系統架構規劃/問題追蹤處理(Bug tracking)/軟體程式設計/Machine Learning/資料庫軟體應用,1. 大學以上學歷，資訊工程、數學等相關科系，具有8年以上研發工作經驗。 2. 有5年以上BI及大數據研發經驗，4年以上團隊管理經驗，有良好的團隊管理能力。 3. 有較強的溝通和表達的能力，有較強的同理心，能夠合理調度資源及時滿足和配合業務單位需求。 4. 精通Hadoop、Spark、Hive、HBase等技術。 5. 具有高度責任心，較強的抗壓能力。 6. Data Mining / Machine learning。 7. 有一線互聯網公司和O2O行業經驗者優先。 8. 熟悉GA分析者優先。  曾有區塊鏈之工作經驗為加分喔!!!,0~5人應徵,121.568653,25.0362006
+wiulok0,6me3u,大數據及AI研發工程師,待遇面議,0,0,軟體設計工程師,"研究將大數據及AI相關技術，運用在金融投資領域
+1.	量化投資模型開發
+2.	股票合理股價模型開發
+3.	選股模型開發
+4.	理財機器人開發
+5.	股票機器學習研究及開發
+6.     系統建置及維護
+7.     ChatBot 開發
+8.     客戶行為與偏好分析",1~3人,2年以上,碩士以上,資訊工程相關/數學及電算機科學學科類/商業及管理學科類,英文,聽 /中等、說 /略懂、讀 /中等、寫 /略懂,Python/MS SQL/HTML/Django,具備財金專業知識/金融市場分析與資料蒐集/理財規劃實務與工具運用/期貨交易與證券分析/系統架構規劃/系統整合分析/軟體工程系統開發,1.財務金融科系、數理統計科系、資訊工程及資訊管理科系 2.量化投資模型開發經驗 3.具程式設計能力 4.熟悉機器學習演算法 5.熟悉Python程式語言開發 6.具備軟體工程開發思維及版本控管經驗,11~30人應徵,121.5427093,25.0792018
+233rv1s,4hef0,大數據分析師(新竹/大陸深圳),待遇面議,0,0,演算法開發工程師/軟體設計工程師/軟體專案主管,"1. 運用資料採擷/機器學習的理論和方法，深入挖掘和分析海量生產資料產生回饋對策
+2. 不斷完善和優化演算法，以技術驅動公司品質和效率提升；
+3. 包括但不限於建模、分析、預測等，為全公司各業務提供資料採擷方面的支持；
+4. 參與design & code review，組織交流分享促進團隊共同進步。",1~7人,3年以上,大學以上,資訊工程相關/數理統計相關/工業工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C#/C++/Java/Python,,"1. 大學或碩士以上資訊、數學、統計學、工工、工管、計量經濟相關科系(歡迎博士加入) 2. 精通一門或多門開發語言 (R, Lingo, C#, Java, Python, C++等)，熟練演算法和資料結構； 3. 瞭解前瞻技術，熟悉統計預測模型、資料採擷或OR演算法，如回歸,ARIMA等； 4. 優秀的溝通能力，有創新精神，樂於接受挑戰。",6~10人應徵,0.0,0.0
+1a2x6bj92p,6gehs,Pre-Sales 大數據專案售前工程師,待遇面議,0,0,營運管理師／系統整合／ERP專案師/電腦系統分析師/顧問人員,1. 大數據專案整體、方向及訂定。/2. 交接、督導建置執行。/3. 了解客戶與使用者大數據需求的策略和目標。/4. 售前技術、專案文件撰寫。/5. 大數據專案售前溝通。,1~2人,5年以上,大學以上,數學及電算機科學學科類/資訊管理相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Excel/PowerPoint/Visio/Word/Draw,專案規劃執行╱範圍管理/專案溝通╱整合管理/危機與議題管理/協商談判能力/提案與簡報技巧/系統架構規劃/系統整合分析/軟體品質與保證/系統架構規劃與維護,,0~5人應徵,121.5432841,25.0306077
+1a2x6bishn,6ej3n,大數據研發工程師,"月薪26,000~82,000元",26000,82000,軟體設計工程師/電腦系統分析師,"本部門目前產品主要為半導體業及科技業產線數據分析/決策系統，/提供客戶各種解決方案，涉及統計分析、資料探勘、AI人工智慧與機器學習(Machine Learning)。 將依據專案需要，進行系統分析、資料庫設計與維護及程式開發設計。 /需能夠跟PM、其他工程師密切團隊合作，融入團隊。 內部環境自由，團隊氣氛友善。可多方參與其他相關大數據, AI等專案不斷增加能力。//[條件要求] /1. 熟悉Javascript, Java, Python 其中一種語言/2. 熟悉 Cassandra, MongoDB, Kafka, Spark, Kubernetes其中一種技術和工具/3. 具備團隊合作能力，能夠主動與PM、設計師、其他工程師等討論並給予專業/建議，共同追求合適的解決方案/[Plus] /1. 具有敏捷(Agile)開發的經驗佳 /2. 熟 Git 佳 /3. 熟悉 SQL or NOSQL Database者佳/4. 附帶作品者佳 /5. 相關工作經驗//",2~3人,不拘,大學以上,資訊工程相關,None,None,,,,0~5人應徵,120.9674798,24.8138287
+10whcigo,6azbi,新光人壽-數據分析襄理(資料倉儲及大數據分析平台規劃),待遇面議,0,0,資料庫管理人員/市場調查／市場分析/統計精算人員,"新光人壽相信資訊科技是企業競爭力的重要基石，在資訊科技的投資上不遺於力，因此E化在業界長久以來都屬於領先的一群，面對數位金融3.0數位創新的時代，新光人壽更擬定短中長期計畫積極建構全方位的數位金融平台，打造創新的數位保險服務，相關計畫包含：
+-電子商務平台
+-數位智能客服中心
+-IoT及FinTech於保險領域的應用
+-全方位銷售及客戶服務的行動應用開發
+-運用Big Data數據分析與資料模型，以發掘更多客戶需求與服務創新方式
+-打造以使用者體驗(UX)為中心的全新數位通路
+
+誠摯邀請對資訊科技有熱情的您一起加入我們共同學習與成長
+
+主要工作內容：
+1.資料倉儲規劃及管理維運並持續優化效能。
+2.大數據分析平台規劃建置(Hadoop、SAS)",1人,2年以上,大學、碩士,資訊工程相關/資訊管理相關/數理統計相關,None,None,Data Modeling/Informatica/Data Marts/SAS,,1.大學以上資訊相關科系所畢業 2.3年以上資料庫或資料倉儲規劃與建置相關工作經驗，包含資料模型設計，具備程式設計與應用系統導入經驗更佳。 3.具備大數據系統建置與管理(Hadoop)經驗尤佳。 4.具備良好溝通能力與簡報技巧,0~5人應徵,121.5595451,25.0498891
+1a2x6bishn,6djds,大數據系統架構師,"月薪26,000~82,000元",26000,82000,軟體設計工程師/資料庫管理人員,1.負責大數據平台系統架構設計與環境佈署管理。 /2.負責技術團隊內部溝通協調及相關技術文件產出。 /3.負責大數據平台系統新技術研究與需求性模組引進、整合與測試管理。/4.需熟悉 Hadoop 系統架構，NoSQL (eg. MongoDB or Cassendra)，具備系統架構實務經驗。/,1人,5年以上,碩士以上,資訊工程相關/資訊管理相關,None,None,AJAX/Java/Python/DHTML/HTML/JavaScript/jQuery/DHCP/DNS/LDAP/SNMP,系統架構規劃/軟體工程系統開發/軟體程式設計/資料庫系統管理維護/資料庫程式設計/資料庫軟體應用,1.具備Java、Python或其他相關程式語言軟體開發經驗。  2.熟悉web應用開發，如HTML/CSS/JavaScript/AJAX/jQuery。  3.具備網路服務管理經驗，如DNS、DHCP、NTP、SNMP、LDAP等。  4.熟悉 Hadoop 系統架構，NoSQL (eg. MongoDB or Cassendra)，具備系統架構實務經驗。,0~5人應徵,121.007357,24.7976861
+a5hi0dc,6bxi5,110年研發替代役/預聘 - 統計分析/大數據分析工程師,待遇面議,0,0,統計學研究員/統計精算人員,"歡迎110年畢業碩博士投遞履歷
+
+1. AI 方法研究與開發
+2. 統計方法研究開發
+3. 系統架構發展",不限,不拘,碩士以上,數理統計相關/數學及電算機科學學科類/工業工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,, ,11~30人應徵,121.0251091,24.767557
+154zrwlk,6w732,大數據系統工程師_0032,待遇面議,0,0,其他資訊專業人員/網路管理工程師/資料庫管理人員,"1.大數據系統平台架構優化與維護
+2.資料庫系統優化、維護與異常排除
+3.資訊系統建置規劃與維護
+4.系統安全性架構優化
+5.數據串流規劃、工具導入及整合
+6.主管交辦事項及配合各項專案執行",1~2人,5年以上,大學以上,,None,None,Excel/Outlook/PowerPoint/Word,,1 熟悉Linux作業系統及Shell操作管理，5年以上經驗 2. 大數據平台(Apache Hadoop/Cloudera CDH)建置管理維護與整合相關經驗2年以上 3. 俱備Kafka、Fluentd、Flume等數據串流經驗者佳 4. 熟悉Mysql、Mssql系統操作、維護及T-SQL撰寫 5. 俱備雲端系統操作(AWS、GCP)經驗者佳,0~5人應徵,121.5764629,25.0717236
+1a2x6bj92p,71uvr,大數據專案管理師 Big Data Project Manager,待遇面議,0,0,營運管理師／系統整合／ERP專案師/顧問人員/軟體相關專案管理師,"1.承接業務簽約的資料工程與資料分析專案，完成工作範圍說明書。
+2.發展各項專案管理與進度管制文件。
+3.負責專案之規劃、執行、監控、管理與協調。
+4.需有能力將工程師撰寫的內部版本工程文件（程式設計文件、測試報告），依照客戶要求格式改寫為外部版本。
+5.需有良好溝通能力
+6.需有領導能力",不限,5年以上,大學以上,數學及電算機科學學科類/資訊管理相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Excel/PowerPoint/Visio/Word/Draw,專案人力資源管理/專案成本╱品質╱風險管理/專案時間╱進度控管/專案規劃執行╱範圍管理/專案溝通╱整合管理/專案管理架構及專案說明/督導人員工作績效/危機與議題管理/協商談判能力/提案與簡報技巧/系統架構規劃/系統整合分析/軟體品質與保證/系統架構規劃與維護,,0~5人應徵,121.5432841,25.0306077
+169tvn88,740bm,「精準健康大數據」計畫博士後研究員,"月薪58,000元以上",58000,9999999,統計學研究員/其他研究人員/應用科學研究員,"本工作為執行國衛院之精準健康大數據研究計畫，工作內容主要為基因體資料分析，包含基因體資料(主要為NGS)格式探討及標準化、基因與疾病如癌症的關聯分析、基因與環境的交互作用分析，串接健保資料庫探討基因與用藥之關聯性。
+關於本研究室的研究方向及成員可參考: http://rclab.nhri.org.tw
+應徵條件：
+1. 統計或資訊相關系所博士學歷
+2. 對生醫大數據研究有興趣，有GWAS或NGS資料分析經驗者佳
+3. 具程式撰寫能力，熟悉R或Python
+有意願應徵者請附CV、博士論文及三位推薦人聯絡方式 email至 rchung@nhri.edu.tw 鍾仁華 研究員收 (請勿來電徵詢，合適者會盡速通知面談)",1人,不拘,博士,數理統計相關/資訊工程相關/其他數學及電算機科學相關,None,None,,,,0~5人應徵,120.9139645,24.7049997
+1jt7ol5,74dae,【2020 IT's Time】 大數據資料分析師 Data Analyst,"月薪37,000~70,000元",37000,70000,演算法開發工程師/資料庫管理人員/軟體設計工程師,"【IT's Time國泰資訊人才招募計畫】
+#徵像貓一樣黏著鍵盤的你
+#12/16收件截止
+　
+　　( ✩Waiting for You ✩ )
+　　 ￣￣￣￣￣|ノ￣￣￣
+　ﾟ ｡　, ∧＿∧　ﾟ。 
+　ﾟ・（ﾟↀωↀ)= 。　 
+　　    （つ　　 ⊃　 
+　　　　 ヾ(⌒ﾉ 
+　　　　　　` J
+　
+對現在的奴才不太滿意？
+如果你是 #工程師 #喜歡鍵盤 #想轉職
+歡迎來國泰做・主・子
+　
+【工作內容】
+1. 利用統計分析解決業務問題
+2. 資料視覺化報表設計及開發
+3. 在跨部門合作專案中協助單位透過機器學習演算法等技術萃取資料價值，並設計數據應用解決方案。
+【條件說明】
+技能：SQL/Python/R/Tableau
+
+知識：統計模型、機器學習演算法及資料視覺化方法論
+
+職能：持續學習/促進團隊成功/積極主動/簡報能力/高影響力溝通
+
+經驗：具資料分析、統計模型及機器學習演算法實做開發經驗，能說明其原理及應用場景。
+【未來發展】
+短：熟悉金融保險業數據生態，運用統計分析解決業務問題。
+中：實做特徵工程、模型建置及參數調整等機器學習模型開發專案。
+長：帶領團隊研究資料科學相關創新技術，配合實務場景發展機器學習演算法落地應用。
+【煩請投遞履歷至「國泰人才招募平台」】https://reurl.cc/ldjoy6",5人,1年以上,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,, ,6~10人應徵,121.5909027,25.0689422
+d6gs5o8,744dr,軟體開發工程師/大數據資料處理工程師_9714,"月薪30,000~50,000元",30000,50000,軟體設計工程師/通訊軟體工程師/韌體設計工程師,"Responsibilities:
+1. Collect, process and cleanse raw data from a wide variety of sources
+2. Transform and convert unstructured data set into structured data products.",1人,1年以上,碩士,資訊工程相關/電機電子工程相關/數學及電算機科學學科類,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Python/ETL,,"Minimum Qualifications: 1. MS in CS / Statistics / IE / Math or related technical field or equivalent practical experience 2. Great communication skills 3. Good programming skills in Python  Preferred Qualifications: 1. Machine learning, deep learning, or statistics related knowledge 2. Strong algorithmic background 3. Good understanding of fundamentals of SQL / NoSQL; Experience working with large datasets is a plus 4. Experience with data visualization tools such as matplotlib, ggplot, D3.js, and etc 5. Experience with data cleaning and ETL",0~5人應徵,121.4708016,25.1256271
+1a2x6bi2n1,6vvcb,手機視覺智慧感測大數據APP軟體工程師,待遇面議,0,0,軟體設計工程師,1. iOS 或 Android 手機 App 開發/2. 手機影像資料擷取與數據處理智能化 /3. 可獨立作業 /4. 與多元領域團隊溝通/5. 主管交辦事項,1人,不拘,大學、碩士,資訊工程相關/電機電子工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Java/Python/Objective-C/SWIFT/Kotlin,,1. 手機APP開發與上架經驗(有作品者佳) 2. 具機器學習，人工智慧，電腦視覺相關經驗（例如使用 PyTorch、TensorFlow、Keras，scikit-learn，Core ML，OpenCV等套件） 3. 持有經濟部能力鑑定(iPAS)證書者優先面試! MAD IOTS,0~5人應徵,120.9213273,24.7068534
+5vp8u9c,6zmvm,IT-Sr. Big Data Engineer 資深大數據應用工程師,待遇面議,0,0,軟體設計工程師/資料庫管理人員/電腦系統分析師,"1. 執行數據分析專案與任務，提供報表簡報進行預測建議與關聯分析
+2. 內部生產數據收集，維持數據來源品質及穩定性
+3. 透過AI技術開發相關領域解決方案
+4. 具備機器學習、深度學習相關領域知識及模型建置評估與操作監控
+
+＊需熟悉CNN／TensorFlow／Keras等AI解決方案
+＊中英文精通，英語口語流利程度，需直屬匯報至外國主管
+＊請提供英文履歷與自傳",1人,3年以上,專科、大學、碩士,資訊工程相關/資訊管理相關/數理統計相關,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,C#/Python/ANSI SQL/MS SQL/Oracle,系統架構規劃/系統整合分析/Machine Learning/資料庫程式設計/建立╱維護零件資料庫,,0~5人應徵,120.6560965,24.2382688
+1jt7ol5,73nrd,【2020 IT's Time】 大數據資料工程師 Data Engineer,"月薪37,000~70,000元",37000,70000,演算法開發工程師/資料庫管理人員/軟體設計工程師,"【IT's Time國泰資訊人才招募計畫】
+#徵像貓一樣黏著鍵盤的你 
+#12/16收件截止
+　
+　　　／￣￣＼
+（　／　　〇㊀ ＞
+　)／　　ε　 　│
+（／　　　〇㊀ ＞
+　(つ＿と＼＿／
+　 ∪　∪
+　
+對現在的奴才不太滿意？
+如果你是 #工程師 #喜歡鍵盤 #想轉職
+歡迎來國泰做・主・子
+　
+【工作說明】
+1.因應金融業務場景，開發大數據資料蒐集、清洗及邏輯處理程式。
+2.規劃大數據資料倉儲與應用平台(如：機器學習平台、商業智慧工具)架構。
+3.負責資料倉儲系統、資料採礦系統和OLAP線上即時分析系統之規劃、開發與維護。
+
+【未來發展】
+短：熟悉金融保險業數據生態，負責數據工程開發維運。
+中：與數據應用團隊合作，依業務場景設計並開發數據產品。
+長：關注數據生態創新架構，規劃公司數據架構藍圖，支撐企業數據發展。
+
+【條件說明】
+技能：SQL/Python/資料ETL
+知識：資料倉儲架構及大數據工程技術的趨勢與脈動
+職能：持續學習/促進團隊成功/積極主動
+經驗：Caffe、Theano、TensorFlow、Torch
+
+【條件限制】
+1. 國內外大學日間部以上(資工資管、數理統計等相關等系所畢)。
+2. 熟悉資料結構與關聯式資料庫存取語言SQL並具備ETL相關技術。
+3.熟悉Hadoop架構與Spark。
+4. 具備程式撰寫能力(R或Python)。
+5. 具資料倉儲架構規劃、流程設計及技術可行性評估具經驗者佳。
+
+【煩請投遞履歷至「國泰人才招募平台」】https://reurl.cc/x0XmYb",5人,1年以上,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,, ,0~5人應徵,121.5909027,25.0689422
+10whcigo,6azbi,新光人壽-數據分析襄理(資料倉儲及大數據分析平台規劃),待遇面議,0,0,資料庫管理人員/市場調查／市場分析/統計精算人員,"新光人壽相信資訊科技是企業競爭力的重要基石，在資訊科技的投資上不遺於力，因此E化在業界長久以來都屬於領先的一群，面對數位金融3.0數位創新的時代，新光人壽更擬定短中長期計畫積極建構全方位的數位金融平台，打造創新的數位保險服務，相關計畫包含：
+-電子商務平台
+-數位智能客服中心
+-IoT及FinTech於保險領域的應用
+-全方位銷售及客戶服務的行動應用開發
+-運用Big Data數據分析與資料模型，以發掘更多客戶需求與服務創新方式
+-打造以使用者體驗(UX)為中心的全新數位通路
+
+誠摯邀請對資訊科技有熱情的您一起加入我們共同學習與成長
+
+主要工作內容：
+1.資料倉儲規劃及管理維運並持續優化效能。
+2.大數據分析平台規劃建置(Hadoop、SAS)",1人,2年以上,大學、碩士,資訊工程相關/資訊管理相關/數理統計相關,None,None,Data Modeling/Informatica/Data Marts/SAS,,1.大學以上資訊相關科系所畢業 2.3年以上資料庫或資料倉儲規劃與建置相關工作經驗，包含資料模型設計，具備程式設計與應用系統導入經驗更佳。 3.具備大數據系統建置與管理(Hadoop)經驗尤佳。 4.具備良好溝通能力與簡報技巧,0~5人應徵,121.5595451,25.0498891
+a5hi0dc,6bxi5,110年研發替代役/預聘 - 統計分析/大數據分析工程師,待遇面議,0,0,統計學研究員/統計精算人員,"歡迎110年畢業碩博士投遞履歷
+
+1. AI 方法研究與開發
+2. 統計方法研究開發
+3. 系統架構發展",不限,不拘,碩士以上,數理統計相關/數學及電算機科學學科類/工業工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,, ,11~30人應徵,121.0251091,24.767557
+g9nifhc,6x9qy,大數據分析工程師(台中廠) - 保障年薪14個月,"月薪38,000元以上",38000,9999999,軟體設計工程師/演算法開發工程師,"● 全球最佳雇主：第258名；台灣上榜企業中第2名（2020年美國富比士雜誌）
+● 華新麗華為連續30年屹立百大企業（天下雜誌）
+● 「公司治理評鑑」前5%績優公司（台灣證交所）
+● 2000大-金屬製造業：第1名（2020天下雜誌）
+● 台灣50大集團：第32名（2020天下雜誌）
+
+-------------
+
+1. 公司內部大數據分析應用
+2. 熟PYTHON程式設計
+3. 具模型建立經驗尤佳
+4. 具WEB 、APP開發能力尤佳
+5. 具良好溝通能力 
+
+-------------
+
+公司福利：
+1. 福委會福利：生日禮金、四節禮金/禮品、員工旅遊補助、結婚禮金、喪葬補助、生育補助、教育獎助學金
+2. 企業工會福利：結婚禮金、喪葬補助、生育補助
+3. 休假制度：到職即依比例給予特休 (優於勞基法給假制度)、行政辦公職員週休二日
+4. 獎金制度：年終獎金、年度績效獎金、每月生產獎金(廠區事業單位)、年度員工分紅(視集團營運績效)
+5. 廠區活動：家庭日、廠慶禮品、 聯誼活動、各項健康促進活動、員工健康檢查、廠內護理師/醫師諮詢服務",1~2人,不拘,大學、碩士,,None,None,Python,, ,0~5人應徵,120.5117019,24.2469426
+18n64g34,738gt,E8361 企業客戶事業群 - 大數據專案BD副理 (Business Development),待遇面議,0,0,業務支援工程師/國內業務人員/產品企劃開發人員,"負責大數據專案之BD，向公部門提案、執行規劃建議並交付專案。
+1. 須具備有PM或BD經驗。
+2. 熟悉產品簡報製作與文件撰寫。(具政府標案經驗者尤佳)
+3. 具有資料分析經驗或大數據平台建置相關經驗者佳。
+4. 熟悉資料分析程式語言者佳，如python、R。",1人,5年以上,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,, ,6~10人應徵,121.5759414,25.0754809
+169tvn88,723qs,國家衛生研究院環境醫學研究所 李俊賢主治醫師研究室 誠徵大數據資料分析碩士級研究助理,待遇面議,0,0,研究助理/其他資訊專業人員/統計學研究員,"【主要工作】協助執行real-world data/real-world evidence在職業環境性疾病與癌症防治領域的研究；包括：(1) 從事大型資料庫分析研究, 包括衛生福利資料科學中心、醫院資料庫等,  並撰寫分析結果報告; (2) 從事 real-world evidence及 comparative study design等方法學的研究; (3) 從事支援研究計畫相關報帳等行政事務。 	 	 
+【需求條件】1.具有國內外大學生物統計、資訊、數據科學、公共衛生、流行病學、臨床藥學等相關領域碩士學位
+2.須具備統計分析及資料庫分析經驗,  熟悉SAS、STATA或R, 有程式撰寫能力
+3.熟悉藥學流行病學或具備癌症防治研究經驗尤佳
+4.英文文獻閱讀及整理之能力，具備團隊合作及協調能力 	",1人,不拘,碩士,,None,None,,,"國家衛生研究院環境醫學研究所 李俊賢主治醫師研究室 誠徵大數據資料分析碩士級研究助理1名 【職務名稱】研究助理 【主要工作】協助執行real-world data/real-world evidence在職業環境性疾病與癌症防治領域的研究；包括：(1) 從事大型資料庫分析研究, 包括衛生福利資料科學中心、醫院資料庫等,  並撰寫分析結果報告; (2) 從事 real-world evidence及 comparative study design等方法學的研究; (3) 從事支援研究計畫相關報帳等行政事務。 	 	  【需求條件】1.具有國內外大學生物統計、資訊、數據科學、公共衛生、流行病學、臨床藥學等相關領域碩士學位 2.須具備統計分析及資料庫分析經驗,  熟悉SAS、STATA或R, 有程式撰寫能力 3.熟悉藥學流行病學或具備癌症防治研究經驗尤佳 4.英文文獻閱讀及整理之能力，具備團隊合作及協調能力 		 【上班地點】台大醫院、衛生福利資料科學中心 （台北市捷運昆陽站附近），國家衛生研究院竹南院區 (每週二到竹南院區參與所內演講)		 【工作待遇】依國衛院薪資標準		 【聯絡方式】敬請備妥履歷資料寄至 李俊賢醫師Dr Lukas Lee 信箱 (lukaslee@gmail.com，lukaslee@nhri.edu.tw 信件標題註明:應徵碩士級研究助理--姓名, 碩士學位証明，履歷自傳 (含個人學經歷，具備專業技術、相關經驗及大頭照個人著作目錄 (含碩士學位論文英文摘要)，提供兩三位推薦人之電話及電郵及其他有利應徵之相關資料, 若條件適合將盡快聯絡約談，恕不退件		 ",0~5人應徵,120.9139645,24.7049997

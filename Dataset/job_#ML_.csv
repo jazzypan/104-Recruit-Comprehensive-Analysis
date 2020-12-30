@@ -1,0 +1,144 @@
+公司代碼,工作代碼,工作名稱,工資待遇,工資待遇(最低),工資待遇(最高),工作性質,工作敘述,需求人數,經驗要求,學歷要求,科系要求,語文條件,語言能力,擅長工具,工作技能,其他條件,應徵人數,經度,緯度
+10ww9gpk,6s7d4,"【桃園/台中廠擴大招募】Data Engineer/ SR Data Engineer, Smart MFG & AI",待遇面議,0,0,資料庫管理人員/其他資訊專業人員,"As a Senior Data Engineer at Micron Technology Inc., you will be a key member of our Technology Solutions group within the Smart Manufacturing and Artificial Intelligence organization. The Data Engineering team works closely with Micron’s business functions(Domain expert, Data Scientist..etc) in all aspects of data, like Connect and automate the pipelines, provide data as products building data lake, data warehouse and data mart, and data cleansing and data governance developing Big data engineering, Machine Learning and advanced analytics solutions. We are looking for individuals with strong experience in Big Data and Cloud Datawarehouse technologies. This role will work primarily with Big Data technologies like Hadoop, Cloud data warehouse like Snowflake and GCP, ETL skills like Ni-Fi, Monitoring solutions such as Splunk, automation and machine learning using Python.
+ 
+You will ensure critical projects as well as higher level production support are delivered with high quality and collaboration with internal Micron team members.
+ 
+Responsibilities and Tasks      
+•	Clarify project requirements and deliverables
+•	Collaborate with Key project partners, Solution analyst and Architect on project needs and translate requirements into technical needs
+•	Identify and understand the data sources that are relevant for analysis   
+•	Become a subject matter expert in company data sources and visualization options 
+•	Consolidate the requirements and using data engineering skills to design a robust DataMart 
+•	Participate in design, architecture review and deployment of Big data and cloud data warehouse solutions
+•	Design for automation and monitoring mechanism in a continuous integration environment 
+•	Implement solutions that eliminate or minimize technical debt through a well-designed architecture, data model, and lifecycle
+•	Bring together and share best-practice knowledge among the data engineering community
+•	Work with OPS team through operational issues, escalations and resolve business partner issues in a timely manner with strong collaboration and care for business priorities.
+•	Collaborate with business partners and other teams to ensure data solutions are available, recover from failures and operate healthy
+ 
+What we are looking for:
+•	B.S. degree and above in Computer Science or related fields (Information Engineering, Information Management, Data engineering, Applied Mathematics) 
+•	3+ years of experience working with Big Data Solutions development
+•	3+ years using ETL tools (NiFi, Informatica, SSIS, Spark…etc) 
+•	3+ years developing with relational databases (MS SQL, Oracle, MySQL…etc) 
+•	1+ years developing with Machine Learning, Data Analysis Knowledge/Skills
+•	Strong application development skills and proficiency with Python, Java, Base shell, SQL…etc 
+•	Strong developing applications with Hadoop Eco. Such as Hive, Spark, Kafka, HBase
+•	Experience with Cloud services such as GCP, AWS, Snowflake
+•	Experience with designing data monitoring dashboards by using Splunk, Tableau or any others visualization tools
+•	Experience with web-applications/technologies development and deployment (RESTful services, Flask, Django, SpringBoot and ASP.net…etc)
+•	Knowledge about container services such as Docker, Kubernetes, OpenShift is a plus
+•	A passion for data and information with strong analytical, problem solving, and organizational skills
+•	The ability to work in a dynamic, fast-paced, work environment
+•	Self-motivated with the ability to work under minimal supervision
+•	On-call support for escalated ticketing handling is expected for customer service 
+•	Good communication skills in English or TOEIC 650 and above",不限,3年以上,大學以上,資訊管理相關/資訊工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,***請務必至本公司職缺網站https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=225421&company=micron 應徵本職缺，並附上英文履歷/自傳。謝謝。 ***,11~30人應徵,121.3736985,25.0383964
+1a2x6bl1ph,6zl7d,ML/AI Software Engineer,待遇面議,0,0,軟體設計工程師/韌體設計工程師/演算法開發工程師,"We are looking for a person with documented experience of machine learning and AI, especially focused on using and integrating ML models in applications. We also prefer a candidate who has a basic understanding of programming embedded systems and an understanding of embedded hardware concepts.//Experience and Education: /    1. 3-5+ years of software development for machine learning experience/    2. MS 8+ years or Ph.D. 5+ years (Preferred)//Required Duties: /    1.	Interpret high-level algorithms and map the algorithms to appropriate processing technologies, such as GPUs, CPUs or DSPs/    2.	Design, code, test, and integrate application-level software for prototype processors/    3.	Design, code, test, and integrate system-level software to perform scheduling and allocation/    4.	Design, code, test, and integrate operators and its optimizations/    5.	Benchmark and document performance results of software//Required Skills: /    1.	Strong experience in at least one of the following machine learning toolkits; Keras, Tensorflow, PyTorch, FastAI, Scikit Learn/    2.	Strong experience in modern DNN networks and applications in graphic, vision, speech, and NLP/    3.	Strong recent experience in multi-process / multi-threaded application design/development, especially in OpenCL, OpenCV, and OpenVX /    4.	Strong recent experience implementing software across heterogeneous computing environments including CPUs, GPUs, and DSPs/    5.	Strong communication skills with demonstrated ability to document software design/    6.	Strong experience in software testing, benchmarking and performance tuning/    7.	Strong experience with version control, configuration management, and integration/",1~5人,3年以上,碩士以上,資訊工程相關/其他數學及電算機科學相關,None,None,,,,0~5人應徵,121.0351856,24.8118143
+1a2x6bleb0,73s4p,(Remote) AI/ML Engineer,"月薪60,000~100,000元",60000,100000,軟體設計工程師/演算法開發工程師,"As an AI Engineer on this team, you will use your skills and knowledge to design and deploy machine learning models for a wide range of AI services including computer vision, NLP, unsupervised, and self-supervise learning. You will train ML models to achieve state-of-the-art accuracy and work closely with the product, research, and engineering team to build AI driven product from conception to production.
+
+
+【Responsibilities】
+•  Research and develop proof-of-concepts to evaluate the applicability of the latest published studies in AI related domains.
+•  Research and apply new AI technologies and products to supports DeepHow's AI-based services.
+•  Participate in weekly AI meetings and work with the DeepHow's engineering team to turn research into products.
+•  Maintain and optimize existing AI services in cloud production environment
+
+
+【Requirements】 
+•  Proficient in Python
+•  Expertise in working with at least one deep learning framework, for example, PyTorch, Torch, TensorFlow
+•  Machine learning courses or equivalent practical machine learning experience
+•  Good communication skills and as a good team player
+•  Responsibility and self-motivation",1~2人,2年以上,不拘,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Linux/Mac OS/Python,軟體程式設計/Machine Learning,,30人以上應徵,121.5436722,25.0258847
+bjl4o88,5xblu,【ML】Machine Learning Engineer / 機器學習工程師,"月薪55,000~142,000元",55000,142000,軟體設計工程師/演算法開發工程師/統計學研究員,"• Perform feature engineering, building and optimizing classifiers using machine learning techniques./• Data mining using state-of-the-art methods./• Design and implement software systems and tools for internal process automation based on data mining and machine learning techniques./• Design, implement, and operate data analytics platforms for business intelligence analysis./• Provide data insights and develop data intelligence solutions/reports for business decisions./• Work with other teams to assist with data-related technical issues and support their data infrastructure needs./• Evaluate and identify the use of new or existing software products and technologies./• Perform other duties as necessary.",1~2人,1年以上,大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"【MUST TO HAVE】 • Good experience with statistics skills, such as regression and classification. • Familiar with machine learning algorithms and techniques, such as k-NN, Naive Bayes, and SVM. • Familiar with deep learning algorithms and techniques, such as CNN, RNN, and LSTM. • Experience in reinforcement learning, time series, and generative models. • Good experience with data science toolkits, such as R, Python, Scikit-learn, Keras, and TensorFlow. • Good knowledge of SQL databases and database query languages. • Good experience with data cleaning, visualization, and reporting.  【NICE TO HAVE】 • Good skills in scripting and programming will be appreciated. • Experience with processing large, multi-dimensional datasets is a plus. • Experience with NoSQL is a plus.",30人以上應徵,121.5756608,25.074163
+539qvs8,3mck7,[新竹ML] 電梯保養技術員,"月薪27,000~32,000元",27000,32000,電機裝修工/電子設備裝修工/產品維修人員,"1.裝配與檢測、調整各項升降機設備。
+2.至客戶端進行定期檢查及保養，並修換損舊組件。
+3.維修報表之建檔與管理。
+4.提供顧客產品維修的內容與報價。
+
+
+補充說明:
+1.錄取後將在桃園教育訓練中心受訓2個月 (備有宿舍，受訓期間免收住宿費)。
+2.福利制度請參閱公司簡介，工作表現優異者，公司提供優渥激勵獎金。
+3.輔導考取(內政部)升降設備技術士證照。
+4.歡迎無經驗者，公司提供完整教育訓練。
+5.工作地點為大新竹地區，須視業務需要至客戶所在地執行業務。
+   (會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限)",5人,不拘,高中、專科、大學,,None,None,,,<<公司備有員工宿舍，歡迎非新竹地區人員踴躍投遞>>,0~5人應徵,120.9829243,24.8063909
+539qvs8,6d7ss,[航站ML] 電梯保養技術員,"月薪26,000~33,000元",26000,33000,電機裝修工/電子設備裝修工/產品維修人員,1.裝配與檢測、調整各項升降機設備。/2.至客戶端進行定期檢查及保養，並修換損舊組件。/3.維修報表之建檔與管理。/4.出勤時間:早班2天(8:30~20:30)+晚班2天(20:30~8:30)+休假2天。/   (單日上班時間超過8小時，依法令另加發加班費，工作待遇為基本薪資，尚未含入加班費)/   /補充說明:/1.錄取後將在桃園教育訓練中心受訓2個月 (備有宿舍，受訓期間免收住宿費)。/2.福利制度請參閱公司簡介，工作表現優異者，公司提供優渥激勵獎金。/3.輔導考取(內政部)升降設備技術士證照。/4.歡迎無經驗者，公司提供完整教育訓練。//,1人,不拘,高中以下、高中、專科、大學,,None,None,,,<<因職務需求，請您先自行評估個人是否能夠接受勞力與高架作業>>,0~5人應徵,121.2322277,25.0767637
+539qvs8,6wu8d,[台北ML] 電梯保養技術員,"月薪26,000~31,000元",26000,31000,電機裝修工/電子設備裝修工/產品維修人員,1.裝配與檢測、調整各項升降機設備。/2.至客戶端進行定期檢查及保養，並修換損舊組件。/3.維修報表之建檔與管理。/4.提供顧客產品維修的內容與報價。//補充說明:/1.錄取後將在桃園教育訓練中心受訓2個月 (備有宿舍，受訓期間免收住宿費)。/2.福利制度請參閱公司簡介，工作表現優異者，公司提供優渥激勵獎金。/3.輔導考取(內政部)升降設備技術士證照。/4.歡迎無經驗者，公司提供完整教育訓練。/5.工作地點為大台北地區，須視業務需要至客戶所在地執行業務。/   (會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限),10人,不拘,高中、專科、大學,,None,None,,,,6~10人應徵,121.5504725,25.0167116
+539qvs8,6s68j,[北屯ML] 電梯保養技術員,"月薪26,000~31,000元",26000,31000,電機裝修工/電子設備裝修工/產品維修人員,1.裝配與檢測、調整各項升降機設備。/2.至客戶端進行定期檢查及保養，並修換損舊組件。/3.維修報表之建檔與管理。/4.提供顧客產品維修的內容與報價。//補充說明:/1.錄取後將在桃園教育訓練中心受訓2個月 (皆備有宿舍，受訓期間免收住宿費)。/2.輔導考取(內政部)升降設備技術士證照。/3.福利制度請參閱公司簡介。/4.工作地點為大台中地區，須視業務需要至客戶所在地執行業務。/(會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限),2~3人,不拘,高中、專科、大學,電機電子工程相關/機械工程相關/電機電子維護相關,None,None,,,,0~5人應徵,120.6877276,24.1520876
+539qvs8,63bbd,[中壢ML] 電梯保養技術員,"月薪26,000~31,000元",26000,31000,電機裝修工/電子設備裝修工/產品維修人員,"1.裝配與檢測、調整各項升降機設備。
+2.至客戶端進行定期檢查及保養，並修換損舊組件。
+3.維修報表之建檔與管理。
+4.提供顧客產品維修的內容與報價。
+
+補充說明:
+1.錄取後將在桃園教育訓練中心受訓2個月 (備有宿舍，受訓期間免收住宿費)。
+2.福利制度請參閱公司簡介，工作表現優異者，公司提供優渥激勵獎金。
+3.輔導考取(內政部)升降設備技術士證照。
+4.歡迎無經驗者，公司提供完整教育訓練。
+5.工作地點為桃園地區，須視業務需要至客戶所在地執行業務。
+   (會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限)",1人,不拘,高中、專科、大學,,None,None,,,,6~10人應徵,121.2251212,24.9641324
+539qvs8,6hhrc,[台中ML] 電梯保養技術員,"月薪26,000~31,000元",26000,31000,電機裝修工/電子設備裝修工/產品維修人員,1.裝配與檢測、調整各項升降機設備。/2.至客戶端進行定期檢查及保養，並修換損舊組件。/3.維修報表之建檔與管理。/4.提供顧客產品維修的內容與報價。//補充說明:/1.錄取後將在桃園教育訓練中心受訓2個月 (皆備有宿舍，受訓期間免收住宿費)。/2.輔導考取(內政部)升降設備技術士證照。/3.福利制度請參閱公司簡介。/4.工作地點為大台中地區，須視業務需要至客戶所在地執行業務。/(會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限),2~3人,不拘,高中、專科、大學,電機電子工程相關/機械工程相關/電機電子維護相關,None,None,,,,0~5人應徵,120.600986,24.1701129
+aexwm9k,6xqff,影像/ML演算法工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師/韌體設計工程師,工作項目：/1. 影像處理。/2. Machine Learning演算法發展。//應徵條件：/1. 碩士以上; 電機工程、電信工程、電控工程、電子工程、資訊工程、資訊科學、動力機械、自動控制、通訊工程相關科系畢業為主。/2. 熟悉 Machine Learning/DNN model development為佳。,1人,不拘,碩士以上,資訊工程相關/電機電子工程相關,None,None,,Machine Learning,,11~30人應徵,120.995005,24.7805875
+1a2x6bl8e6,6yqe1,【ML】Machine Learning Engineer / 機器學習工程師,"月薪55,000~142,000元",55000,142000,軟體設計工程師/演算法開發工程師/統計學研究員,"‧ Perform feature engineering, building and optimizing classifiers using machine learning techniques. /‧ Data mining using state-of-the-art methods. /‧ Design and implement software systems and tools for internal process automation based on data mining and machine learning techniques. /‧ Design, implement, and operate data analytics platforms for business intelligence analysis. /‧ Provide data insights and develop data intelligence solutions/reports for business decisions. /‧ Work with other teams to assist with data-related technical issues and support their data infrastructure needs. /‧ Evaluate and identify the use of new or existing software products and technologies. /‧ Perform other duties as necessary. ",1~2人,1年以上,大學、碩士,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"【MUST TO HAVE】  ‧ Good experience with statistics skills, such as regression and classification.  ‧ Familiar with machine learning algorithms and techniques, such as k-NN, Naive Bayes, and SVM.  ‧ Familiar with deep learning algorithms and techniques, such as CNN, RNN, and LSTM.  ‧ Experience in reinforcement learning, time series, and generative models.  ‧ Good experience with data science toolkits, such as R, Python, Scikit-learn, Keras, and TensorFlow.  ‧ Good knowledge of SQL databases and database query languages.  ‧ Good experience with data cleaning, visualization, and reporting.   【NICE TO HAVE】  ‧ Good skills in scripting and programming will be appreciated.  ‧ Experience with processing large, multi-dimensional datasets is a plus.  ‧ Experience with NoSQL is a plus. ",11~30人應徵,121.5756608,25.074163
+7lka688,4npe1,大數據/機器學習數據工程師-(Data/ML Engineer)-台北,待遇面議,0,0,軟體設計工程師,"1. 透過資料分析及機器學習以提供決策建議.
+2. 負責資料蒐集及處理各項數據、資料建模、ETL流程設計及演算法開發，並經梳理後產出使用.",1人,不拘,大學、碩士,資訊工程相關/資訊管理相關/數學及電算機科學學科類,英文,聽 /略懂、說 /略懂、讀 /略懂、寫 /略懂,Linux/Windows Server 2008/Java/Spring/MS SQL/Oracle/HTML/JavaScript/XML/Word,系統整合分析/軟體程式設計,"1. 具備程式語言及開發的背景，如資訊工程、電機、數學、應數、物理等理工科系 2. 具備資料倉儲概念，並具備基本Machine Learning 相關知識 3. 具備SQL及Shell之技術，或熟悉R/Python/JAVA等語言 4. 具操作過大型資料集(1TB以上)、Hadoop 資料倉儲或Spark 平行化處理之經驗者尤佳 5. 熟悉一種以上資料庫系統 (Oracle , PostgreSQL , MySQL , MSSQL.. 其他 ) 6. 良好之團隊協作、溝通協調能力",11~30人應徵,121.5198716,25.0421407
+12nopku0,66uof,AI and ML視訊演算法架構工程師 (iHOME-DD3),待遇面議,0,0,演算法開發工程師/韌體設計工程師/軟體設計工程師,"【產品線描述】
+Smart TV Solutions：提供TVSoC、MEMC/FRC及面板相關顯示裝置的控制晶片
+ASIC Solutions：提供智能手機、智能電視、電競螢幕及商用顯示等產品各種ASIC解決方案
+PD and Gaming Solutions：提供各種商用顯示及電競螢幕的控制晶片
+
+【工作說明】
+本職缺內容主要為研究與開發視訊處理與電腦視覺相關的演算法或硬體架構。
+利用深度學習或其他先進的演算法，改良現有的視訊處理效果與開發更先進的影像視訊處理方法，並且結合演算法與硬體知識，進一步最佳化深度學習的效能。
+1. 利用Neural network來處理影像視訊的優化
+2. 收集dataset來訓練網路
+3. 最佳化model來符合硬體架構實現
+4. DLA的架構規劃與設計
+
+【必要條件】
+1. MS/Ph.D. in CS/EE (or related major) 
+2. 熟悉 深度學習的概念, 演算法 與架構 
+3. 具深度學習工具的使用經驗. (ex. python, tensorflow, caffe,....) ",5~10人,不拘,碩士以上,電機電子工程相關/資訊工程相關/光電工程相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,Python,,1. 熟悉 影像視訊處理  2. 瞭解如何利用機器學習來加強視訊處理與電腦視覺.  3. 具備深度學習的硬體架構概念. ,11~30人應徵,121.0015383,24.7731718
+1a2x6bi3xl,6wjfp,AI 工程師 for NLP engine (在學期間接受完整ML/DL訓練者優先）,"月薪40,000~70,000元",40000,70000,軟體設計工程師,"1. 具備python 開發經驗。
+2. 本科系畢業，在學期間以語意分析領域為主要學習或研究領域。
+3. 懂語言處理相關ML與DL。 
+
+依照經驗層次敘薪",1人,不拘,大學、碩士,,英文,聽 /略懂、說 /略懂、讀 /中等、寫 /中等,,,,30人以上應徵,121.5235927,25.0491987
+12nopku0,5ufsn,AI/ML & Image Processing Engineer (SP-GSW),待遇面議,0,0,軟體設計工程師/韌體設計工程師/演算法開發工程師,"【工作說明】/1. Build up AI model for SR/detection/recognition/compression/AR/2. Performance optimization in embedded system (inference side)/3. AI backend acceleration with NPU/GPU/CPU_NEON//【必要條件】/1. 熟悉Python, C/C++, JAVA, Tensorflow/Caffe/Keras/ONNX AI framework./2. 孰悉 影像處理/AI CNN 相關理論",1~2人,不拘,碩士以上,資訊工程相關/電機電子工程相關/其他數學及電算機科學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,C/C++/Python,,"有Deep learning, 圖學, Linux & embedded system 相關經驗者佳。",11~30人應徵,121.0015383,24.7731718
+1a2x6bl7y5,6yd49,ML / Data Engineer 機器學習與資料工程師,待遇面議,0,0,軟體設計工程師/演算法開發工程師/電腦系統分析師,"Data / ML talent are working with an incredibly innovative start-up, who have/developed AI solutions for different industries, are looking for Data / ML Engineer/to play an integral part with US AI and Data team. You'll be joining the development/of a robust platform and building and maintaining the data infrastructure, apply/ML/DL algorithms for various solutions that creates a platform and gives power to/Data Science, Machine Learning, Product, Marketing & Sales - this really is an/integral role in the business.//【What you'll do】 //- Implement Data Infrastructure/- Onsite visit (domestic and oversea) customers (large domestic or international/finance institute) to analyze their data for solution /- Developing data tools that support self-service data pipeline management (ETL)/- Apply graph analytics for extraction complicated implicit features/- Research and build mathematical / ML models to predict/- Work with software architect and developers to deliver solution//【Minimum Qualifications】 //- Entrepreneur spirit and autonomous /- Skillful in Python script /- Experience with scientific, NLP, or image analysis libraries (e.g. NumPY, SciPY,/Pandas, Scikit, NLTK, spaCY, OpenCV, Pillow, itk) /- Knowledge of graph database, graph analytics, and graph theory and algorithms /- Familiar with machine learning and deep learning algorithms, models, and training/tools like Tensorflow/- Deep and solid background of statistics and probability/- 1+ years of machine learning experience – preferably in real word problems/- Experience with feature engineering of graph analytics and various sources of/raw data /- Proven success in communicating with users to understand requirements, explain/data modeling decisions and data engineering strategy /- Jupyter and pip development and maintenance /- Experience in ETL or Big Data analysis for data aggregation, cleanness, and/normalization for features extraction /- 英語讀寫能力 /- 熟悉一種關聯式資料庫以上: Oracle, MS SQL server, MySQL/MariaDB, PostgreSQL //【Plus】 //- Dealt with data in BFSI (Bank/Finance Service/Insurance), medical industry before /- Experience working closely with Engineering, Product, and Analytics/Data Science/teams /- Experience in other object oriented programming like C++, Java, go with OOD /- Experience with modern ETL tools /- Experience with modern DWH environments /- Masters or PhD in computer science, mathematics, statistics, economics, or other/quantitative field //【 Others】 //- Team player and collaboration /- Analytical and detail oriented /- Attitude of can do and solve problem independently",1~2人,2年以上,大學以上,,英文,聽 /精通、說 /精通、讀 /精通、寫 /精通,,,,11~30人應徵,121.5580009,25.0456166
+1a2x6bihks,6hf57,HPC/ML Software Engineer,"月薪35,000元以上",35000,9999999,軟體設計工程師,Job responsibilities:/1.	Integrate hardware technology into cloud infrastructure software stack./2.	Optimize applications to provide the best performance for target hardware./3.	Work on per-case compute acceleration projects with our customers and partners. ,1人,不拘,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,作業系統基本操作/撰寫硬體語言程式,"Qualification- Bachelor degree or higher from university in an engineering or computer science related discipline. Knowledge of C/C++ or Python. Knowledge of data structures, algorithms and programming techniques. 2+ years working experience in software development or 2+ years contribution to opensource project(s) with public track record.  Good communication and organization skills with a logical approach to problem solving, good time management, and task prioritization skills. TOEIC 500+.  Preferred skills- Experience with parallel programming. Knowledge of Linux OS. Eager to learn new technologies. ",0~5人應徵,121.373196,25.0511193
+1a2x6bj8ek,72gr9,ML-微生物實驗室主管,待遇面議,0,0,品管／品保主管,"1.微生物相關文件制定                    
+2.微生物實驗室儀器預防保養審核
+3.微生物實驗儀器驗證計畫書執行與審核
+4.微生物實驗確效文件編寫制定
+5.微生物相關實驗進行(如:無菌實驗及無菌實驗相關實驗、確效活動、無菌充填模擬結果觀察及審核、生物指示劑(BI)進料檢驗、等)
+6.微生物試驗室環境監測、手套箱、Laminar flow、BSC季報整理
+7.實驗室報告審核
+8.實驗紀錄簿審核簽名
+9.微生物人員教育訓練
+",1人,10年以上,大學、碩士,藥學相關/食品營養相關/生物學相關,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,1. 有藥廠微生物實驗經驗者尤佳,0~5人應徵,120.2850411,23.0981967
+dbgbm34,3scgu,軟體研發工程師(南投/ML),待遇面議,0,0,韌體設計工程師/軟體設計工程師/通訊軟體工程師,1.負責Embedded System 產品功能開發 2.基於AWS或GCP的BaaS與FaaS開發完整後台服務 3.設計產品系統架構與功能流程 4.優化系統效能與資源配置,1~2人,2年以上,大學以上,,英文,聽 /中等、說 /中等、讀 /中等、寫 /中等,,,"1.熟悉程式語言: C/C++, Python, node.js, PHP  2.網路通訊協定及Restful API定義與開發 3.熟悉下列二種以上經驗 (1)Linux系統管理及 Kernel 優化調整 (2)Apache / Samba等系統服務配置 (3)AWS or GCP服務(AWS: IAM, Dynamodb, Lambda, S3, API Gateway；GCP: IAM, Cloud Storage, Compute Engine) (4)網路通訊設備或IOT產品開發",0~5人應徵,120.678151,23.964302
+539qvs8,74hp2,[桃園ML] 電梯保養技術員,"月薪26,000~31,000元",26000,31000,電機裝修工/電子設備裝修工/產品維修人員,"1.裝配與檢測、調整各項升降機設備。
+2.至客戶端進行定期檢查及保養，並修換損舊組件。
+3.維修報表之建檔與管理。
+4.提供顧客產品維修的內容與報價。
+
+補充說明:
+1.錄取後將在桃園教育訓練中心受訓2個月 (皆備有宿舍，受訓期間免收住宿費)。
+2.輔導考取(內政部)升降設備技術士證照。
+3.福利制度請參閱公司簡介。
+4.工作地點為大桃園地區，須視業務需要至客戶所在地執行業務。
+(會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限)",3~5人,不拘,高中、專科、大學,電機電子工程相關/機械工程相關/電機電子維護相關,None,None,,,,0~5人應徵,121.3548951,25.0095957
+539qvs8,74hp2,[桃園ML] 電梯保養技術員,"月薪26,000~31,000元",26000,31000,電機裝修工/電子設備裝修工/產品維修人員,"1.裝配與檢測、調整各項升降機設備。
+2.至客戶端進行定期檢查及保養，並修換損舊組件。
+3.維修報表之建檔與管理。
+4.提供顧客產品維修的內容與報價。
+
+補充說明:
+1.錄取後將在桃園教育訓練中心受訓2個月 (皆備有宿舍，受訓期間免收住宿費)。
+2.輔導考取(內政部)升降設備技術士證照。
+3.福利制度請參閱公司簡介。
+4.工作地點為大桃園地區，須視業務需要至客戶所在地執行業務。
+(會依照個人居住地區分派鄰近之業務案，惟依客戶與業務需求，本公司仍保有指揮調派之權限)",3~5人,不拘,高中、專科、大學,電機電子工程相關/機械工程相關/電機電子維護相關,None,None,,,,0~5人應徵,121.3548951,25.0095957

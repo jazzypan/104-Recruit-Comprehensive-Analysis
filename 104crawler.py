@@ -14,6 +14,8 @@ url = input("輸入搜尋網址：")
 
 max_page = input("輸入最高頁數：")
 
+file_name = input("關鍵字：")
+
 # Find the break point in url
 for match in re.finditer(r"page=\d", url):
     #Start index of match (integer)
@@ -30,7 +32,7 @@ job_total_values = []
 company_total_values = []
 
 
-for page in tqdm(range(1,max_page+1)):
+for page in tqdm(range(1,int(max_page)+1)):
     url = url_1 + str(page) + url_2
     
     #url = f'https://www.104.com.tw/jobs/search/?ro=1&kwop=1&keyword=%E6%95%B8%E6%93%9A&expansionType=area%2Cspec%2Ccom%2Cjob%2Cwf%2Cwktm&order=1&asc=0&page={page}&mode=s&jobsource=n_my104_search'
@@ -168,7 +170,7 @@ num_dataset_file = len(dataset_files) % 2
 
 
 df_job = pd.DataFrame(job_total_values, columns = job_columns)
-df_job.to_csv(f'Dataset/job_#{num_dataset_file}_.csv', index = False)
+df_job.to_csv(f'Dataset/job_#{file_name}_.csv', index = False)
 
 df_company = pd.DataFrame(company_total_values, columns = company_columns)
-df_company.to_csv(f'Dataset/company_#{num_dataset_file}_.csv', index = False)
+df_company.to_csv(f'Dataset/company_#{file_name}_.csv', index = False)
